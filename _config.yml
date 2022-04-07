@@ -62,8 +62,8 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
+  telegram: @williamenck
+#  calendly:@yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
@@ -84,7 +84,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "es.williamquetzal.org"
+url-pretty: "williamquetzal.org/es"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
