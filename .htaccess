@@ -2,7 +2,7 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^williamquetzal.org [NC]
-RewriteRule ^(.*)$ http://www.es.williamquetzal.org/$1 [L,R=301]
+RewriteRule ^(.*)$ http://www.williamquetzal.org/es/$1 [L,R=301]
 RewriteBase /
 RewriteRule ^index.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
