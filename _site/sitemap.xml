@@ -54,7 +54,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/personalidades/</loc>
-<lastmod>2019-01-06T16:51:00-06:00</lastmod>
+<lastmod>2019-01-06T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/el-punto-de-la-ruptura-y-los-poseidos/</loc>
@@ -167,6 +167,10 @@
 <url>
 <loc>http://localhost:4000/seguir-blog/</loc>
 <lastmod>2022-01-09T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/la-experiencia-de-ananda-marga/</loc>
+<lastmod>2022-04-21T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
