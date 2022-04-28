@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seguir Blog
+title: Seguir Blog - Contactar
 author: William Enckhausen
 ---
 
