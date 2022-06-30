@@ -46,7 +46,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "williamquetzal@tutanota.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: true  # remove this line ifyou don't want to show an RSS link at the bottom
+   facebook:  williamenckhausenIII
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
