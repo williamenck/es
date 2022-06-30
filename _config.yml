@@ -47,7 +47,6 @@ round-avatar: true
 social-network-links:
   email: "williamquetzal@tutanota.com"
   rss: true  # remove this line ifyou don't want to show an RSS link at the bottom   
-  facebook:  williamenckhausenIII
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -162,7 +161,6 @@ footer-hover-col: "#0085A1"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "williamquetzal-es"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
