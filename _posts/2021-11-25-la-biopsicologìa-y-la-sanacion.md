@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Amor Infinito Y La Sanación Espiritual
+title: La Biopsycologìa Y La Sanación Espiritual
 author: William Enckhausen
 ---
 
