@@ -27,7 +27,7 @@ Según la práctica y la filosofía del yoga, el cerebro, los órganos y las gl�
 
 Aquí hay un artículo que escribí sobre cómo transmutar las adicciones en deseos más saludables con la meditación y el yoga: 
 
-### <a href="https://www.williamquetzal.org/es/placeres-habitos-adicciones-y-los-5-m/">Placeres, Hábitos, Adicciones Y Los 5 "M" del Tantra.</a>
+### <a href="https://williamenck.github.io/es/placeres-habitos-adicciones-y-los-5-m/">Placeres, Hábitos, Adicciones Y Los 5 "M" del Tantra.</a>
 
 Un amigo me escribe el otro día y me pregunta cómo puede dejar algunos hábitos mundanos que le impiden dedicarse a la meditación. Son hábitos comunes que muchas personas disfrutan, pero que los meditadores serios han dejado atrás. Entonces, si muchas otras personas han superado los hábitos de disfrutar del alcohol, el tabaco, la carne y las drogas, es ciertamente posible que cualquier otra persona con una determinación similar también pueda trascender estos hábitos. Si solo pudiéramos entender los métodos que estos meditadores usaron con éxito para dejar atrás sus hábitos y comprometerse con la práctica de la meditación, entonces podemos detectar un patrón que se puede enseñar a otros que realmente luchan por romper estos hábitos.
 
