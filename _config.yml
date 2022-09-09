@@ -16,11 +16,11 @@ author: William Enckhausen
 
 navbar-links:
  
-  English: "https://williamquetzal.github.io"
-  Autor: "https://www.williamquetzal.org/es/autor/"
-  Libros: "https://www.williamquetzal.org/es/libros/"
-  Seguir-Contactar:  "https://www.williamquetzal.org/es/seguir-blog"
-  Flauta: "https://www.williamquetzal.org/es/contemplaciones-con-el-quenacho/"
+  English: "https://https://williamenck.github.io"
+  Autor: "https://williamenck.github.io/es/autor/"
+  Libros: "https://williamenck.github.io/es/libros/"
+  Seguir-Contactar:  "https://williamenck.github.io/es/seguir-blog"
+  Flauta: "https://williamenck.github.io/es/contemplaciones-con-el-quenacho/"
   
 
   
@@ -45,7 +45,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "williamquetzal@tutanota.com"
+  email: "williamenck@zohomail.com"
   rss: true  # remove this line ifyou don't want to show an RSS link at the bottom   
 #  github: daattali
 #  twitter: daattali
@@ -85,7 +85,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "williamquetzal.org/es"
+url-pretty: "williamenck.github.io/es"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
