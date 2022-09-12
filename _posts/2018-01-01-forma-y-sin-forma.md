@@ -75,4 +75,4 @@ Sigo teniendo muchos sueños y visiones de la conciencia crística. No pienso en
 
 Uno nunca me encontraría en una iglesia o discutiendo dichos de la Biblia, pero si ser cristiano es la contemplación de la persona fundamental detrás de la miríada de expresiones humanas que está eternamente presente dentro de nosotros y en armonía con la conciencia infinita, entonces supongo que yo sería un cristiano práctico. Aunque siempre practiqué yoga y meditación, siempre encontré inspiración en los místicos cristianos como Meister Eckhart. Dos de mis artistas favoritos, J.S. Bach y Andrei Tarkovsky, eran cristianos. Para mí, los místicos y artistas cristianos dicen la misma verdad que los Upanishads o los dichos de Buda, expresiones de la religión eterna viviente.
 
-Un extracto de <a href="https://workdrive.zoho.com/file/e2y71cb97b5ec911742be82ae34d3f442b9ca">Tantra De La Luz Y La Oscuridad</a>
+Un extracto de <a href="https://williamenck.github.io/es/assets/espa%C3%B1ol/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">Tantra De La Luz Y La Oscuridad</a>
