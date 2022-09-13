@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  <title>El Tatuaje Atemporal</title>
+
+  
+  <meta name="author" content="William Enckhausen">
+  
+
+  <meta name="description" content="Stavrogin: ..... En el Apocalipsis el ángel jura que no habrá más tiempo.Kirillov: Lo sé. Es bastante cierto, se dice muy clara y exactamente. Cuando todo el hombre haya alcanzado la felicidad, no habrá ningún tiempo, porque no será necesario. Es perfectamente cierto.Stavrogin: ¿Dónde lo pondrán entonces?Kirillov: No lo pondrán...">
+
+  
+
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="William Enckhausen" href="http://localhost:4000/feed.xml">
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="William Enckhausen">
+  <meta property="og:title" content="El Tatuaje Atemporal">
+  <meta property="og:description" content="Stavrogin: ..... En el Apocalipsis el ángel jura que no habrá más tiempo.Kirillov: Lo sé. Es bastante cierto, se dice muy clara y exactamente. Cuando todo el hombre haya alcanzado la felicidad, no habrá ningún tiempo, porque no será necesario. Es perfectamente cierto.Stavrogin: ¿Dónde lo pondrán entonces?Kirillov: No lo pondrán...">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/quetzal.jpg">
+  
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:article:author" content="William Enckhausen">
+  <meta property="og:article:published_time" content="2020-05-01T16:59:00-05:00">
+  <meta property="og:url" content="http://localhost:4000/el-tatuaje-atemporal/">
+  <link rel="canonical" href="http://localhost:4000/el-tatuaje-atemporal/">
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="El Tatuaje Atemporal">
+  <meta property="twitter:description" content="Stavrogin: ..... En el Apocalipsis el ángel jura que no habrá más tiempo.Kirillov: Lo sé. Es bastante cierto, se dice muy clara y exactamente. Cuando todo el hombre haya alcanzado la felicidad, no habrá ningún tiempo, porque no será necesario. Es perfectamente cierto.Stavrogin: ¿Dónde lo pondrán entonces?Kirillov: No lo pondrán...">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/quetzal.jpg">
+  
+
+  
+
+
+  
+
+  
+
+</head>
+
+
+<body>
+
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/">William Enckhausen</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://williamquetzal.github.io">English</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/autor/">Autor</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/libros/">Libros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/seguir-blog">Seguir-Contactar</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/contemplaciones-con-el-quenacho/">Flauta</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/quetzal.jpg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Buscar">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    var searchjson = '[ \
+       \
+        { \
+          "title"    : "Gratitud Infinita", \
+          "category" : "", \
+          "url"      : "/gratitud-infinita/", \
+          "date"     : "June 24, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Fachadas", \
+          "category" : "", \
+          "url"      : "/fachadas/", \
+          "date"     : "April  8, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Seguir Blog - Contactar", \
+          "category" : "", \
+          "url"      : "/seguir-blog/", \
+          "date"     : "January  9, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Entre Dos Diablos", \
+          "category" : "", \
+          "url"      : "/entre-dos-diablos/", \
+          "date"     : "January  6, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "La Vida, La Evolución y La Microvita", \
+          "category" : "", \
+          "url"      : "/la-vida-la-evolucion-y-la-microvita/", \
+          "date"     : "December  2, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " Las Variedades de Microvita", \
+          "category" : "", \
+          "url"      : "/las-variedades-de-microvita/", \
+          "date"     : "November 27, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " El Discernimiento y la Depresión  ", \
+          "category" : "", \
+          "url"      : "/el-discernimiento-y-la-depresion/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " Nocturna", \
+          "category" : "", \
+          "url"      : "/nocturna/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Biopsycologìa Y La Sanación Espiritual", \
+          "category" : "", \
+          "url"      : "/la-biopsicolog%C3%ACa-y-la-sanacion/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Historias De Quetzal", \
+          "category" : "", \
+          "url"      : "/historias-de-quetzal/", \
+          "date"     : "October 30, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Evolución Colectiva", \
+          "category" : "", \
+          "url"      : "/la-evolucion-colectivo/", \
+          "date"     : "August 15, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Contemplaciones Con El Quenacho", \
+          "category" : "", \
+          "url"      : "/contemplaciones-con-el-quenacho/", \
+          "date"     : "June 27, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "¿Por Que Esta Maldad Está Encima? - revisado 2021", \
+          "category" : "", \
+          "url"      : "/por-que-esta-maldad-esta-encima/", \
+          "date"     : "April  1, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Evolucion De Tantra Maya", \
+          "category" : "", \
+          "url"      : "/la-evolucion-de-tantra-maya/", \
+          "date"     : "February  4, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Psorax Revisitado", \
+          "category" : "", \
+          "url"      : "/psorax-revisitado/", \
+          "date"     : "February  2, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Una Construcciòn Con El Adobe Y El Bahareque", \
+          "category" : "", \
+          "url"      : "/una-construccion-con-el-adobe/", \
+          "date"     : "January 28, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Una Esperanza Hueca", \
+          "category" : "", \
+          "url"      : "/una-esperanza-hueca/", \
+          "date"     : "January 21, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Los Matanarcos Quijotescos", \
+          "category" : "", \
+          "url"      : "/los-matanarcos-quijotescos/", \
+          "date"     : "January 13, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Basura Blanca", \
+          "category" : "", \
+          "url"      : "/basura-blanca/", \
+          "date"     : "January  8, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Taraka Brahma", \
+          "category" : "", \
+          "url"      : "/taraka-brahma/", \
+          "date"     : "December  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Tatuaje Atemporal", \
+          "category" : "", \
+          "url"      : "/el-tatuaje-atemporal/", \
+          "date"     : "May  1, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Placeres, Hábitos, Adicciones Y Los 5 &quot;M&quot; del Tantra.", \
+          "category" : "", \
+          "url"      : "/placeres-habitos-adicciones-y-los-5-m/", \
+          "date"     : "March  2, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Los Asanas, La Ética Y La Evolución", \
+          "category" : "", \
+          "url"      : "/los-asanas-la-etica-y-la-evolucion/", \
+          "date"     : "February  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Las Ranas Y Las Fugas", \
+          "category" : "", \
+          "url"      : "/las-ranas-y-las-fugas/", \
+          "date"     : "January 13, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Cactus Divino", \
+          "category" : "", \
+          "url"      : "/el-cactus-divino/", \
+          "date"     : "January  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Libros", \
+          "category" : "", \
+          "url"      : "/libros/", \
+          "date"     : "January  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Anahata - Introducción y &quot;La Esperanza Y La Preocupación&quot;", \
+          "category" : "", \
+          "url"      : "/anahata-introduccion-y-la-esperanza-y/", \
+          "date"     : "January  7, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Ayunar Con Las Fases De La Luna", \
+          "category" : "", \
+          "url"      : "/ayunar-con-las-fases-de-la-luna/", \
+          "date"     : "January  6, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Punto De Quiebre Y Los Poseídos", \
+          "category" : "", \
+          "url"      : "/el-punto-de-la-ruptura-y-los-poseidos/", \
+          "date"     : "January  8, 2019" \
+        }, \
+       \
+        { \
+          "title"    : "Una Fotografía Sin Marco", \
+          "category" : "", \
+          "url"      : "/una-fotografia-sin-marco/", \
+          "date"     : "January  4, 2019" \
+        }, \
+       \
+        { \
+          "title"    : " Las Nupcias del Sentido con el Alma", \
+          "category" : "", \
+          "url"      : "/las-nupcias-del-sentido-con-el-alma/", \
+          "date"     : "January  3, 2019" \
+        }, \
+       \
+        { \
+          "title"    : "¿Que Es Tantra Maya?", \
+          "category" : "", \
+          "url"      : "/que-es-tantra-maya/", \
+          "date"     : "February  4, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Revolución Indígena", \
+          "category" : "", \
+          "url"      : "/la-revolucion-indigena/", \
+          "date"     : "January 13, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "El Ojo Del Infinito", \
+          "category" : "", \
+          "url"      : "/el-ojo-del-infinito/", \
+          "date"     : "January 13, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "El Dogma, La Disonancia, Y La Disidencia", \
+          "category" : "", \
+          "url"      : "/el-dogma-la-disonancia-y-el-disidencia/", \
+          "date"     : "January  8, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Pseudacultura Elite", \
+          "category" : "", \
+          "url"      : "/la-pseudacultura-elite/", \
+          "date"     : "January  7, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Filosofía Perenne", \
+          "category" : "", \
+          "url"      : "/la-filosofia-perenne/", \
+          "date"     : "January  7, 2018" \
+        }, \
+       \
+        { \
+          "title"    : " La Liberación Del Deseo", \
+          "category" : "", \
+          "url"      : "/la-liberacion-del-deseo/", \
+          "date"     : "January  2, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Personalidades", \
+          "category" : "", \
+          "url"      : "/personalidades/", \
+          "date"     : "January  1, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Forma Y Sin Forma", \
+          "category" : "", \
+          "url"      : "/forma-y-sin-forma/", \
+          "date"     : "January  1, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Tantra De La Luz Y La Oscuridad", \
+          "category" : "", \
+          "url"      : "/tantra-de-la-luz-y-la-oscuridad/", \
+          "date"     : "November 29, 2017" \
+        }, \
+       \
+        { \
+          "title"    : "Ananda Marga - El Debate", \
+          "category" : "", \
+          "url"      : "/el-debate/", \
+          "date"     : "July  9, 2012" \
+        }, \
+       \
+       \
+        { \
+          "title"    : "William Enckhausen", \
+          "category" : "page", \
+          "url"      : "/autor/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "category" : "page", \
+          "url"      : "/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Tag Index", \
+          "category" : "page", \
+          "url"      : "/tags/", \
+          "date"     : "January 1, 1970" \
+        } \
+       \
+    ]';
+    searchjson = JSON.parse(searchjson);
+
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: searchjson
+    });
+  </script>
+</div>
+
+
+
+
+
+  <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>El Tatuaje Atemporal</h1>
+          
+
+          
+            <span class="post-meta">Posted on May 1, 2020</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <article role="main" class="blog-post">
+        <p><br /><br />Stavrogin: ..... En el Apocalipsis el ángel jura que no habrá más tiempo.<br /><br />Kirillov: Lo sé. Es bastante cierto, se dice muy clara y exactamente. Cuando todo el hombre haya alcanzado la felicidad, no habrá ningún tiempo, porque no será necesario. Es perfectamente cierto.<br /><br />Stavrogin: ¿Dónde lo pondrán entonces?<br /><br />Kirillov: No lo pondrán en ningún lado. El tiempo no es una cosa, es una idea. Se extinguirá en la mente.<br /><br />- Fyodor Dostoievski, "Los Poseídos"<br /><br />Estaba hablando con una amiga la semana pasada y noté un tatuaje en su tobillo. Me preguntaba cuánto tiempo lo tuvo porque nunca lo había notado antes. No tengo un tatuaje y, por lo tanto, a menudo me pregunto cómo sería según mis propias ideas. Al principio estaba un poco nervioso hasta que vi que era una imagen de buen gusto: un pequeño colibrí colorido. A veces, la visión de los tatuajes me pone nervioso cuando me pongo en la posición de otras personas con tatuajes y me pregunto si la imagen mental que proyectan en el cuerpo durará tanto como el tatuaje. ¿La obra de arte en el cuerpo refleja características duraderas de la personalidad? Incluso cuando veo lo que creo que son tatuajes de buen gusto, sigo dudando de si siempre se disfrutarán. <br /><br />Para mí, la mente es un fuego heráclito, siempre en constante cambio y consumiendo imágenes relativas casi tan rápido como surgen. Cualquier cosa nacida de la mente es impermanente. Solo el testigo de la mente, el Atman, perdura. Conociendo el Atman, uno puede aceptar su propio ser mental como un fenómeno impermanente y aún así adaptarse y ser feliz en la vida. Una conexión con el Atman guía el flujo de la mente y los conceptos mentales y las imágenes de uno mismo se transforman y fluyen a otro de manera significativa. Aunque las imágenes y los conceptos de uno mismo perduran por algún tiempo, ¿se debe tratar de proyectar una imagen en la piel? Estas, al menos, son mis ideas sobre la proyección de imágenes propias.<br /><br />La conversación continuó y lo olvidé. Hoy me mostró su tatuaje y me dijo que se lo había hecho ayer. Le pregunté si se había hecho parte de ella la semana pasada, pero solo la había terminado ayer porque ya la había visto. Ella dijo que comenzó y terminó ayer. Solo estaba pensando en eso la semana pasada.<br /><br />Uno no puede explicar tantas cosas en este universo. Para tales cosas no necesito una explicación. La consciencia macrocosmica del Atman conecta todas sus entidades microcósmicas a través del amor y el conocimiento, y de manera sorprendente y juguetona a veces. Es solo cuando reflexiono filosófica y científicamente que hay dudas y preguntas sobre mecanismos causales específicos.<br /><br />En la filosofía tántrica, cuando no se conoce una causa, se llama "liila". Liila también significa "drama divino", el mundo espiritual en el que existimos está lleno de misterios cuyas causas no podemos experimentar empíricamente. Se dice que el Atman es la primera causa, la causa de todas las causas, pero la mente intelectual no puede conocerla. Solo la percepción mística revela su existencia. La experiencia con la visión del tatuaje es divertida y juguetona, y simplemente pienso en ella como una expresión de "liila;" ¿quizás un truco cósmico juguetón para ayudarme a superar mi sutil sesgo contra los tatuajes?<br /><br />Cuando se puede conocer y experimentar una causa, se llama "kriida". "Kriida" es cuando observamos causas y efectos en los planos material y psíquico. Cuando pienso en esta experiencia y trato de analizar cómo sucedió todo, cómo conocer la "kriida," surgen todo tipo de problemas filosóficos y científicos.<br /><br />No me habría sorprendido si hubiera soñado que ella tenía un tatuaje antes de que sucediera. Tampoco me habría sorprendido si tuviera una visión interna y la viera en mi mente, si hubiera tenido una visión interna o una idea del tatuaje y hubiera sabido que lo obtendría pronto. Este tipo de eventos son más comunes y ocurren con mayor frecuencia. Normalmente, se puede distinguir entre lo que se percibe con los sentidos y cualquier idea intuitiva e interna sobre lo que se percibe. Sin embargo, creía que lo veía con mis ojos físicos sin ninguna visión psíquica especial. En ese momento era solo una percepción normal. ¿Cómo se abrió camino el futuro en mi campo de percepción? ¿Fue una percepción sutil e intuitiva en la que vi algo antes de que sucediera? ¿O todo el asunto fue solo una ilusión casual y aleatoria porque el tatuaje (todavía) no existía? <br /><br />Sin embargo, mi corazón dice que la dicha extingue el tiempo como una idea en la mente.</p><p>&nbsp;</p><p><span><a href="https://follow.it/william-quetzal-es?action=followPub">&nbsp;</a></span> <br /></p>
+      </article>
+
+      
+
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+    <a href="https://twitter.com/intent/tweet?text=El+Tatuaje+Atemporal&url=http%3A%2F%2Flocalhost%3A4000%2Fel-tatuaje-atemporal%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fel-tatuaje-atemporal%2F"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fel-tatuaje-atemporal%2F"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/placeres-habitos-adicciones-y-los-5-m/" data-toggle="tooltip" data-placement="top" title="Placeres, Hábitos, Adicciones Y Los 5 &quot;M&quot; del Tantra.">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="page-item next">
+          <a class="page-link" href="/taraka-brahma/" data-toggle="tooltip" data-placement="top" title="Taraka Brahma">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+      
+  
+  
+  
+
+  
+
+
+  
+
+
+
+    </div>
+  </div>
+</div>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="mailto:williamquetzal@tutanota.com" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://t.me/williamenck" title="Telegram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li></ul>
+
+      
+      <p class="copyright text-muted">
+      
+        William Enckhausen
+        &nbsp;&bull;&nbsp;
+      
+      2022
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">williamquetzal.org/es</a>
+        </span>
+      
+
+      
+      </p>
+      <p class="theme-by text-muted">
+       
+      
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>

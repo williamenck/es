@@ -121,4 +121,4 @@ Microvita funciona a través de los elementos sutiles. Son intermediarios entre 
 
 La postura de “la tortuga difícil” retira el prana o la energía vital de las extremidades (los órganos sensoriales y de motor) y redirige esa energía concentrada en las capas más sutiles de la mente. Lentamente, el instinto se convierte en un sentimiento elevado y los pensamientos más bajos se transforman en pensamientos espirituales. Se dice que esta postura le da a uno control sobre el mundo físico al ayudarlo a darse cuenta de que el mundo físico simplemente está hecho de pensamiento. Cambia tus pensamientos y cambiarás tu mundo.
 
-Un extracto de <a href="https://www.williamquetzal.org/es/assets/espa%C3%B1ol/libros/Microvita%20Y%20Tantra%20Maya.pdf">Microvita Y Tantra Maya</a>
+Un extracto de <a href="https://williamenck.github.io/es/assets/espa%C3%B1ol/libros/Microvita%20Y%20Tantra%20Maya.pdf">Microvita Y Tantra Maya</a>

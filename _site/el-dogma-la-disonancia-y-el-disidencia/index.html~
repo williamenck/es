@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  <title>El Dogma, La Disonancia, Y La Disidencia</title>
+
+  
+  <meta name="author" content="William Enckhausen">
+  
+
+  <meta name="description" content="Mientras que yo era estudiante de la Universidad de Texas en Austin, un grupo de muchachos borrachos de una fraternidad exclusiva empujaron un piano a través de una ventana que cayó 10 pisos y mató a 2 personas en la calle de abajo. Como si no hubiera un mejor uso...">
+
+  
+
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="William Enckhausen" href="http://localhost:4000/feed.xml">
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="William Enckhausen">
+  <meta property="og:title" content="El Dogma, La Disonancia, Y La Disidencia">
+  <meta property="og:description" content="Mientras que yo era estudiante de la Universidad de Texas en Austin, un grupo de muchachos borrachos de una fraternidad exclusiva empujaron un piano a través de una ventana que cayó 10 pisos y mató a 2 personas en la calle de abajo. Como si no hubiera un mejor uso...">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/quetzal.jpg">
+  
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:article:author" content="William Enckhausen">
+  <meta property="og:article:published_time" content="2018-01-08T16:04:00-06:00">
+  <meta property="og:url" content="http://localhost:4000/el-dogma-la-disonancia-y-el-disidencia/">
+  <link rel="canonical" href="http://localhost:4000/el-dogma-la-disonancia-y-el-disidencia/">
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="El Dogma, La Disonancia, Y La Disidencia">
+  <meta property="twitter:description" content="Mientras que yo era estudiante de la Universidad de Texas en Austin, un grupo de muchachos borrachos de una fraternidad exclusiva empujaron un piano a través de una ventana que cayó 10 pisos y mató a 2 personas en la calle de abajo. Como si no hubiera un mejor uso...">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/quetzal.jpg">
+  
+
+  
+
+
+  
+
+  
+
+</head>
+
+
+<body>
+
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/">William Enckhausen</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://williamquetzal.github.io">English</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/autor/">Autor</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/libros/">Libros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/seguir-blog">Seguir-Contactar</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/contemplaciones-con-el-quenacho/">Flauta</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/quetzal.jpg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Buscar">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    var searchjson = '[ \
+       \
+        { \
+          "title"    : "Gratitud Infinita", \
+          "category" : "", \
+          "url"      : "/gratitud-infinita/", \
+          "date"     : "June 24, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Fachadas", \
+          "category" : "", \
+          "url"      : "/fachadas/", \
+          "date"     : "April  8, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Seguir Blog - Contactar", \
+          "category" : "", \
+          "url"      : "/seguir-blog/", \
+          "date"     : "January  9, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Entre Dos Diablos", \
+          "category" : "", \
+          "url"      : "/entre-dos-diablos/", \
+          "date"     : "January  6, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "La Vida, La Evolución y La Microvita", \
+          "category" : "", \
+          "url"      : "/la-vida-la-evolucion-y-la-microvita/", \
+          "date"     : "December  2, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " Las Variedades de Microvita", \
+          "category" : "", \
+          "url"      : "/las-variedades-de-microvita/", \
+          "date"     : "November 27, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " El Discernimiento y la Depresión  ", \
+          "category" : "", \
+          "url"      : "/el-discernimiento-y-la-depresion/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " Nocturna", \
+          "category" : "", \
+          "url"      : "/nocturna/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Biopsycologìa Y La Sanación Espiritual", \
+          "category" : "", \
+          "url"      : "/la-biopsicolog%C3%ACa-y-la-sanacion/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Historias De Quetzal", \
+          "category" : "", \
+          "url"      : "/historias-de-quetzal/", \
+          "date"     : "October 30, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Evolución Colectiva", \
+          "category" : "", \
+          "url"      : "/la-evolucion-colectivo/", \
+          "date"     : "August 15, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Contemplaciones Con El Quenacho", \
+          "category" : "", \
+          "url"      : "/contemplaciones-con-el-quenacho/", \
+          "date"     : "June 27, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "¿Por Que Esta Maldad Está Encima? - revisado 2021", \
+          "category" : "", \
+          "url"      : "/por-que-esta-maldad-esta-encima/", \
+          "date"     : "April  1, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Evolucion De Tantra Maya", \
+          "category" : "", \
+          "url"      : "/la-evolucion-de-tantra-maya/", \
+          "date"     : "February  4, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Psorax Revisitado", \
+          "category" : "", \
+          "url"      : "/psorax-revisitado/", \
+          "date"     : "February  2, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Una Construcciòn Con El Adobe Y El Bahareque", \
+          "category" : "", \
+          "url"      : "/una-construccion-con-el-adobe/", \
+          "date"     : "January 28, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Una Esperanza Hueca", \
+          "category" : "", \
+          "url"      : "/una-esperanza-hueca/", \
+          "date"     : "January 21, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Los Matanarcos Quijotescos", \
+          "category" : "", \
+          "url"      : "/los-matanarcos-quijotescos/", \
+          "date"     : "January 13, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Basura Blanca", \
+          "category" : "", \
+          "url"      : "/basura-blanca/", \
+          "date"     : "January  8, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Taraka Brahma", \
+          "category" : "", \
+          "url"      : "/taraka-brahma/", \
+          "date"     : "December  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Tatuaje Atemporal", \
+          "category" : "", \
+          "url"      : "/el-tatuaje-atemporal/", \
+          "date"     : "May  1, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Placeres, Hábitos, Adicciones Y Los 5 &quot;M&quot; del Tantra.", \
+          "category" : "", \
+          "url"      : "/placeres-habitos-adicciones-y-los-5-m/", \
+          "date"     : "March  2, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Los Asanas, La Ética Y La Evolución", \
+          "category" : "", \
+          "url"      : "/los-asanas-la-etica-y-la-evolucion/", \
+          "date"     : "February  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Las Ranas Y Las Fugas", \
+          "category" : "", \
+          "url"      : "/las-ranas-y-las-fugas/", \
+          "date"     : "January 13, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Cactus Divino", \
+          "category" : "", \
+          "url"      : "/el-cactus-divino/", \
+          "date"     : "January  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Libros", \
+          "category" : "", \
+          "url"      : "/libros/", \
+          "date"     : "January  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Anahata - Introducción y &quot;La Esperanza Y La Preocupación&quot;", \
+          "category" : "", \
+          "url"      : "/anahata-introduccion-y-la-esperanza-y/", \
+          "date"     : "January  7, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Ayunar Con Las Fases De La Luna", \
+          "category" : "", \
+          "url"      : "/ayunar-con-las-fases-de-la-luna/", \
+          "date"     : "January  6, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Punto De Quiebre Y Los Poseídos", \
+          "category" : "", \
+          "url"      : "/el-punto-de-la-ruptura-y-los-poseidos/", \
+          "date"     : "January  8, 2019" \
+        }, \
+       \
+        { \
+          "title"    : "Una Fotografía Sin Marco", \
+          "category" : "", \
+          "url"      : "/una-fotografia-sin-marco/", \
+          "date"     : "January  4, 2019" \
+        }, \
+       \
+        { \
+          "title"    : " Las Nupcias del Sentido con el Alma", \
+          "category" : "", \
+          "url"      : "/las-nupcias-del-sentido-con-el-alma/", \
+          "date"     : "January  3, 2019" \
+        }, \
+       \
+        { \
+          "title"    : "¿Que Es Tantra Maya?", \
+          "category" : "", \
+          "url"      : "/que-es-tantra-maya/", \
+          "date"     : "February  4, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Revolución Indígena", \
+          "category" : "", \
+          "url"      : "/la-revolucion-indigena/", \
+          "date"     : "January 13, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "El Ojo Del Infinito", \
+          "category" : "", \
+          "url"      : "/el-ojo-del-infinito/", \
+          "date"     : "January 13, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "El Dogma, La Disonancia, Y La Disidencia", \
+          "category" : "", \
+          "url"      : "/el-dogma-la-disonancia-y-el-disidencia/", \
+          "date"     : "January  8, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Pseudacultura Elite", \
+          "category" : "", \
+          "url"      : "/la-pseudacultura-elite/", \
+          "date"     : "January  7, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Filosofía Perenne", \
+          "category" : "", \
+          "url"      : "/la-filosofia-perenne/", \
+          "date"     : "January  7, 2018" \
+        }, \
+       \
+        { \
+          "title"    : " La Liberación Del Deseo", \
+          "category" : "", \
+          "url"      : "/la-liberacion-del-deseo/", \
+          "date"     : "January  2, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Personalidades", \
+          "category" : "", \
+          "url"      : "/personalidades/", \
+          "date"     : "January  1, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Forma Y Sin Forma", \
+          "category" : "", \
+          "url"      : "/forma-y-sin-forma/", \
+          "date"     : "January  1, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Tantra De La Luz Y La Oscuridad", \
+          "category" : "", \
+          "url"      : "/tantra-de-la-luz-y-la-oscuridad/", \
+          "date"     : "November 29, 2017" \
+        }, \
+       \
+        { \
+          "title"    : "Ananda Marga - El Debate", \
+          "category" : "", \
+          "url"      : "/el-debate/", \
+          "date"     : "July  9, 2012" \
+        }, \
+       \
+       \
+        { \
+          "title"    : "William Enckhausen", \
+          "category" : "page", \
+          "url"      : "/autor/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "category" : "page", \
+          "url"      : "/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Tag Index", \
+          "category" : "page", \
+          "url"      : "/tags/", \
+          "date"     : "January 1, 1970" \
+        } \
+       \
+    ]';
+    searchjson = JSON.parse(searchjson);
+
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: searchjson
+    });
+  </script>
+</div>
+
+
+
+
+
+  <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>El Dogma, La Disonancia, Y La Disidencia</h1>
+          
+
+          
+            <span class="post-meta">Posted on January 8, 2018</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <article role="main" class="blog-post">
+        <p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-dfSaKGWamrI/YUHG8a7xG-I/AAAAAAAAAaQ/RqaBrk-dCAsrpq0tVmwcUpkMt4UJaliNACLcBGAsYHQ/s580/napalmgirl.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="387" data-original-width="580" height="214" src="https://1.bp.blogspot.com/-dfSaKGWamrI/YUHG8a7xG-I/AAAAAAAAAaQ/RqaBrk-dCAsrpq0tVmwcUpkMt4UJaliNACLcBGAsYHQ/s320/napalmgirl.jpg" width="320" /></a></div><br /><p><br /><br />Mientras que yo era estudiante de la Universidad de Texas en Austin, un grupo de muchachos borrachos de una fraternidad exclusiva empujaron un piano a través de una ventana que cayó 10 pisos y mató a 2 personas en la calle de abajo. Como si no hubiera un mejor uso para un piano de cola! Todas estas cabezas huecas se reunieron y decidieron que no eran responsables. Se culparon colectivamente a las víctimas. "¿Por qué fueron esos estúpidos caminando por las calles a las 3 de la manana?" argumentaron. <br /><br />Maravillemos de este fenómeno de la "disonancia cognitiva". La disonancia cognitiva es un estado mental que se produce cuando existe una contradicción importante en las estructuras cognitivas, habituales del ego. El ego siempre busca la coherencia con sus pensamientos y proyecciones para mantener un auto concepto centrado y coherente. Un evento de gran alcance que es diferente y contradice las proyecciones de su realidad habitual crea un estado de disonancia y la tensión interna en la mente. En lugar de ser sólo chicos superficiales y frívolos, que ahora son culpables de matar a personas inocentes. Ellos pensaban que eran buenas personas, tal vez la mejor, y ahora son vistos como criminales. Para neutralizar esta disonancia cognitiva, este estado de tensión inducida por una gran contradicción y confusión a la realidad del ego, uno tiene que inventar excusas que sirven al ego confundido y crear una historia aceptable para que uno pueda seguir pensando de la misma manera que antes para que las proyecciones de la "realidad" no se contradicen e interrumpieron. La psique defensiva y culpable debe evitar a toda costa este estado doloroso de la disonancia cognitiva. Todos somos avaros cognitivos y siempre buscamos excusas y pretextos en lugar de la compleja verdad. Si no puede encontrar una excusa, entonces uno vive en el tormento. En el caso de los chicos de la fraternidad, no pueden soportar la censura social y la culpa personal y simplemente pasan la culpa a algún "otro". Esto es, por supuesto, mucho más fácil cuando cada individuo tiene el resto del "equipo" apoyándolo.<br /><br />Esos jovenes superficiales de alta sociedad con las letras griegas eran a menudo tipos nacionalistas y patrióticos conformistas que se convierten en ciudadanos modelos y buenos líderes en los negocios y el gobierno. La irresponsabilidad de estos estudiantes refleja la realidad de la sociedad capitalista, neoliberal en general.&nbsp; Muy pocas personas en esta tierra pueden vivir con la libertad y impunidad de estos mocosos.&nbsp; Los ricos y poderosos solomente cuiden a si mismos.&nbsp; Bajo el capitalismo individualista, que cada quien vive en un mundo aislado y sólo se preocupan por nuestro propio bienestar, o tal vez sólo nuestros seres cercanos y queridos. Vivimos mayormente para cosas mundanas que facilmente nos llevan hacia el excesso y codicia.&nbsp; ¿Quién piensa en las consecuencias de este estilo de vida; la degradación ambiental, la explotación económica de otras personas en el planeta, y la degeneración generalizada del alma humana atrapada en esta jaula materialista y determinista que gran parte de nuestro mundo se ha convertido? ¿Cuántas personas están preocupados por las guerras económicas y nuestro complejo militar-industrial que socavan la democracia al sabotear las economías y los gobiernos de las naciones más débiles? ¿Tales actos crean las enfermedades psico-sociales? ¿Puede una sociedad caer en una enfermedad mental cuando desintegra casi la totalidad de los valores humanos fundamentales mediante la aceptación de mentiras como Vietnam, Afganistán o Irak? Hemos tenido que aceptar tantas contradicciones por ver que nuestra sociedad va en contra de humanismo&nbsp; y democracia pero al mismo tiempo mantener la ilusión que somos la sociedad mas humana y democrática.&nbsp; Puede ser que todo de esta confusión y contradicción a los niveles cognitivas individual y social pueden enfermarnos como individuales y como sociedad entera?&nbsp; Creo que la respuesta está evidente en todas partes.<br /><br />Quizás la mayoría de las personas son como los chicos de la fraternidad reprimidos en el interior. ¿Es una fría indiferencia o simplemente una ignorancia flagrante que ignoramos la realidad planetaria y preferimos ver la televisión, comer Big Macs, y comprar cosas extrañas para llenar nuestro vacío espiritual y existencial? ¿Quién me va a criticar si todo el mundo está viviendo de la misma manera, cada uno en nuestra propia isla? No puede ser malo si todos los demás son parte del esquema, si algún sentimiento nacional, social, o&nbsp; simple egoista se da un opiáceo para filtrar cualquier cosa que crea esta disonancia cognitiva. ¿Por qué no ir a izar la bandera un poco más alto que el de una disonancia cognitiva? O tal vez comprar algo nuevo para llenar un vacío interior? Nuestro egoísmo y la conformidad con el capitalismo solo permiten a los individuos y la sociedad para continuar su impunidad e irresponsabilidad.<br /><br />¿Cómo la mentalidad mundana y egoísta puede cambiar y asumir la responsabilidad por el daño que se está creando en todo el mundo con un biase superficial, centrado en sí mismo, que sirve nada más que los bajos apetitos? La mayoría de las personas que siguen este tipo de ideología superficial no se preocupan por lo que ocurre con las personas de otros lugares, mientres que siguen viviendo en sobreabundancia narcisista. Sus distorsiones ideológicas ocultan la cruda realidad de que tienen que matar a otros para robar los recursos naturales y explotar brutalmente la mano de obra de otros.&nbsp; Nuestro estilo de vida depredador y la ignorancia política es responsable de tanta destrucción y sufrimiento para el resto del planeta y sus habitantes. Bajo el capitalismo global, el primer mundo es el parásito de la tercera.<br /><br />En lo personal, he recibido grandes beneficios por haber nacido en los EE.UU.: una buena familia, la educación y un ambiente seguro en el que vivir. Sin embargo, cosas cambian cuando uno mira fuera de la burbuja de seguridad falsa de "El Show de Truman."&nbsp; El punto de vista cambia cuando uno desarrolla una conciencia natural, espiritual y universal.&nbsp; Con la cultura adequada y la practica de meditacion la consciencia social-espiritual se expande y uno comienza a ver e entender las cosas terribles que los políticos, los banqueros y las corporaciones están haciendo al mundo. Para que unos pocos puedan vivir en exceso desgraciado, las masas de la humanidad tienen que vivir en la miseria. Y para qué fin? La sociedad materialista moderna de los Estados Unidos está tan lleno de patologías mentales que la gente a menudo terminan sufriendo más de los oprimidos y explotados en el tercer mundo. A menudo veo más luz a los ojos de los indígenas que viven bajo techos de lamina en las montañas que en las personas de las zonas residenciales modernas donde crecí. Aunque pobre y olvidado, al menos esas personas todavía tienen un pedazo de tierra y no han sido forcadas a vivir en los barrios urbanas para ser devorados por la matriz capitalista. Todavía hay personas que son verdaderamente de esta tierra.<br /><br />Sin embargo, esta situación es una inestabilidad absurdo que no puede durar. En la actualidad existe una revolución interna dentro de los sistemas de inteligencia de muchos gobiernos en el mundo. Los denunciantes están surgiendo de detrás de tantos rincones y grietas. Hay una división entre los que sostendrían la solidaridad nacional en contra de la voluntad de las multinacionales imperialistas que se benefician de esta envergadura y perpetúan la violencia que nos hace a todos enemigos. Sobrevaloramos su conocimiento y poder. Su existencia se basa en nada más que la destrucción y la distorsión de la realidad material y social. Detrás del poder que les damos por nuestra continua aceptación de su realidad fabricada, en realidad son personas inseguras y temerosas se esconden detrás del status quo que han creado. Su único poder es que nuestras debilidades y aceptación de sus mentiras no nos han dado otras soluciones que seguir sus distorsiones, la explotación y las guerras de aniquilación. Ya sea de América, Israel, México, etc., funcionarios de inteligencia saben que es un espectáculo de mentiras flagrantes que cubren una realidad brutal y que sus estados son manipulados por los banqueros y las corporaciones multinacionales. La inteligencia es un arma de doble filo. Estas personas cuya profesión es una mentira y crear la guerra y la destrucción están en una parte profunda de su psique muy consciente de las debilidades en sus redes de mentiras. No importa qué tan enfermo y distorsionados sus mentes se han vuelto siempre hay un testigo vivo que ve a través de su juego de mentiras. No son bestias mudas, pero intelectuales degenerados. Sigue habiendo cierta porción de una inteligencia interior que les hace incómodos e inquietos.<br /><br />Si estamos hablando de la corrupción y la explotación en nuestro gobierno, religión o grupo social, la dinámica del poder y la&nbsp; manipulación mental en estas estructuras distintas comparten un terreno psicológico común. Entramos en este mundo débil y ignorantes y se requiere de mucha lucha y esfuerzo para superar estas debilidades, ya sean debilidades físicas, mentales o espirituales. Algunas personas son mas fuertes, mientras que otros son débiles, algunos son mas listos y otros son ignorantes. Los fuertes guían o controllan a los débiles. Tal es la ley de la naturaleza en todos los niveles: físico, mental y espiritual. El único problema con esta ley es cómo definimos "fuerza" y "debilidad" y cómo las personas son tratadas de acuerdo con estas definiciones. Cuando los líderes se vuelven demasiado apoderados y egoístas, que empiezan a explotar sus seguidores económicamente, socialmente e ideológicamente. Eventualmente sus dogmas, prejuicios, las políticas se vuelven completamente corrupta y van contra el bien común. Entonces comienza el proceso de manipulación que nos engañan en creer y seguir a algo que no deberíamos. Y, finalmente, la tiranía y la represión hacia todos los que resisten su hipocresía y la impunidad. Este ciclo provoca un daño incalculable a las personas y al igual que trae la muerte a los imperios. Esto es esencialmente el mismo patrón para todos los tipos de manipulación social y "spin-doctoring" si estamos hablando de la explotación de los ignorantes y débiles por los listos y fuertes en las estructuras religiosas, económicas, culturales, raciales o de clase.<br /><br />Cuando los seres humanos racionales y morales son obligados a creer en algo irracional e inmoral, que nos confundimos existencialmente y nos fragmentamos psicológicamente. Somos vencidos por la disonancia cognitiva. Nunca podemos desarrollar una imagen clara de la realidad debido a que los modelos cognitivos que adquirimos de nosotros mismos y nuestros mundos son tan a menudo muy contradictorio. Desde el punto de vista de yoga, el Aham o sensación de “yo soy” nunca puede reconciliarse con el Mahat, el puro intuición de “yo existo”, que es eterno y puro. El “yo soy” o ego está a medio camino entre los mundos interior y exterior y por eso es en parte socialmente acondicionado. Realmente no es separada del Mahat dentro, solamente las definiciones limitadas del ego lo hacen aparecer como tal. Sin cultura espiritual liberadora estamos atrapados en una definición impuesta y deformado del “yo soy”, que no nos permite ver el verdadero “yo” interior.<br /><br />Las víctimas confundidas de la disonancia cognitiva impuesto por los sacerdotes o los políticos están siempre dispuestos, en su confusión y disonancia, a recibir una historia que tenga sentido. Débil y separadas de la verdad interior, todos estamos demasiado dispuestos a creer en algún explicación. Las masas temblorosas aceptan las historias prefabricadas para que sólo contribuyen a mantener la explotación y el control mental sobre ellos. Este es el estado perfecto de control sobre un cuerpo social: les tenemos miedo, sin embargo, al mismo tiempo que buscamos su aprobación y protección. Con tanta imposición de miedo y terror, es claro porque hay solamente pocas personas que escapan a este red de maya, o delusion cósmico creado por las mentes humanas equivocados. <br /><br />La ideología materialista impone que el desarrollo mental permanezca en los peldaños inferiores de la Aham o ego, lejos de las cualidades autodeterminantes y sumamente inteligentes del Mahat o verdadero "yo" interior. Esta es una dualidad humana natural que la ideología dogmática trata de explotar por mantenernos esclavos de la materia y el mercado, en clase y color, o tal vez en algún culto con algún mesias. Llegamos a ser neuróticas individualmente y colectivamente como consecuencia de ello. Algunas personas pueden no ser lo suficientemente fuerte para protestar y tomar una posición en contra. Esto es lamentable porque los explotadores por lo general continúan en su caída hacia abajo en las acciones aún más graves y perversos que requieren aún más encubrimientos. Tal es el camino de la auto-condenación de la mentira; uno tiene que seguir mintiendo para encubrir mentiras anteriores hasta que finalmente uno está atrapado en un pantano psicótico inescapable.<br /><br />Escribí sobre unos ejemplos de injusticia y abuso de poder en una organización espiritual recientemente no sólo porque yo estoy tomando una posición dentro de tal sociedad en particular para resistir la injusticia, sino también porque la dinámica psicológica de este ejemplo es tan universal cuando examinamos la dinámica de lavar cerebros. El abuso de poder que conduce a los crímenes, lluego la conspiración para encubrir, y luego culpando a las víctimas son el camino universal de la mentira por quien sea, ya sea el estado, una iglesia, o alguna otra expresión de la sociedad humana. El resultado es más y más la degeneración con esta red de mentiras y enfermedad mental hasta llegar a la desintegración absoluta o la revolución. La sociedad espiritual de que me refiero en la escrituras recientes no debido a ser una broma, y ​​sobre todo una broma sucia. La espiritualidad debe liberar a uno de tales ataduras, y no crearlos.<br /><br />Si podemos combatir estas distorsiones humanos universales de poder y la manipulación y entender cómo funcionan, entonces habríamos dado un golpe al menos a una parte de las estructuras monstruosas de poder que los seres humanos creamos y llevamos en nuestra sistema mente-cuerpo, en nuestro ADN. Creo que si los principios de esta sociedad revolucionaria fueron efectivamente practicadas y enseñadas por los líderes, entonces estarían haciendo su parte para reducir la carga de la distorsión y la disonancia cognitiva que pesa sobre la mente colectiva de la humanidad, en lugar de añadir a la misma. Sólo mediante la búsqueda de discernimiento, el equilibrio perfecto de amor universal y la razón, seremos capaces de remediar nuestra fragilidad y falta de verdadera fe en nuestro poder inherente de la razón y el amor. Este fallo nos ha permitido a aceptar las mentiras y manipulaciones de los demás. El camino a la conciencia infinita más allá del nombre y la forma, es libremente disponible para todos, escondido en nuestra intuicion de "yo existo" o Mahat. Estas creencias deformadas fueron creados en nuestros egos débiles por enganadores espirituales; fermentaban allí porque no podíamos ver una alternativa, no podríamos concebir algo más alta, o la creencia daba una sensación falsa de seguridad. Solo en este espacio mental confuso y debil es donde el poder nos manipula por impone una estructura mental forcada.&nbsp; Nuestra razón apinaculado y la responsabilidad moral deben disolver estas estructuras mentales falsos que sólo sirven para hacernos enfermos. Como tal podemos empezar a purificar la conciencia colectiva de la humanidad.<br /><br />Para reflexionar y resonar estas mentiras de nuevo a ellos es el deber de todos los que aman la libertad y buscan un mundo mejor y más equilibrada. Los líderes juegan el juego de terror psicológico, así como el terror agresivo. ¿No deberíamos encontrar una manera más sutil e inteligente para devolver este paquete? ¿No deberíamos elevarse por encima de sus pequeños ideologías y sentimientos mezquinos con el mayor humanismo universal y usar la fuerza espiritual para reflejar su infierno de nuevo sobre ellos? Haz la mente como un láser que penetra a través de esta oscuridad para enviar esta masa de mentiras de nuevo a los autores. Esta luz interior tantrico protegerá a usted personalmente y ayudará a repeler sus ataques contra nuestra sociedad humana colectiva. Debemos aprovechar nuestras fuerzas de reserva en la parte más profunda de la mente para defenderse contra esta degeneración y la impunidad. Al final, neurosis y psicosis es el resultado natural de la mayoría de las personas que no renuncian a la trayectoria de mentiras y destrucción mientras la estructura social se colapsa. Dejar que destruyan a sí mismos en lugar de otros. Cuanto más fuerte es usted como un ser humano universal, más sus propias distorsiones caen sobre ellos. Siempre hay algo bueno que atormenta a este estado de fragmentación, enfermo de la existencia. Su debilidad está en el mismo punto que la disonancia cognitiva y la falsa conciencia. ¿Que entiende&nbsp; el capitalista astuto de las fuerzas sutiles en el universo, estos brutos que explotan y matan por materia finita, la mala ideología y de sus pequeños egos? Quizás algunos cambiarán, pero la mayoría finalmente serán devorados por su propia psicopatología debido a tal distorsión interna. Son astutos, pero una inteligencia moral más profunda nos conecta con cierto poder y el conocimiento en el universo. Ellos no conocen el poder del Tao, del dharma, el orden moral universal del universo. Una mente sin conciencia espiritual es como un barco perdido en el mar, lleno de agujeros, y se hunde lentamente.<br /><br />Los líderes y también sus seguidores también llevan la carga de la verdad a través de la mentira. Los que aceptan las mentiras populares también pagan el precio al final. A pesar de que la mayoría no son conscientes de que están trabajando para lograr en última instancia, la verdad, incluso a través de su propia degeneración. El ejemplo materialista y narcisista de la existencia con toda su patología ha dado pruebas al mundo de su insostenibilidad y su locura inevitable. Este gigante colapsar sobre sí mismo está enseñando muchas lecciones al mundo de cómo no se debe vivir.<br /><br />Durante los últimos 5 años nuestra comunidad espiritual ha estado en un estado de alerta constante. Aquí, en esta parte de México los narcos controlan el gobierno. Sus operaciones paramilitares no son más que extensiones de la maquinaria política del Narco Estado. Cada partido politico tiene un cartel preferido. A veces los narcos pelean contra los militares cuando hay cambios en la política y un cartel se favorece sobre otra a través de la política sucia de la mafia. En otras ocasiones los militares protege sus actividades atroces que se extienden mucho más allá del narcotráfico con los secuestros, la apropiación de tierras, sirviendo como matones para el alquiler como sicarios para corporativos, y la extracción de órganos humanos. Ellos hacen el trabajo sucio de la contrarrevolución que el estado no puede tomar el crédito, pero que debe su existencia continuada a ellos. Por aquí es común ver a estos vecinos invasivos moviendo alrededor con AK47 en plena luz del día. Obligan a la gente a vender sus tierras, lo que termina siendo propiedad de los políticos locales para ser vendidos a empresas para la explotación minera o de gas. Las personas que llaman a las autoridades militares para denunciar a ellos terminan muertos.<br /><br />Además de mantener la integridad espiritual interna dentro de nuestro propio ecoaldea y familia espiritual, el siguiente elemento más esencial para sobrevivir a este halocaust es organizar actividades con la comunidad local. Así que muchas personas cerca han incorporado a las actividades ilícitas de los narcos. Casi todos los hombres de la aldea local son empleados por ellos como halcones y miradores. Muchos eran ladrones y alcohólicos para empezar, y los drogas ahora fácilmente disponibles como el crack y la metanfetamina los han hecho aún más degenerados y dementes. Sin embargo, todavía hay varias familias buenas que se resisten a esta terrible situación. Nosotros tratamos de conectarnos con tantos de ellos como sea posible. Aquí meditamos con huicholes, católicos, budistas y yoguis. Estos amigos consideran cada uno de nosotros como uno de ellos, y viceversa. Este nivel de respeto sólo es posible debido a la dinámica creada por nuestra interacción. La sinergia unitivo y espiritual se está generando entonces es algo más grande que todas nuestras ideas, ya que une a nuestras ideas diversas y potencialmente divisivas. Tal vez nuestra interacción espiritual algún día ser tan natural y puro como nuestro proyecto de crear una huerta para la comunidad. Todo el mundo ama a los vegetales, o es también un dogma?<br /><br />Empecé a admirar a un grupo de cristianos fundamentalistas locales. Su comunidad es todavía fuerte y sus avivamientos revelan mucho entusiasmo. Mientras todos los demás se está desmoronando y cayendo en la desesperación, esta comunidad sigue siendo fuerte. Estas comunidades tienden a ser un poco más exclusivo; si no estás de acuerdo estrictamente sus doctrinas, a continuación, por lo general tratan de persuadirte. Siempre he evitado este tipo de sociedades, porque la jerga demasiado común de "usted debe aceptar a Jesús como su salvador personal" es siempre un golpe agresivo para la verdadera comprensión. Conozco otros cristianos sinceros, y nunca intentaron con estas manipulaciones. Ellos siempre me aceptaron como uno de los suyos, pero en espíritu en lugar de la confesión forzada. Debido a la fuerza de su dogma y la exclusividad, no hemos sido capaces de conectar con estos vecinos muy de cerca hasta ahora. Quizás esta crisis nos está ayudando a romper las barreras de creencias y prejuicios que tienen sus raíces en nuestros miedos e inseguridades como seres separados, que sufren los seres que no entienden nuestro lugar en esta creación? Como todo el mundo en este planeta, buscan un refugio seguro del caos y la desesperación. Sus oraciones recientes aquí con nosotros eran en su mayoría positiva y para el bienestar de los demás. Para centrarse en ese aspecto positivo de su práctica espiritual se espera que desviar su atención de sus tendencias para tratar de controlar y manipular a los demás. Llame Lo Jesús o Buda sin el espíritu correcto y que sólo te dan un espectáculo de payaso lleno de mentiras y escándalos. Sin embargo, algunas personas Lo llaman Jesús o Buda y ayuda a otras personas a entender verdaderamente el espíritu vivo detrás de las enseñanzas. &lt;em&gt;Advaita&lt;/em&gt; o no dualismo va más allá de todos los nombres y formas, y proclama que el nombre del espíritu únicamente se escucha en silencio y no se puede repetir o revelada excepto a través del quietetude de la visión mística. Lo que es simplemente Es.&nbsp; En última instancia no tiene sentido tratar de convencer a nadie de nada. Religión es eternamente envidiosa de la Unidad. ¿Por qué predicar lo que es Auto-evidente? Tratar de convencer a los demás es admitir la separación y es por lo general un juego de poder para el ego. La compasión es todo lo que se necesita para crear la comunidad, y es la expresión esencial que brota fuera del estado de unidad con el Infinito.<br /><br />Hay muy poco de orden moral que queda en la sociedad humana en este era final del capitalismo. El planeta está siendo devastado y está siendo forzado fuera de balance por la actividad humana. El orden social descende en&nbsp; anarquía caótico y brutal. El astuto y poderoso simplemente hacen lo que quieren y hacen leyes para justificar e implementar sus políticas para sus intereses exclusivos. Las corporaciones y los gobiernos se convierten en instituciones del crimen organizado bajo la hegemonía del sistema capitalista mundial. Corporaciones multinacionales, los bancos como la Reserva Federal y su complejo industrial militar continúan matando y/o controlando todos nosotros. Bajo el halocaust de la globalización, los supervivientes se ven obligados a vivir por la sangre y el sudor de los demás. Sin grandes mentiras y trucos psicológicos de autoengaño, muy pocas personas viven con la conciencia tranquila. El primer mundo es el parásito del tercer mundo y la legislación globalista no es más que un argumento baja para el parasitismo. ¿Cuál es la respuesta de la naturaleza a nuestras civilizaciones deslizamiento a la baja? Si todo ya es la anarquía brutal y el mundo sólo sigue a deslizarse en una mayor oscuridad y destrucción, entonces por qué no considerar una forma superior de la anarquía?<br /><br />Advaita es pura anarquía, anarquía espiritual. Ni siquiera las mejores ideas controlan la mente bajo esta filosofía, y mucho menos los gobiernos o instituciones. La idea de la unidad de espíritu en todos los seres, un "Alma Suprema" detrás de todas las mentes particulares, revela el mayor libertad interior y la felicidad. Al mismo tiempo, esta visión inspira un deber sagrado hacia la acción ética en armonía con este espíritu común. En lugar de promover y proyectar una libertad burguesa inmaduro y egoísta, la conciencia exige la verdad en todos los aspectos de la existencia. Sin la antorcha de la conciencia, la mentira y el engaño distorsionan la propia libertad y hace la existencia dualista y mundana una jaula para el alma. Congruencia con la conciencia más profunda de uno en todos los casos es la mayor defensa contra el pensamiento dualista y todas sus manifestaciones en nuestro mundo humano. La anarquía espiritual, el orden espontáneo, natural, e intuitivo y la organización derivada de un estado de caos social y existencial, tiene sus raíces en un profundo respeto por los demás seres que trasciende nombre y forma. Espiritualidad debe ser una verdadera fuerza unitiva en lugar de una división. Si bien es cierto, entonces hay frutos buenos para todos. Si falso, entonces envenena la mente de las personas y crea la desunión en el mundo. Una forma más nueva, más consciente del humanismo puede comenzar a evolucionar como Shakti, la fuerza divina de la naturaleza, molde a nosotros en una forma superior de ser. Lo que no evoluciona hacia este ideal práctico de Advaita, de esencial unidad con el infinito, se tritura en última instancia bajo las ruedas de los dioses como la madre naturaleza divina (Prakriti) reclama todas estas expresiones errantes a través de sus fuerzas destructivas y regenerativas.<br /><br />El dogmatismo y la religión tienen poco que ver con el <i>dharma</i>, lo que es el propósito "esencial" de un ser humano. Son contenedores estáticos de ideas muertas, como contenedores de basura. Dharma es una corriente ideológica de la evolución a través del pensamiento y de la acción y realmente te lleva a alguna parte y causa un gran revuelo de movimiento profundo en el alma. Dharma se refiere al estado de la libertad espiritual por el cual uno es sólo es capaz de seguir las leyes de la naturaleza y un estilo de vida espiritual. Si uno vive más por las leyes del espíritu que por el sistema, a continuación, la religión, la política y las convenciones sociales son en su mayoría mentiras y palancas débiles para mentalidades ciegos que no han encontrado su lugar en la tierra. Alienación existencial y social crean un estado de ignorancia espiritual que hacen vulnerable a las muchas trampas del pensamiento dualista. El egoísmo es para los niños. El materialismo es para los brutos y Barbies. El racismo y el imperialismo son para los neandertales. El nacionalismo no es más que una reunión de Cromags. Religión impide a la gente tener que enfrentarse a duras verdades a sí mismos, y por lo tanto dar un salto de fe tímidamente siguiendo las ideas establecidas de los demás. Anarquistas espirituales como Thoreau, Aurobindu y Tolstoi no podían ser contenidos dentro de los límites de las convenciones sociales y sucedáneos corruptos para dharma. En cambio, buscaron una unión mayor con la naturaleza y la sociedad y ofrecer algo nuevo y audaz para la humanidad. En los tiempos que corren es difícil tener fe en los "sistemas" que no brotan de un orden natural en base a la necesidad local. Visionarios espirituales siempre responden a las necesidades de sus entornos naturales y humanos y local y ofrecer una nueva visión para el mundo inspirado por el genio del dharma eterno. Estos ejemplos prácticos muestran cómo se implementan algunas grandes verdades a través de las expresiones más prácticas y humanas.<br /><br /><br /><br /></p><br />
+      </article>
+
+      
+
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+    <a href="https://twitter.com/intent/tweet?text=El+Dogma%2C+La+Disonancia%2C+Y+La+Disidencia&url=http%3A%2F%2Flocalhost%3A4000%2Fel-dogma-la-disonancia-y-el-disidencia%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fel-dogma-la-disonancia-y-el-disidencia%2F"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fel-dogma-la-disonancia-y-el-disidencia%2F"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/la-pseudacultura-elite/" data-toggle="tooltip" data-placement="top" title="La Pseudacultura Elite">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="page-item next">
+          <a class="page-link" href="/el-ojo-del-infinito/" data-toggle="tooltip" data-placement="top" title="El Ojo Del Infinito">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+      
+  
+  
+  
+
+  
+
+
+  
+
+
+
+    </div>
+  </div>
+</div>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="mailto:williamquetzal@tutanota.com" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://t.me/williamenck" title="Telegram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li></ul>
+
+      
+      <p class="copyright text-muted">
+      
+        William Enckhausen
+        &nbsp;&bull;&nbsp;
+      
+      2022
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">williamquetzal.org/es</a>
+        </span>
+      
+
+      
+      </p>
+      <p class="theme-by text-muted">
+       
+      
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>

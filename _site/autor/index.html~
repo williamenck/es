@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  <title>William Enckhausen</title>
+
+  
+  <meta name="author" content="William Enckhausen">
+  
+
+  <meta name="description" content="### El Vuelo Del Quetzal Me inicié en la tradición de Rajadhiraja Tantra Yoga cuando yo era estudiante en Austin en 1993 y recibí el nombre de Vishal. Adopté un estilo de vida vegetariano muy saludable sin drogas ni alcohol. Unos meses después, el kundalini en mi comenzó con lo...">
+
+  
+
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="William Enckhausen" href="http://localhost:4000/feed.xml">
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="William Enckhausen">
+  <meta property="og:title" content="William Enckhausen">
+  <meta property="og:description" content="### El Vuelo Del Quetzal Me inicié en la tradición de Rajadhiraja Tantra Yoga cuando yo era estudiante en Austin en 1993 y recibí el nombre de Vishal. Adopté un estilo de vida vegetariano muy saludable sin drogas ni alcohol. Unos meses después, el kundalini en mi comenzó con lo...">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/quetzal.jpg">
+  
+
+  
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:4000/autor/">
+  <link rel="canonical" href="http://localhost:4000/autor/">
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="William Enckhausen">
+  <meta property="twitter:description" content="### El Vuelo Del Quetzal Me inicié en la tradición de Rajadhiraja Tantra Yoga cuando yo era estudiante en Austin en 1993 y recibí el nombre de Vishal. Adopté un estilo de vida vegetariano muy saludable sin drogas ni alcohol. Unos meses después, el kundalini en mi comenzó con lo...">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/quetzal.jpg">
+  
+
+  
+
+
+  
+
+  
+
+</head>
+
+
+<body>
+
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/">William Enckhausen</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://williamquetzal.github.io">English</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/autor/">Autor</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/libros/">Libros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/seguir-blog">Seguir-Contactar</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/contemplaciones-con-el-quenacho/">Flauta</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/quetzal.jpg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Buscar">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    var searchjson = '[ \
+       \
+        { \
+          "title"    : "Gratitud Infinita", \
+          "category" : "", \
+          "url"      : "/gratitud-infinita/", \
+          "date"     : "June 24, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Fachadas", \
+          "category" : "", \
+          "url"      : "/fachadas/", \
+          "date"     : "April  8, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Seguir Blog - Contactar", \
+          "category" : "", \
+          "url"      : "/seguir-blog/", \
+          "date"     : "January  9, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Entre Dos Diablos", \
+          "category" : "", \
+          "url"      : "/entre-dos-diablos/", \
+          "date"     : "January  6, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "La Vida, La Evolución y La Microvita", \
+          "category" : "", \
+          "url"      : "/la-vida-la-evolucion-y-la-microvita/", \
+          "date"     : "December  2, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " Las Variedades de Microvita", \
+          "category" : "", \
+          "url"      : "/las-variedades-de-microvita/", \
+          "date"     : "November 27, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " El Discernimiento y la Depresión  ", \
+          "category" : "", \
+          "url"      : "/el-discernimiento-y-la-depresion/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " Nocturna", \
+          "category" : "", \
+          "url"      : "/nocturna/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Biopsycologìa Y La Sanación Espiritual", \
+          "category" : "", \
+          "url"      : "/la-biopsicolog%C3%ACa-y-la-sanacion/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Historias De Quetzal", \
+          "category" : "", \
+          "url"      : "/historias-de-quetzal/", \
+          "date"     : "October 30, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Evolución Colectiva", \
+          "category" : "", \
+          "url"      : "/la-evolucion-colectivo/", \
+          "date"     : "August 15, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Contemplaciones Con El Quenacho", \
+          "category" : "", \
+          "url"      : "/contemplaciones-con-el-quenacho/", \
+          "date"     : "June 27, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "¿Por Que Esta Maldad Está Encima? - revisado 2021", \
+          "category" : "", \
+          "url"      : "/por-que-esta-maldad-esta-encima/", \
+          "date"     : "April  1, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Evolucion De Tantra Maya", \
+          "category" : "", \
+          "url"      : "/la-evolucion-de-tantra-maya/", \
+          "date"     : "February  4, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Psorax Revisitado", \
+          "category" : "", \
+          "url"      : "/psorax-revisitado/", \
+          "date"     : "February  2, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Una Construcciòn Con El Adobe Y El Bahareque", \
+          "category" : "", \
+          "url"      : "/una-construccion-con-el-adobe/", \
+          "date"     : "January 28, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Una Esperanza Hueca", \
+          "category" : "", \
+          "url"      : "/una-esperanza-hueca/", \
+          "date"     : "January 21, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Los Matanarcos Quijotescos", \
+          "category" : "", \
+          "url"      : "/los-matanarcos-quijotescos/", \
+          "date"     : "January 13, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Basura Blanca", \
+          "category" : "", \
+          "url"      : "/basura-blanca/", \
+          "date"     : "January  8, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Taraka Brahma", \
+          "category" : "", \
+          "url"      : "/taraka-brahma/", \
+          "date"     : "December  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Tatuaje Atemporal", \
+          "category" : "", \
+          "url"      : "/el-tatuaje-atemporal/", \
+          "date"     : "May  1, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Placeres, Hábitos, Adicciones Y Los 5 &quot;M&quot; del Tantra.", \
+          "category" : "", \
+          "url"      : "/placeres-habitos-adicciones-y-los-5-m/", \
+          "date"     : "March  2, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Los Asanas, La Ética Y La Evolución", \
+          "category" : "", \
+          "url"      : "/los-asanas-la-etica-y-la-evolucion/", \
+          "date"     : "February  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Las Ranas Y Las Fugas", \
+          "category" : "", \
+          "url"      : "/las-ranas-y-las-fugas/", \
+          "date"     : "January 13, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Cactus Divino", \
+          "category" : "", \
+          "url"      : "/el-cactus-divino/", \
+          "date"     : "January  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Libros", \
+          "category" : "", \
+          "url"      : "/libros/", \
+          "date"     : "January  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Anahata - Introducción y &quot;La Esperanza Y La Preocupación&quot;", \
+          "category" : "", \
+          "url"      : "/anahata-introduccion-y-la-esperanza-y/", \
+          "date"     : "January  7, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Ayunar Con Las Fases De La Luna", \
+          "category" : "", \
+          "url"      : "/ayunar-con-las-fases-de-la-luna/", \
+          "date"     : "January  6, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Punto De Quiebre Y Los Poseídos", \
+          "category" : "", \
+          "url"      : "/el-punto-de-la-ruptura-y-los-poseidos/", \
+          "date"     : "January  8, 2019" \
+        }, \
+       \
+        { \
+          "title"    : "Una Fotografía Sin Marco", \
+          "category" : "", \
+          "url"      : "/una-fotografia-sin-marco/", \
+          "date"     : "January  4, 2019" \
+        }, \
+       \
+        { \
+          "title"    : " Las Nupcias del Sentido con el Alma", \
+          "category" : "", \
+          "url"      : "/las-nupcias-del-sentido-con-el-alma/", \
+          "date"     : "January  3, 2019" \
+        }, \
+       \
+        { \
+          "title"    : "¿Que Es Tantra Maya?", \
+          "category" : "", \
+          "url"      : "/que-es-tantra-maya/", \
+          "date"     : "February  4, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Revolución Indígena", \
+          "category" : "", \
+          "url"      : "/la-revolucion-indigena/", \
+          "date"     : "January 13, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "El Ojo Del Infinito", \
+          "category" : "", \
+          "url"      : "/el-ojo-del-infinito/", \
+          "date"     : "January 13, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "El Dogma, La Disonancia, Y La Disidencia", \
+          "category" : "", \
+          "url"      : "/el-dogma-la-disonancia-y-el-disidencia/", \
+          "date"     : "January  8, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Pseudacultura Elite", \
+          "category" : "", \
+          "url"      : "/la-pseudacultura-elite/", \
+          "date"     : "January  7, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Filosofía Perenne", \
+          "category" : "", \
+          "url"      : "/la-filosofia-perenne/", \
+          "date"     : "January  7, 2018" \
+        }, \
+       \
+        { \
+          "title"    : " La Liberación Del Deseo", \
+          "category" : "", \
+          "url"      : "/la-liberacion-del-deseo/", \
+          "date"     : "January  2, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Personalidades", \
+          "category" : "", \
+          "url"      : "/personalidades/", \
+          "date"     : "January  1, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Forma Y Sin Forma", \
+          "category" : "", \
+          "url"      : "/forma-y-sin-forma/", \
+          "date"     : "January  1, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Tantra De La Luz Y La Oscuridad", \
+          "category" : "", \
+          "url"      : "/tantra-de-la-luz-y-la-oscuridad/", \
+          "date"     : "November 29, 2017" \
+        }, \
+       \
+        { \
+          "title"    : "Ananda Marga - El Debate", \
+          "category" : "", \
+          "url"      : "/el-debate/", \
+          "date"     : "July  9, 2012" \
+        }, \
+       \
+       \
+        { \
+          "title"    : "William Enckhausen", \
+          "category" : "page", \
+          "url"      : "/autor/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "category" : "page", \
+          "url"      : "/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Tag Index", \
+          "category" : "page", \
+          "url"      : "/tags/", \
+          "date"     : "January 1, 1970" \
+        } \
+       \
+    ]';
+    searchjson = JSON.parse(searchjson);
+
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: searchjson
+    });
+  </script>
+</div>
+
+
+
+
+
+  <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>William Enckhausen</h1>
+          
+
+          
+            <span class="post-meta">Posted on </span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <article role="main" class="blog-post">
+        <h3 id="el-vuelo-del-quetzal">El Vuelo Del Quetzal</h3>
+
+<p>Me inicié en la tradición de Rajadhiraja Tantra Yoga cuando yo era estudiante en Austin en 1993 y recibí el nombre de Vishal. Adopté un estilo de vida vegetariano muy saludable sin drogas ni alcohol. Unos meses después, el kundalini en mi comenzó con lo que sería un despertar muy largo e intenso. Como un estudiante de psicología y literatura mundial, había oído hablar del kundalini y otras energías místicas pero nunca había pensado que fueran fuerzas reales y vivas. Pensé que era sólo simbolismo interesante arcaico, y no una fuerza real en el cuerpo humano que se eleva a través de la columna vertebral para despertar estados superiores de conciencia. El símbolo universal de esta fuerza es la serpiente. Se dice que es una fuerza secreta, espiritual, bajo la superficie de la conciencia, como una serpiente enroscada. El kundalini es la inteligencia fundamental detrás de la vida y la evolución, a la espera de ser despertada cuando la mente finalmente desea liberarse de las ataduras mentales finitas. Como este “poder de la serpiente” divino se eleva a través de la columna vertebral, uno experimenta estados de realización espiritual profunda. Para el yogui, el kundalini es la fuerza que une lo humano con lo divino.</p>
+
+<p>Un día después de clases y una breve meditación, en la que yo era simplemente un principiante, me acosté en la espalda debido al agotamiento. Sentí una fuerza suave comenzando a subir por mi columna vertebral. Mientras este punto de energía blanca y suave se levantaba en la región torácica de la columna vertebral, comencé a escuchar el sonido sagrado OM. Sentí miedo porque sólo había Om y nada más. Abrí los ojos, pero no podía ver nada. Mi facultades de la vista y el oído se unificaron y sólo existían Om. Yo me estaba disolviendo en una fuerza que estaba vibrando dentro de cada partícula del universo. Fue extático y estimulante pero aterrador. Sentí toda mi identidad desapareciendo y sentí que no regresaría jamás. El kundalini estaba entrando en la médula. Empecé a repetir mi mantra para la meditación, pero esto sólo hizo la experiencia más intensa. En lugar de ello, empecé a repetir mi nombre de nacimiento, William Ernest Enckhausen III, repetidamente y trataba de recordar que yo era un estudiante en Austin, Texas, en el plano físico de la realidad. El kundalini comenzó a volver a bajar a la vez que el Om disminuía. Yo no podía aguantar más.</p>
+
+<p>Después de esa experiencia me sentí muy confiado, pero al mismo tiempo experimenté un montón de confusión mental. Fue una agitación muy productiva en que los recuerdos negativos de todo mi pasado estaban siendo purgados y purificados rápidamente. Empecé a sentirme completamente pleno, que ya había vivido una vida muy completa. La segunda vez que el Kundalini se levantó fue unos meses más tarde. Yo vi la misma luz en mi columna vertebral, aunque esta vez se trataba de un punto infinitamente pequeño. La realidad física desapareció y empecé a “ver” desde la corona de la cabeza un pájaro turquesa volar cada vez más cerca, mientras el punto subía más y más alto. El ave se posó en la corona de mi cabeza al mismo tiempo que el punto se levantó al mismo lugar. El cielo y la tierra se habían reunido y yo estaba perdido en una red infinita de vibración de sonido en el que ya no se podía ver incluso esta visión hermosa. Mi último pensamiento antes de perder la conciencia fue que no sólo el mundo exterior, sino también el mundo interior de la visión, eran de formas que parecían Mesoamericanas. Sólo años más tarde aprendí del concepto maya de kundalini, lo que ellos llaman Kulkukan, la Serpiente Emplumada. Fue hasta muchos años más tarde que me enteré de unas formas de meditaciones mayas muy similares al Tantra indio, de un maestro indígena de Chiapas, quien recientemente murió a la edad de 110 años. Lluego, empecé a usar “Quetzal” como nombre de pluma.</p>
+
+<p><img src="/assets/img/quetzal.jpg" alt="Not found" /></p>
+
+<p>Esta misma imagen era llamada Quetzalcóatl por los toltecas. Una versión de la imagen de Quetzalcóatl está en la bandera nacional de México hoy en día. El pájaro azul turquesa que vi fue en realidad un quetzal, un pájaro colorido hermoso que habita en México y América Central.</p>
+
+<p>Después de esto me convertí en un excéntrico. Perdí todo interés en una carrera, el matrimonio y en una vida “normal”. Apenas me gradué de la universidad y me fui a la India en busca de más conocimiento. Allí conocí a Chidghananda, un monje viejo, solitario, muy venerado en su orden. Era considerado un santo, y me sentí muy honrado de que me aceptara como amigo. A veces yo lo acompañaba con sus meditaciones en las tardes. Él siempre escuchaba el sonido sagrado OM y en ese tiempo aumentó en su meditación. Era obvio que él experimentaba ananda regularmente, la bienaventuranza divina. Él era realmente uno de los seres humanos más amorosos que yo había conocido. Mis experiencias se habían intensificado cerca de él en Ananda Nagar y era la voluntad divina que yo hubiera conocido a un maestro como el para guiarme a través de esos procesos difíciles. En ese momento yo quería ser un monje, pero Chidghananda me dijo que yo era un poco raro y no encajaría bien en la organización monástica. Él dijo que mi trabajo espiritual se acercaba a su fin, y que en realidad no tenía que hacer cualquier otra cosa con mi vida más que meditar, vivir con sencillez, y ayudar a los demás tanto como pudiera. Aunque fue criticado fuertemente por su influencia sobre mí, él siguió a su conciencia y sólo me hablaba con la verdad. Aunque estuve muy confundido en qué hacer con mi vida una vez que el ideal de ser un monje se hubo desvaneciendo, fui ayudado por un sueño en el que Anandamurti me ordenó que no me preocupara por ser un monje, sino sólo por “ver el mundo como una foto sin marco y pasear por la noche.” Anandamurti siempre me ha hablado a través de los sueños en una manera poética y elevada. Más tarde, como una confirmación, él me dijo en otro sueño vívido que “lo único que importa es hacer “dhyana dasha.” Él usó esas palabras en sánscrito, una de las cuales yo no conocía hasta que un amigo la buscó en un diccionario sánscrito. Lo que Anandamurti dijo era: “lo único que importa es hacer servicio a través de la meditación.” A menudo estaba inseguro si en esos sueños en verdad me comuniqué con el espíritu de Anandamurti, o si Anandamurti se había convertido en un mero símbolo en mi conciencia que había penetrado mis sueños. De cualquier manera, estos sueños siempre tenían muchosentido para mí e iluminaron situaciones difíciles. Si fueron mis propias proyecciones, entonces vinieron de las partes más profundas, más intuitivas de mí que nunca me han guiado mal.</p>
+
+<p><img src="/assets/img/chandranath.jpg" alt="Not found" /></p>
+
+<p>Fue poco después que conocí a Chandranath y a su esposa, Ram Pari Devii. Ellos fueron algunos de los primeros iniciados y maestros espirituales, o acharyas, instruidos personalmente por Anandamurti en la década de 1950. Eran, sin duda, los seres espirituales más elevados que jamás he conocido. Todo el entorno que les rodeaba era una bendición. Incluso sus empleados como el cocinero y el jardinero se habían convertido en yoguis altamente desarrollados. Hablar con Chandranath eliminó las dudas que yo tenía acerca de mi meditación y él me dijo que la intensidad se calmaría con el tiempo. Me dio consejos invaluables sobre las sutilezas místicas de la práctica espiritual y me dejó con una sensación profunda de paz divina que todavía siento cada vez que recuerdo estar en su presencia. Tanto él como su esposa se ​​establecieron en la práctica de samadhi (unión experiencial con la Conciencia Suprema) y podrían entrar en él a voluntad. Eran almas libres y realizadas, cuya sólo razón para todavía estar encarnadas físicamente era ayudar a otros a avanzar en el camino. Después de reunirme con ellos me di cuenta de que más importante que ser un monje o cabeza de familia, era simplemente el tratar de ser uno con la Conciencia Suprema, en todo momento, como ellos.</p>
+
+<p>Cuando me senté junto a Chandranath y traté de escucharlo hablar de la Conciencia Suprema, no pude entender ni una palabra de lo que dijo. Me tomó en sí mismo y solo hubo silencio y un suave. resplandor blanco. Todavía trato de recordar esa experiencia y me quedo tan quieto, olvido incluso respirar, y todavía hay solo silencio y un brillo suave y blanco.</p>
+
+<p>Personas como Chandranath han dado un ejemplo práctico de cómo un yogui realizado puede vivir en el mundo. Parece milagroso, quizás incluso absurdo, que la mente humana pueda unirse con la Conciencia Suprema. Verdaderamente podemos decir “Yo soy Esto” desde la parte más sincera y completa de nuestro ser. Sin embargo, parece aún más milagrosa la gracia benévola que emana de un ser tan realizado y su capacidad de transformar a los demás. Me parecía un hombre tan sencillo y puro y nunca sentí que me pidiera nada; solo se entregó de todo corazón a cualquiera que busque orientación. Para un yogui que practica samadhi regularmente, una expresión tan consciente y humana como Chandranath es la creación más natural y simple de la Conciencia Suprema. Cuando la mente microcósmica se disuelve en la Conciencia Suprema, realmente no hay ego, ni siquiera sentimiento de yo, que lo ate a uno al plano relativo. Muchos yoguis abandonan sus cuerpos después de tales experiencias. Otros, como Chandranath, regresaron misteriosamente al plano relativo de la existencia terrenal y continuaron sirviendo a los demás. Pienso que cuando uno entra en el estado sin aliento de samadhi y se disuelve completamente en la Conciencia Suprema, entonces es sólo Consciencia Suprema que puede devolver el aliento a este yogui unificado. Si no fuera por personas como Chandranath, su esposa y Chidghananda, quienes realmente establecieron un ideal tan práctico, probablemente habría pensado que tales seres existieron solo en el pasado lejano, en leyendas, y que el mundo moderno ya no es habitable para yoguis avanzados. De las formas más místicas y sutiles, personas como Chandranath dejan una huella imperecedera en las personas a las que afectan y, por lo tanto, dejan su marca en la conciencia colectiva de la humanidad en su conjunto.</p>
+
+<p>Este es una obra en el que escribo sobre experiencias místicas subjetivas en el contexto de la ciencia espiritual tántrica. La experiencia prueba la teoría y he descubierto que el Tantra es una ciencia espiritual universal que brota por todo el mundo, no sólo en India, Tíbet y China, sino también en Mesoamérica. ¿Quién sabe en qué otro lugar del mundo existen rastros de esta ciencia espiritual secreta? La mayor parte de mi inspiración inicial se debió a la influencia espiritual de Anandamurti y algunos de sus discípulos, como Chidghananda y Chandranath. Quetzal Manik, o “Pluma Blanca”, fue un maestro maya cuyas prácticas de “Tantra Maya” que más tarde encontré solo profundizaron mi comprensión del Tantra indio que había estado practicando durante años.</p>
+
+<p>Un extracto de <a href="https://www.williamquetzal.org/es/assets/espa%C3%B1ol/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">Tantra De La Luz Y La Oscuridad</a></p>
+
+
+      </article>
+
+      
+
+      
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        
+      </ul>
+      
+
+    </div>
+  </div>
+</div>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="mailto:williamquetzal@tutanota.com" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://t.me/williamenck" title="Telegram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li></ul>
+
+      
+      <p class="copyright text-muted">
+      
+        William Enckhausen
+        &nbsp;&bull;&nbsp;
+      
+      2022
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">williamquetzal.org/es</a>
+        </span>
+      
+
+      
+      </p>
+      <p class="theme-by text-muted">
+       
+      
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  <title>Personalidades</title>
+
+  
+  <meta name="author" content="William Enckhausen">
+  
+
+  <meta name="description" content="Antes de la tragedia de La Caìda De Las Armas En Purulia pasé mi tiempo meditando y leyendo los libros de Anandamurti, entre otros libros de yoga mientras que yo estuve en Ananda Nagar, India. Yo era el primer estudiante en el proyecto de investigación tántrica en Ananda Nagar y...">
+
+  
+
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="William Enckhausen" href="http://localhost:4000/feed.xml">
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="William Enckhausen">
+  <meta property="og:title" content="Personalidades">
+  <meta property="og:description" content="Antes de la tragedia de La Caìda De Las Armas En Purulia pasé mi tiempo meditando y leyendo los libros de Anandamurti, entre otros libros de yoga mientras que yo estuve en Ananda Nagar, India. Yo era el primer estudiante en el proyecto de investigación tántrica en Ananda Nagar y...">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/chidghananda.jpg">
+  
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:article:author" content="William Enckhausen">
+  <meta property="og:article:published_time" content="2018-01-01T00:00:00-06:00">
+  <meta property="og:url" content="http://localhost:4000/personalidades/">
+  <link rel="canonical" href="http://localhost:4000/personalidades/">
+  
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="Personalidades">
+  <meta property="twitter:description" content="Antes de la tragedia de La Caìda De Las Armas En Purulia pasé mi tiempo meditando y leyendo los libros de Anandamurti, entre otros libros de yoga mientras que yo estuve en Ananda Nagar, India. Yo era el primer estudiante en el proyecto de investigación tántrica en Ananda Nagar y...">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/chidghananda.jpg">
+  
+
+  
+
+
+  
+
+  
+
+</head>
+
+
+<body>
+
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/">William Enckhausen</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://williamquetzal.github.io">English</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/autor/">Autor</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/libros/">Libros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/seguir-blog">Seguir-Contactar</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.williamquetzal.org/es/contemplaciones-con-el-quenacho/">Flauta</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/quetzal.jpg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Buscar">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    var searchjson = '[ \
+       \
+        { \
+          "title"    : "Gratitud Infinita", \
+          "category" : "", \
+          "url"      : "/gratitud-infinita/", \
+          "date"     : "June 24, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Fachadas", \
+          "category" : "", \
+          "url"      : "/fachadas/", \
+          "date"     : "April  8, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Seguir Blog - Contactar", \
+          "category" : "", \
+          "url"      : "/seguir-blog/", \
+          "date"     : "January  9, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Entre Dos Diablos", \
+          "category" : "", \
+          "url"      : "/entre-dos-diablos/", \
+          "date"     : "January  6, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "La Vida, La Evolución y La Microvita", \
+          "category" : "", \
+          "url"      : "/la-vida-la-evolucion-y-la-microvita/", \
+          "date"     : "December  2, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " Las Variedades de Microvita", \
+          "category" : "", \
+          "url"      : "/las-variedades-de-microvita/", \
+          "date"     : "November 27, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " El Discernimiento y la Depresión  ", \
+          "category" : "", \
+          "url"      : "/el-discernimiento-y-la-depresion/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : " Nocturna", \
+          "category" : "", \
+          "url"      : "/nocturna/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Biopsycologìa Y La Sanación Espiritual", \
+          "category" : "", \
+          "url"      : "/la-biopsicolog%C3%ACa-y-la-sanacion/", \
+          "date"     : "November 25, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Historias De Quetzal", \
+          "category" : "", \
+          "url"      : "/historias-de-quetzal/", \
+          "date"     : "October 30, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Evolución Colectiva", \
+          "category" : "", \
+          "url"      : "/la-evolucion-colectivo/", \
+          "date"     : "August 15, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Contemplaciones Con El Quenacho", \
+          "category" : "", \
+          "url"      : "/contemplaciones-con-el-quenacho/", \
+          "date"     : "June 27, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "¿Por Que Esta Maldad Está Encima? - revisado 2021", \
+          "category" : "", \
+          "url"      : "/por-que-esta-maldad-esta-encima/", \
+          "date"     : "April  1, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Evolucion De Tantra Maya", \
+          "category" : "", \
+          "url"      : "/la-evolucion-de-tantra-maya/", \
+          "date"     : "February  4, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Psorax Revisitado", \
+          "category" : "", \
+          "url"      : "/psorax-revisitado/", \
+          "date"     : "February  2, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Una Construcciòn Con El Adobe Y El Bahareque", \
+          "category" : "", \
+          "url"      : "/una-construccion-con-el-adobe/", \
+          "date"     : "January 28, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Una Esperanza Hueca", \
+          "category" : "", \
+          "url"      : "/una-esperanza-hueca/", \
+          "date"     : "January 21, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Los Matanarcos Quijotescos", \
+          "category" : "", \
+          "url"      : "/los-matanarcos-quijotescos/", \
+          "date"     : "January 13, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "La Basura Blanca", \
+          "category" : "", \
+          "url"      : "/basura-blanca/", \
+          "date"     : "January  8, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Taraka Brahma", \
+          "category" : "", \
+          "url"      : "/taraka-brahma/", \
+          "date"     : "December  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Tatuaje Atemporal", \
+          "category" : "", \
+          "url"      : "/el-tatuaje-atemporal/", \
+          "date"     : "May  1, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Placeres, Hábitos, Adicciones Y Los 5 &quot;M&quot; del Tantra.", \
+          "category" : "", \
+          "url"      : "/placeres-habitos-adicciones-y-los-5-m/", \
+          "date"     : "March  2, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Los Asanas, La Ética Y La Evolución", \
+          "category" : "", \
+          "url"      : "/los-asanas-la-etica-y-la-evolucion/", \
+          "date"     : "February  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Las Ranas Y Las Fugas", \
+          "category" : "", \
+          "url"      : "/las-ranas-y-las-fugas/", \
+          "date"     : "January 13, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Cactus Divino", \
+          "category" : "", \
+          "url"      : "/el-cactus-divino/", \
+          "date"     : "January  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Libros", \
+          "category" : "", \
+          "url"      : "/libros/", \
+          "date"     : "January  8, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Anahata - Introducción y &quot;La Esperanza Y La Preocupación&quot;", \
+          "category" : "", \
+          "url"      : "/anahata-introduccion-y-la-esperanza-y/", \
+          "date"     : "January  7, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Ayunar Con Las Fases De La Luna", \
+          "category" : "", \
+          "url"      : "/ayunar-con-las-fases-de-la-luna/", \
+          "date"     : "January  6, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "El Punto De Quiebre Y Los Poseídos", \
+          "category" : "", \
+          "url"      : "/el-punto-de-la-ruptura-y-los-poseidos/", \
+          "date"     : "January  8, 2019" \
+        }, \
+       \
+        { \
+          "title"    : "Una Fotografía Sin Marco", \
+          "category" : "", \
+          "url"      : "/una-fotografia-sin-marco/", \
+          "date"     : "January  4, 2019" \
+        }, \
+       \
+        { \
+          "title"    : " Las Nupcias del Sentido con el Alma", \
+          "category" : "", \
+          "url"      : "/las-nupcias-del-sentido-con-el-alma/", \
+          "date"     : "January  3, 2019" \
+        }, \
+       \
+        { \
+          "title"    : "¿Que Es Tantra Maya?", \
+          "category" : "", \
+          "url"      : "/que-es-tantra-maya/", \
+          "date"     : "February  4, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Revolución Indígena", \
+          "category" : "", \
+          "url"      : "/la-revolucion-indigena/", \
+          "date"     : "January 13, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "El Ojo Del Infinito", \
+          "category" : "", \
+          "url"      : "/el-ojo-del-infinito/", \
+          "date"     : "January 13, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "El Dogma, La Disonancia, Y La Disidencia", \
+          "category" : "", \
+          "url"      : "/el-dogma-la-disonancia-y-el-disidencia/", \
+          "date"     : "January  8, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Pseudacultura Elite", \
+          "category" : "", \
+          "url"      : "/la-pseudacultura-elite/", \
+          "date"     : "January  7, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "La Filosofía Perenne", \
+          "category" : "", \
+          "url"      : "/la-filosofia-perenne/", \
+          "date"     : "January  7, 2018" \
+        }, \
+       \
+        { \
+          "title"    : " La Liberación Del Deseo", \
+          "category" : "", \
+          "url"      : "/la-liberacion-del-deseo/", \
+          "date"     : "January  2, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Personalidades", \
+          "category" : "", \
+          "url"      : "/personalidades/", \
+          "date"     : "January  1, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Forma Y Sin Forma", \
+          "category" : "", \
+          "url"      : "/forma-y-sin-forma/", \
+          "date"     : "January  1, 2018" \
+        }, \
+       \
+        { \
+          "title"    : "Tantra De La Luz Y La Oscuridad", \
+          "category" : "", \
+          "url"      : "/tantra-de-la-luz-y-la-oscuridad/", \
+          "date"     : "November 29, 2017" \
+        }, \
+       \
+        { \
+          "title"    : "Ananda Marga - El Debate", \
+          "category" : "", \
+          "url"      : "/el-debate/", \
+          "date"     : "July  9, 2012" \
+        }, \
+       \
+       \
+        { \
+          "title"    : "William Enckhausen", \
+          "category" : "page", \
+          "url"      : "/autor/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "category" : "page", \
+          "url"      : "/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Tag Index", \
+          "category" : "page", \
+          "url"      : "/tags/", \
+          "date"     : "January 1, 1970" \
+        } \
+       \
+    ]';
+    searchjson = JSON.parse(searchjson);
+
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: searchjson
+    });
+  </script>
+</div>
+
+
+
+
+
+  <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>Personalidades</h1>
+          
+
+          
+            <span class="post-meta">Posted on January 1, 2018</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <article role="main" class="blog-post">
+        <p>Antes de la tragedia de La Caìda De Las Armas En Purulia pasé mi tiempo meditando y leyendo los libros de Anandamurti, entre otros libros de yoga mientras que yo estuve en Ananda Nagar, India. Yo era el primer estudiante en el proyecto de investigación tántrica en Ananda Nagar y vivía cerca de Chidghananda.</p>
+
+<p>Aprendí bajo dos maestros, Samanvayananda y Chidghananda. Samanvayananda era realmente un mago. Él demostró abiertamente todo tipo de poderes ocultos. Quería que la gente entendiera la inteligencia y el poder superiores de la mente y porque sabía tantos secretos que siempre les estaba mostrando. Más tarde, Anandamurti descubriría que su discípulo estaba abusando de los poderes ocultos y luego lo golpearía con un palo. Más tarde, Samanvayanda aprendería un nuevo truco y comenzaría a mostrarlo y luego sería golpeado nuevamente. Escribiré más sobre mi relación con él más adelante. Fue controvertido, pero su amigo Chidghananda era más un sabio. Realmente no parecía tener ninguna vanidad. Pasó mucho tiempo solo, pero realmente amaba a las personas y siempre estaba interactuando con personas que venían a verlo. La gente siempre tuvo la impresión de que podía ver a través de ellos y darles consejos basados ​​en su intuición, incluso sin participar en diálogos y revelaciones psicológicas.</p>
+
+<p>Estaba leyendo los sutras de yoga de Patainjali un día en Ananda Nagar. En uno de los capítulos posteriores, Patainjali habla sobre cómo los yoguis avanzados se conectan con fuerzas espirituales superiores que ayudan a dividir la personalidad en componentes separados para que el yogi pueda terminar sus samskaras, o reacciones kármicas más rápidamente. Sonaba como un trastorno de personalidad múltiple, pero Patainjali hablaba de él como una práctica muy avanzada y sutil de conectarse con las estructuras fundamentales de la personalidad. ¿Podría ser esto una comprensión ilustrada de la “Mesa Redonda Gestalt” en la que uno comienza a dialogar con los diferentes aspectos de la pesonalidad ?, me pregunté. Es una técnica psicoterapéutica en la que se reúnen todas las personalidades internas en una mesa redonda imaginaria para que todos puedan comunicarse. Por ejemplo, en un diálogo imaginario, la parte enojada de la persona expresa su visión, y luego la parte insegura y luego la parte fuerte. En lugar de tener voluntades separadas que compitan por el control del ego, el terapeuta guía el diálogo para que las partes fragmentadas de la personalidad empiecen a entenderse y sintetizarse en un ser integrado.</p>
+
+<p>La idea de la terapia Gestalt me ​​ayudó a orientarme a esta idea de Patainjali. Mientras discutía esta idea con Chidghananda sobre la psicología de la Gestalt, comenzó a decir que una mente iluminada o casi iluminada ha integrado las partes dispares de la personalidad. Están más allá de la duplicidad y las incongruencias de la mente inferior. En cambio, las partes iluminadas de sus personalidades llegan a la plena expresión. Dada explicó que cierta inteligencia microvita se conecta con cada parte de la persona y el yogui usa su propia personalidad como un vehículo para expresar estos aspectos profundos de la personalidad. Explicó cómo Anandamurti podía ser tan dulce y amoroso y curaría a las personas espiritualmente. En otras ocasiones fue el maestro de tareas y el líder social que tuvo que mantener todo en orden. Podía ser como una madre, así como un general de 5 estrellas, y tenía plena confianza en todos los diversos aspectos de su ser integrado. También explicó cómo el guru tendría ciertos estados de ánimo que expresó, cada uno de acuerdo con las situaciones y las personas que estaba guiando, y cada uno con un poder transformador muy especial. Siempre tomaba los samskaras de sus discípulos y usaba las diferentes partes de su personalidad para hacer esto. La explicación de Chidhananda fue mucho más allá que la de que Patainjali mencionó. Patainjali estaba hablando de cómo un ser casi liberado usa esta técnica para lograr la liberación de todos los samskaras. Chidghananda estaba explicando cómo Anandamurti completó este proceso y, en lugar de terminar con sus propios samskaras, se comprometió con otros seres para ayudarlos a evolucionar a los samskaras que los atan.</p>
+
+<p>Le pregunte a Dada si tenía algún “amigo” que me acompañara, porque sentía que me estaba moviendo tan rápido que me desintegraría. Él se rió y dijo que hablaríamos más de eso más tarde. Más tarde, me deportaron. Murió, pero mantuvo su promesa y comenzamos a hablar de eso otra vez, pero más sobre eso más tarde.</p>
+
+<p>También hubo sueños con la forma de Anandamurti que siempre fueron iluminadores. Una vez tuve gastritis y me había molestado durante 6 meses. Soñé que Anandamurti acudía a mí como médico vestido de blanco. No reconocí que era Anandamurti. El médico me tocó el estómago y sentí un inmenso dolor psicológico que reveló las razones por las que tuve gastritis. Entonces una suave luz de sus manos pasó a mi interior. Levanté la vista para ver quién era este doctor porque estaba doblegado de dolor y no había visto su rostro. Vi la cara de Anandamurti solo por una fracción de segundo y luego vi una luz blanca infinita. Al mismo tiempo, me desperté y sentí que la luz dentro de mi estómago me curaba. Dejé de tomar medicamentos ese mismo día y nunca más volví a sufrir de gastritis.</p>
+
+<p>Chidghananda estuvo allí durante esta experiencia. Estaba viviendo al lado de él cuando tuve estas experiencias y sospecho fuertemente la influencia de Chidghananda. Me sorprendió que un hombre tan maduro y grande actuara como si yo fuera su mejor amigo. Fue el mayor honor de mi vida.</p>
+
+<p>No quería engañarme con falsas visiones. Fui educado como científico y siempre traté de ser muy crítico con mis propias experiencias subjetivas, especialmente estas extrañas visiones místicas. Comí hongos psicodélicos una vez en la universidad y fue hermoso, pero en realidad no fue nada comparado con estas experiencias de meditación en Ananda Nagar. Las experiencias eran mucho más poderosas que las setas y no requerían un estado alterado de conciencia. La práctica de yoga y unas pocas horas de meditación al día indujeron estas experiencias. Era vegetariano, no consumía drogas ni alcohol, y en compañía de Chidghananda realmente me sentía como un monje. Era un perfecto caballero alrededor de las mujeres y les mostraba mucho respeto, pero nunca lo vi sobrepasar sus límites monásticos. Tener un ejemplo como ese realmente hizo que un hombre joven se sintiera seguro de que uno podría vivir una vida monástica feliz como él.</p>
+
+<p>Cada vez que meditaba cerca de él entraba en trances. Todo el aire sería inmediatamente expulsado de su cuerpo con un sonido extremadamente alto de “Humm” mientras la kundalini se elevaba. Entonces su cuerpo se pondría realmente tenso y tembloroso y luego dejaría de respirar y estaría totalmente tranquilo, como si estuviera muerto. Le pregunté qué experimentó. Dijo que siempre escuchaba el sonido de Om, pero cuando meditaba se soltaba y se absorbía en él. A veces veía la forma de Anandamurti justo antes de entrar en este samadhi trance, otras veces la experiencia no tenía forma. Me alentó a meditar sobre la falta de forma, pero siempre dijo que había algo muy especial en la forma de Anandamurti. Nunca lo dogmó y cuando la gente le preguntó si Anandamurti era realmente la encarnación de Dios, o Taraka Brahma, o algún otro concepto, simplemente diría: “Baba era Baba. El mismo Anandamurti dijo que era un misterio y siempre seguirá siendo un misterio, entonces que puedo decir?”</p>
+
+<p>Recuerdo mi tiempo con él y algunos otros discípulos más antiguos de Anandamurti y me doy cuenta de que la forma del gurú funcionó a través de todos ellos. No es que toda la fuerza del guru se manifestara a través de una persona en particular, pero era tan claro que estos hombres estaban conectados a algún campo mental invisible que era muy poderoso y benevolente, que podía despertar la kundalini en cualquier persona que se hubiera preparado. . Estos monjes realmente entendieron los secretos místicos internos del yoga. Sin embargo, como puede ver en este video, Chidghananda nunca abandona el pensamiento racional y práctico ni le pide al oyente que acepte alguna autoridad, dogma o idea fantástica. Fue un discípulo verdadero y racional de Anandamurti, quien comprendió que la razón correcta y equilibrada despierta las facultades intuitivas con una visión equilibrada del espíritu.</p>
+
+<p>Las visiones y sueños lucidos a través de formas sutiles y conceptos intuitivos dan cierta confianza en la práctica de la contemplación, pero no son pruebas en sí mismas. Simplemente eliminan las confusiones del camino para que uno pueda tener una experiencia sin forma. Todas estas fueron experiencias preparatorias para aprender a alcanzar el estado de paz total en la meditación, como mi mentor Chidghananda experimentó regularmente en el estado sin aliento de samadhi. La “prueba” viene con samadhi, con la revelación de OM dentro del eterno sentimiento de “Yo Existo” que absorbe el pequeño “yo” del ego relativo. Uno entiende que uno es infinito y puro detrás del espejismo de la mente y el mundo. Después de eso no hay dudas. Permaneciendo en el cuerpo, uno puede sufrir mucho, pasar por el juicio y la tortura, pero nunca, jamás, podrá negar Eso, “Tat Tvam Asi” – Tu Eres Eso.</p>
+
+<h3 id="comiendo-para-el-kundalini">Comiendo Para El Kundalini</h3>
+
+<p>“Soy el alimento de la vida. Soy el que come el alimento de la vida. Soy los dos en el uno. Soy el primer hijo nacido de la inmortalidad nacido ante los dioses”. – Upanishad</p>
+
+<p>En Ananda Nagar a veces dormía solo pocas horas y escuchaba a Om toda la noche. Empecé a ser muy etérico. Afortunadamente, estaba con algunos muy buenos amigos que siempre se burlaban de mí y que me mantenían en línea. Cuando iba sin comer y me ponía muy alto, me hacían comer. En otras ocasiones, después de horas de meditación, comía y comía y comía y nunca me llenaba. Se reían constantemente de mi pozo sin fondo cada nuevo plato completo era una nueva broma.</p>
+
+<p>Me puse muy, muy delgada pero tenía una energía tremenda. A veces, mientras estaba sentado en la postura de loto, entraría en un estado de felicidad demasiado repentinamente. Mi cuerpo saltó a 2 pies del suelo cuando la kundalini se elevaba. Mis amigos me dijeron que cuando estaban sentados a mi lado. Fue involuntario, pero no fue una de esas manipulaciones energéticas de TM y kundalini yoga donde las personas saltan como payasos y lo llaman vuelo yóguico. La kundalini se levantó de la base de la columna vertebral como Relámpago y golpeó el chakra Anahata en el pecho. Esta resistencia disparó mi cuerpo 2 pies en el aire muy rápidamente. No fue una levitación gradual sino un salto vigoroso. También hubo una vez una experiencia de levitación, pero esa es otra historia.</p>
+
+<p>Después de estas experiencias tuve mucha hambre y me apresuré a ir a comer a casa, pero apenas tenía energía para caminar. Compré una lata de ghee y comencé a verter el ghee sobre un monton de arroz y lenteja. Luego dormiría unas horas en la noche y comenzaría de nuevo el ciclo. En el desayuno me forzaba a comer hasta que me doliera porque sabía que volvería a tener hambre en una hora. Luego bajaba rápidamente por el río para meditar antes de volver a tener hambre. Inmediatamente entraría en algún trance. Apenas podía mantener activo mi intelecto observador para no ser arrastrado. Fui estudiante el año anterior y estaba muy interesado en la bio-psicología. Mi amigo Lowan y yo hablaríamos de misticismo, psicodélicos y neuropsicología durante horas y horas. Todavía tenía esas preguntas en mi mente y quería observar mi mente y mi cerebro en estos estados de concentración. Intenté seguir leyendo libros científicos pero estaba perdiendo interés. Sentí que era un apego demasiado grande para mi mente. Chidghananda dijo que el deseo estaba casi terminado y que solo debía complacerlo. Una vez lo encontré leyendo mi copia de “El Tao de la física”. Dijo que realmente le gustó. Hojeó “Orden fuera del caos” de Prigogine y dijo “estas son ideas revolucionarias, pero pronto perderá interés en ellas.</p>
+
+<p>Dada me explicó cómo Anandamurti dijo que la investigación de microvita debe ser realizada por personas con mentes desarrolladas conceptualmente junto con yoguis que podrían guiarlos de manera intuitiva. Por lo tanto, sé que el yogui también debe estar algo familiarizado con las ideas científicas modernas. Dijo que no necesitaba leer más libros. Lo que era más importante recordar estas ideas cuando la mente bajó del samadhi, para ver estas ideas bajo una nueva luz, una luz eterna. Uno entiende que el objeto en pensamiento se unifica con los pensamientos profundos sobre el objeto. Por ejemplo, si piensas en una planta, tu mente se vuelve una con la planta. La planta se convierte en parte de tu mente objetiva, o chitta . El conocimiento es la subjetivización de la objetividad externa, o traer fuera de lo que está dentro. Una conceptualización superficial de la misma ve la planta fuera de uno mismo en el tiempo y el espacio. Uno puede estudiarlo profundamente, diseccionarlo, descubrir su código genetico pero la planta todavía permanece fuera de uno mismo. Una subjetivización parcial es una comprensión intuitiva de la planta en la que hay un sentimiento de “unidad” con la planta. Uno lo concibe profundamente pero también siente su secreto interior. Los sanadores pueden tener esta conexión con las plantas y comprender las relaciones de sanación entre ellas. La subjetivización total es donde no hay separación del sujeto y el objeto. Ya no hay planta ni mente que perciba la planta. La mente se fusiona espiritualmente con el Atman y solo queda la subjetividad pura. Este es el conociento espiritual. Uno que conoce el conocedor sujetivo logra la inmortalidad.</p>
+
+<p>Al igual que uno supera la barrera objetivo-sujetivo de la realidad creada por las limitaciones de la mente conceptual, la mente intuitiva también trasciende sus conceptos sutiles y se da cuenta de que la mente depende en última instancia del atman. Desde el punto de vista del atman, uno es capaz de ver todas las cosas. Y desde este punto de vista, uno puede ver qué es lo que la naturaleza y la mente y la faculdad intuitiva puede tener ideas muy exactas sobre ellos. One sees the structure of thoughts as they are in themselves, las cosas de las que están hechos los sueños. Le pregunté si podía ver microvita. Dijo que sí, pero es más importante concebirlas que simplemente verlas. Dijo que se mueven como un collage de formas geométricas y colores que estaban en constante cambio detrás del mundo físico. El vacío cuántico está lleno de prana, o energía vital, y la microvita toca estas cadenas de prana que finalmente “colapsan” en la realidad material.</p>
+
+<p>Dijo que debería hacer la mayor meditación posible en Ananda Nagar porque no estaba seguro de cuánto duraría el arresto domiciliario; meses, o años, tal vez. Continué con mis meditaciones y cuanto más se detenía mi respiración en la meditación, menos intelecto podía analizar estos estados y menos deseaba que continuara analizándolos. La dicha que me estaba rogando decía: “Solo déjala ir ahora, es hora de la dicha. Adios, pequeño intelecto alemán”.</p>
+
+<p>Mientras tanto, esas experinecias requirían mucha energia y yo seguí con la debilidad física. Le pedí consejo a Samanvayananda, el amigo “mago” de Chidghananda. Me dijo que también comprara una lata de ghee y un montón de arroz. Fue muy gracioso que llegáramos a las mismas conclusiones. Solía ​​conseguir que los monjes más jóvenes le prepararan comida. Él entretendría a todo el mundo por verlo comer. No podían creer cuánto podía comer. Luego decía: “Ahora voy a meditar al río. Tengan algo más de comida lista para mí en dos horas cuando regreso”. Pasó por estos estados durante tantos años. Una vez pasó varios años sin dormir y meditó toda la noche.</p>
+
+<h3 id="personas-y-lugares">Personas Y Lugares</h3>
+
+<p>Todos los que he conocido han sido muy amables conmigo en estas 46 órbitas alrededor de nuestro sol que he viajado hasta ahora. Es como si un dios invisible me hubiera estado acompañando, saltar y entrar a todos los que encuentro, dando ese eterno saludo desde otra perspectiva única.</p>
+
+<p>Todas las preguntas no resueltas que me quedaron sobre las experiencias místicas de mi infancia y juventud fueron respondidas en esos breves años que vivía con monjes y monjas yóguicas en la india y también en Missouri. Antes que esto, tuve muchas experiencias profundas y poderosas que mis amigos compartieron y experimentaron conmigo. Mi madre siempre me creyó y me ayudó a encontrar algunas respuestas a estos misterios. Ella me presentó a sus amigos que meditaban y practicaban yoga.</p>
+
+<p>Tales experiencias eran explosiones de claridad y perspicacia que siempre parecían ocurrir con interesantes “sincronicidades” existenciales y emocionales conectadas con mis amigos y mi familia desde la infancia. Sin embargo, fue cuando aprendí la meditación tántrica que todas estas experiencias se entendieron claramente. Era como si estas experiencias previas tuvieran que aclararse en mi mente a fin de dejar espacio para nuevas experiencias.</p>
+
+<p>Y así fue; cuanto más asimilé los misterios anteriores, más experimentaba los más nuevos. En el momento en que fui a la India comencé a entrar en estados de meditacion sin aliento. Era como si estuviera muerto, pero mi mente estaba muy activa por dentro, procesando recuerdos de esas experiencias profundas en mi juventud con amigos y familiares. Todo tenía sentido y todo estaba bien … mis familiares y amigos me dieron todo.</p>
+
+<p>Chidghananda dijo que mi trabajo estaba hecho. Solo tenía que dar y servir. Ya no tenía pasado, o ya no estaba atada a mi pasado. ¿Ahora qué?, me pregunté. Con el paso del tiempo comenzó a hablar del futuro, como si realmente quisiera decirme algo importante acerca de no solo mi futuro sino también el futuro de la humanidad. Comencé a tener experiencias y visiones muy incómodas después de esos trances muy dichosos. Todo lo que experimenté fue sublime pero terrible. Vi tanto sufrimiento y sabía que habría momentos difíciles por delante. Chidghananda confirmó eso y dijo que iba a sufrir mucho y estar involucrado en dramas politicos por un tiempo pero debo regresar a vivir una vida normal después.</p>
+
+<p>Al mismo tiempo, conocí a otro yogui que me dio otra pieza del rompecabezas. No lo conocía en absoluto pero nos queríamos mutuamente al instante y comenzó a contarme consejos muy interesantes y perspicaces que parecían ser exactamente lo que necesitaba. Me dijo que los yoguis podían invocar conscientemente la “Experiencia cercana a la muerte” con ciertas técnicas yóguicas. En tal estado, uno puede ver lo que uno necesita ver, y todo el camino hacia la eternidad. Dijo que podía ingresar al Salón de los Inmortales y preguntar a cualquier ser liberado cualquier pregunta que quisiera. Me dio la técnica, la practiqué y, de hecho, verifiqué que tenía razón, que los yoguis pueden invocar la experiencia de la muerte cercana a través de la meditación.</p>
+
+<p>Vi toda mi vida pasar frente a mí. Ví las lugares donde viviría con mucho detalle. Recuerdo muchas de estas vívidas visiones pero recuerdo con cada nueva experiencia en la vida una sensación de deja vu y me doy cuenta de que ya he visto esto también. Vi todo en esa visión, sin embargo recuerdo fragmentos conscientemente. Cuando tengo deja vu, no hay ningún misterio de dónde proviene la sensación de familiaridad; la familiaridad vino del hecho de que ya había visto esta parte del drama desarrollarse en esa experiencia cercana a la muerte, o lo que realmente se convirtió en una serie de experiencias cercanas a la muerte. Es como cuando un amigo comparte un recuerdo contigo. Fue la misma experiencia, pero cuando él o ella te lo recuerda, recuerdas la imagen más completamente. No habías olvidado esos aspectos, simplemente estaban inconscientes. De manera similar, cuando tuviera sentimientos de deja vu, contemplaría dónde realmente experimenté esa memoria y en realidad recordé cuándo, dónde y dónde, el origen siempre regresó a esas experiencias de la muerte cercana, en el eterno ahora. La muerte cercana está tan cerca de la vida.</p>
+
+<p>Un extracto de <a href="https://www.williamquetzal.org/es/assets/espa%C3%B1ol/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">Tantra De La Luz Y La Oscuridad</a></p>
+
+      </article>
+
+      
+
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+    <a href="https://twitter.com/intent/tweet?text=Personalidades&url=http%3A%2F%2Flocalhost%3A4000%2Fpersonalidades%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  
+
+  
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fpersonalidades%2F"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fpersonalidades%2F"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/forma-y-sin-forma/" data-toggle="tooltip" data-placement="top" title="Forma Y Sin Forma">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="page-item next">
+          <a class="page-link" href="/la-liberacion-del-deseo/" data-toggle="tooltip" data-placement="top" title=" La Liberación Del Deseo">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+      
+  
+  
+  
+
+  
+
+
+  
+
+
+
+    </div>
+  </div>
+</div>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="mailto:williamquetzal@tutanota.com" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://t.me/williamenck" title="Telegram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li></ul>
+
+      
+      <p class="copyright text-muted">
+      
+        William Enckhausen
+        &nbsp;&bull;&nbsp;
+      
+      2022
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">williamquetzal.org/es</a>
+        </span>
+      
+
+      
+      </p>
+      <p class="theme-by text-muted">
+       
+      
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>
