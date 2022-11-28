@@ -2,6 +2,8 @@
 layout: post
 title: Ananda Marga, Una Revolución?
 ---
+<img src="{{ 'assets/img/downfall.png' | relative_url }}" alt="Not found" />
+
 El otro día me encontré con esta foto que tenía en mi blog.  Normalmente nunca me burlaría de los errores ortográficos de otra persona, sin embargo esta monja estaba siendo realmente inmadura con estas amenazas.  Pensé que era algo gracioso y también decidí ser inmaduro.  Ella escribe como un "Hillbilly" analfabeto y yo soy "Bill" de Texas, así que ¿por qué no divertirse un poco?  
 
 Al principio no estaba seguro de por qué me amenazaba.  Su orden tiene algunos asesinos y realmente han asesinado a gente.  Más tarde, descubrí que estaba enfadada conmigo porque compartí un enlace a algunos textos originales de Anandamurti antes de que su organización los editara.  Amenazaba con demandarme por violación de los derechos de autor.  
