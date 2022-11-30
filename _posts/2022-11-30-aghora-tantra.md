@@ -27,7 +27,7 @@ Me estaba riendo, al menos estaba ocurriendo algo para romper esta pareja rancia
 
 <img src="{{ 'assets/img/skunk.jpg' | relative_url }}" alt="Not found" />
 
-El zorrillo sabía que realmente no tenía ninguna agresión en mi alma, de lo contrario me habrían rociado.  Sólo pensé en Shamitananda, Krsnananda, Madhuvidyananda, Mokseshvarananda, Nabanilananda, Kreepasundarananda, Playboy Peter Fleury y todo el resto de acólitos de Shamitananda que encubrieron al Cobra Killer Shamitananda.  
+El zorrillo sabía que realmente no tenía ninguna agresión en mi alma, de lo contrario me habrían rociado.  Sólo pensé en Shamitananda, Krsnananda, Madhuvidyananda, Mokseshvarananda, Nabanilananda, Kreepasundarananda, Playboy Peter Fleury y todo el resto de acólitos que encubrieron para el "Cobra Killer," Shamitananda.  
 
 Lo más irónico es que más tarde descubrimos que Cirananda, “El Pateador de las Cabezas” está vinculado al narco político que es responsable de este terror en nuestra valle. Él amenaza públicamente no solo a mí, sino a sus vecinos con sus conexiones con este narco político. Este narco fue el alcalde local cuando el genocidio fue más intenso y también fue en aquel momento que Cirananda se conectó con él. Este narco está siendo investigado por el FBI por aceptar el dinero de narco en sus campañas anteriores. Con Headkicker Cirananda entrando en la escena, mi “proyección” contra los oscuros de A.M. resultó no sólo para ser simbólico, sino también de hecho. Esto es aún más motivo para boycotear a los acharyas de norteamerica. No digo que Cirananda esta metido en el genocidio con su amigo, sino que esta usando alianzas con gente mala para cumplir sus ambiciones perversas.
 
