@@ -2,6 +2,7 @@
 layout: post
 title: El Culto Del Misterio
 ---
+<img src="{{ 'assets/img/9.jpg' | relative_url }}" alt="Not found" />
 Cuando defendía nuestro rancho de los narcos siempre meditaba en esta habitación. Escribí en <a href="https://williamenck.github.io/es/aghora-tantra">Aghora Tantra </a> cómo una noche los oí fuera de nuestra propiedad con una motosierra. Estaba meditando y empecé a oír el sonido OM tan intensamente que no podía oír la motosierra. Me olvidé de todo y entré en trance. Salí del éxtasis en mitad de la noche y recordé la motosierra y agradecí al "cabrón divino" la gran experiencia.
 
 También utilicé este espacio para la revolución de Ananda Marga. Escribí una carta denunciando al Cobra Killer Shamitananda a los miembros de Ananda Marga en Norteamérica. Sabía que había hecho lo correcto. Fui a meditar, vi una luz blanca infinita y 8 horas después respiré profundamente y salí del trance. No supe que habían pasado 8 horas hasta que miré la hora. Sabía que había estado en el estado de samadhi sin respiración todo ese tiempo.
