@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Aghora Tantra
+tags:  ananda-marga
 ---
 Esta es una versión de <a href="https://williamenck.github.io/es/un-requiem/">Un Réquiem</a> que escribí para algunos amigos yogis. Durante estas aventuras hubo una drama con unos amigos yogis que estaba ocurriendo simultáneamente. Sentí que este drama paralelo tenía demasiada sincronicidad para parecer creíble si se incluyera en "Un Réquiem" , por lo que incluí el paralelo drama en el siguiente relato.
 

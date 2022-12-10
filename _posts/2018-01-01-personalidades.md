@@ -2,6 +2,7 @@
 layout: post
 title: Personalidades 
 thumbnail-img: /assets/img/chidghananda.jpg
+tags:  ananda-marga
 ---
 
 Antes de la tragedia de La Caìda De Las Armas En Purulia pasé mi tiempo meditando y leyendo los libros de Anandamurti, entre otros libros de yoga mientras que yo estuve en Ananda Nagar, India. Yo era el primer estudiante en el proyecto de investigación tántrica en Ananda Nagar y vivía cerca de Chidghananda.  

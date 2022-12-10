@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forma Y Sin Forma
+tags:  ananda-marga
 ---
 
 Nada en el universo es un accidente, todo es un incidente. Cuanto más cerca llega la meditación a la causa primera de Om, más vemos el universo como el sueño del ser supremo en vez de un serie de eventos desconectados en mentes aisladas. Lo que parecían accidentes no eran más que percepciones erróneas de la realidad de las mentes demasiado atrapadas en lo mundano para notar los movimientos sutiles de significado tratando de romper nuestras capas de oblicuidad. La realidad es más significativa y las circunstancias en la vida tienen más de un significado simbólico y moral. La creación siempre está tratando de acercarnos más al testigo o atman, mostrándonos el camino a través de la vida creando dramas y sincronicidades interesantes. El tiempo es una imagen en movimiento de la eternidad, dice Platón. A veces los señalamientos nos parecen mas allá del tiempo. A veces las respuestas vienen antes de las preguntas. Tal vez un sueño anuncia algo importante o alguna gran sincronicidad antes que se pasa o ciertos eventos continúan repitiéndose cíclicamente en nuestras vidas. De alguna manera, uno estaba preparado para lo que estaba por venir y esta sincronía inspira a uno con la maravilla. Su ser superior muestre uno desde más allá del tiempo lo que uno necesita saber para dejar de estar engañado por el tiempo y vivir en lo eterno ahora.

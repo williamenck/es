@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ananda Marga, Una Revolución?
+tags:  ananda-marga
 ---
 <img src="{{ 'assets/img/downfall.png' | relative_url }}" alt="Not found" />
 

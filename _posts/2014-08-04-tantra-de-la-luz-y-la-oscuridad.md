@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: Tantra De La Luz Y La Oscuridad 
+tags:  ananda-marga
 ---
 
 Un extracto de [Tantra De La Luz Y La Oscuridad](https://williamenck.github.io/es/assets/espa%C3%B1ol/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf)

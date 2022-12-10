@@ -2,6 +2,7 @@
 layout: post 
 title: La Liberación Del Deseo
 thumbnail-img: /assets/img/century.jpg 
+tags:  ananda-marga
 ---
 La sexualidad es uno de los temas menos entendidos en la vida humana. La sexualidad es parte de la vida de todos, pero pocos han encontrado una solución tranquilo para este instinto tan tenaz.  Hay tanto sufrimiento causado por la sexualidad ciego. Así que muchas mujeres son abandonadas con los niños por los hombres cuyos instintos animales pronto tiran de ellos en otro lugar después de un poco de gratificación sensorial. El rastro de trauma para la mujer puede continuar como ella tiene que luchar para cuidar al niño que ha sido abandonado también. O tal vez eran los deseos de ella insatisfechos o frustrados que causaron la separación para empezar. Una cosa es cierta, y es que hay cada vez menos ejemplos de coexistencia armónica en asuntos sexuales e emocionales humanos. Como una cultura que hemos vuelto a la edad de piedra en respecta a la sexualidad; sólo no tenemos giraffas y rinocerontes para perseguir y cazar con el fin de canalizar esta energía y darnos un poco de alivio.  
   
