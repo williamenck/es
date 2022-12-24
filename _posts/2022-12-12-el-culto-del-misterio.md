@@ -1,7 +1,8 @@
 ---
 layout: post
-title: El Culto Del Misterio
+title: El Misterio
 tags:  ananda-marga
+thumbnail-img: /assets/img/9.jpg
 ---
 Cuando uno empieza a meditar sinceramente y siente que la vida está profundamente llena de sentido, comprende que el proceso de la vida es un proceso de liberación de las ataduras emocionales y cognitivas.  El individuo es, en última instancia, responsable de todo lo que sucede y sus actitudes y condiciones internas determinan lo que ocurre en la vida.  Ya no es posible culpar a nadie ni a nada de nuestro estado existencial y espiritual cuando uno empieza a comprender la ley de acción y reacción.  En lugar de eso, uno es responsable de todas sus acciones pasadas y de las consecuencias futuras de esas acciones, y se resigna a esta ley universal.  Sólo entonces puede haber libertad, libertad del pasado y libertad para actuar en el futuro sin que las turbias perturbaciones de los complejos y miedos del pasado distorsionen las acciones que generan reacciones negativas.  Todas las personas espirituales que conozco de todos los ámbitos de la vida están en el camino de esta realización, sean cuales sean sus filosofías.  La verdadera espiritualidad le conecta a uno con la esencia de la vida y las leyes espirituales subyacentes que gobiernan la existencia humana y las personas que están alineadas con la esencia de sus vidas siempre descubrirán leyes universales más profundas.  
 
