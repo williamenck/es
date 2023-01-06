@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Opus Gei” 
+title: Los Observadores Del Alma
 ---
 
  <a href="https://williamenck.github.io/es/la-liberacion-del-deseo">un extracto de La Liberación Del Deseo</a>
@@ -44,4 +44,4 @@ La única tantra sexual funcional que he conocido es ser la primera responsable 
 
 He llegado a pensar que cuando no hay sufrimiento , no hay deseo , y donde no hay deseo , no hay sufrimiento. Esto es cierto para todos los deseos , no sólo de sexo . Pocas personas realmente pueden entender esto . Ramakrishna dijo una vez que el placer mundano es como un perro que mastica un hueso afilado y no se da cuenta de la “ saciedad “ de este deseo proviene de su propia sangre. Es el miedo y la inseguridad que nos mantienen atados a la limitación de un yo separado , y por lo tanto obligado a deseos egoístas. A veces , incluso las mentes altamente desarrolladas no entienden estas reverberaciones subyacentes en la sombra de las emociones. Los piratas a nuestro presente estado de felicidad son a menudo algo invisible de nuestro pasado. He encontrado que el estudio de la vrttis , especialmente los de la svadhistana, son de suma importancia para encontrar el equilibrio psicológico que permite el desarrollo intuitivo, espiritual.
 
-Un extracto de Tantra De La Luz Y La Oscuridad
+ <a href="https://williamenck.github.io/es/la-liberacion-del-deseo">un extracto de La Liberación Del Deseo</a>
