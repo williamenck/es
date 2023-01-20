@@ -1,9 +1,14 @@
 --- 
 layout: post 
 title: Tantra De La Luz Y La Oscuridad 
+tags:  ananda-marga
 ---
 
 Un extracto de [Tantra De La Luz Y La Oscuridad](https://williamenck.github.io/es/assets/espa%C3%B1ol/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf)
+
+<img src="{{ 'assets/img/acharyas.jpg' | relative_url }}" alt="Not found" />
+
+Escribir Tantra De La Luz Y La Oscuridad fue siempre un acto de equilibrio. Me sentí muy bien al escribir sobre mis experiencias con personas como Chandranath (en el extremo derecho de la foto) y otros de los primeros discípulos de Anandamurti. Uno puede incluso sentirse orgulloso de estar asociado a una sociedad espiritual dirigida por personas así. Aunque era interesante y también significativo escribir sobre los innumerables problemas del movimiento de Anandamurti a medida que se iba ampliando y atraía a muchos monásticos sinvergüenzas que se involucraban en demasiadas actividades turbias, siempre existía la posibilidad de caer en un complejo de vergüenza al mencionar estas situaciones oscuras, de ser asociado con estas personas incluso al criticarlas. A menudo tenía que conjurar el recuerdo de Chandranath y los primeros discípulos para volver a iluminar el esfuerzo de decir: "sí, alguna vez hubo verdad y vitalidad en A.M. y la luz de Anadamurti brilló a través de estas personas". En última instancia, justifico el lado oscuro de la historia diciendo que fue una gran lección sobre la comprensión de la sombra humana y que cualquier sociedad que hubiera recibido una dosis tan sobrecargada de energía espiritual habría pasado por los mismos dramas humanos. Anandamurti puso una lente de enfoque sobre la conciencia de la humanidad. Algunos fueron iluminados, pero otros quedaron calcinados. Los rincones más oscuros de la mente humana se iluminan. Algunas personas recibieron la luz y fueron iluminadas, pero otras se resistieron y sus sombras solo reforzaban y resistían.
 
 Tantra es una palabra sánscrita derivado de "Tan", que significa "oscuridad" o "inercia" y "tra", que significa "expansión". Por lo tanto, "tantra" significa la expansión de un estado de oscuridad espiritual, la inercia, o la ignorancia que nos une al mundo material limitado con sus alegrías y sufrimientos relativos. Tantra es una antigua ciencia de la meditación y la concentración para despertar la mente de una letargia instintiva animal. Es una práctica para una mayor evolución física, mental y espiritual para que el ser humano puede comprender más plenamente su lugar en el universo. Esta disciplina sistemática y práctica sigue el curso natural de la evolución y guía a la mente del instinto al intelecto a la intuición. Como explicó Anandamurtiji, es Es un método para convertir la energía física en energía psíquica y luego convertir esa energía psíquica o mental acumulada en pura cognición espiritual.  
    
