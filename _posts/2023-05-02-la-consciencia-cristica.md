@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La Consciencia Cristica
+title: La Consciencia Crística
 tags:  ananda-marga
 ---
 an extract from <a href="https://williamenck.github.io/es/forma-y-sin-forma/">Forma Y Sin Forma</a>
