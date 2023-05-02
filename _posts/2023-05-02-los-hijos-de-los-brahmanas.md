@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los Hijos De Los Brahmanas
+title: La Consciencia Cristica
 tags:  ananda-marga
 ---
 an extract from <a href="https://williamenck.github.io/es/forma-y-sin-forma/">Forma Y Sin Forma</a>
