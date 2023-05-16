@@ -3,9 +3,12 @@ layout: post
 title: El Vertedero Cósmico
 tags:  ananda-marga
 ---
-an extract from <a href="https://williamenck.github.io/es/forma-y-sin-forma/">Forma Y Sin Forma</a>
+una edición leve a los ensayos "Los Hijos De Los Brahmanas" y "La Consciencia Crística"
 
-### Los Hijos De Los Brahmanas
+"Enfermedades mentales severas como psicosis son muy muy difíciles para cualquier sanador.  Me dice que las graves distorsiones mentales son el resultado de acciones negativas anteriores y teme que ocuparse de esos casos pueda acabar realmente con él.  Dice que no puede pensar en sí mismo como sanador porque estos casos le hacen sentir como el ser más bajo y más abandonado psicológica y espiritualmente del universo.  Piensa que el universo es pura dicha cuando uno se da cuenta de que sigue ciertas leyes morales y espirituales.  Armonizarse con este flujo es pura inocencia y dicha, ya que la vida relativa y humana fluye hacia una perfección superior.  Lo divino se siente muy cerca, dentro de uno, flotando justo por encima de los pensamientos más puros.  Pero durante los momentos de prueba, tratando de curar problemas mentales tan graves, olvida esta dicha esencial e invoca a un dios lejano para que venga a salvar su desdichada alma.  Justo antes del momento en que cree que caerá en un abismo eterno, se ha producido alguna curación.  La otra persona ha hecho algún avance y él siente que las fauces de la condenación ya no le devoran y vuelve la dicha de la inocencia.  "Así que, por favor, no me llames sanador", dice.  "No soy más que un vertedero cósmico, un pozo negro o una bolsa de basura blanca utilizada por algún custodio superior.  A veces siento que me pueden echar en cualquier momento.""
+
+
+### El Vertedero Cósmico
 
 Había una vez un visitante extranjero en Ananda Nagar, India. Iba a estar allí sólo un mes, pero la comunidad monástica que visitaba, Ananda Marga, tuvo problemas con el gobierno indio.  Intentaron rebelarse contra los comunistas en el estado de Bengala Occidental y <a href="https://williamenck.github.io/es/el-debate/">les pillaron introduciendo armas de contrabando en el país.</a>  Él no sabía nada de la situación política de Ananda Marga y sólo se dedicaba a meditar.  Se perdía en la meditación profunda del entorno espiritual que habían cultivado durante miles de años los yoguis que llegaban a terminar su trabajo espiritual junto a aquel río y entraban en las etapas finales del samadhi.
 
@@ -35,6 +38,8 @@ Sin embargo, fue en la altura de mis realizaciones sin forma de lo divino que te
 Sigo teniendo muchos sueños y visiones de la conciencia crística. No pienso en ellos ni trato de invocarlos y parecen venir por sí mismos. Estas experiencias quizás revelen algunas verdades sobre el misticismo cristiano, pero nunca he podido identificarme como cristiano.  No tengo religión ni sistema de creencias fijo, solo experiencias espirituales basadas en la práctica espiritual.  Me gusta la filosofía tántrica porque se basa en la práctica espiritual y no en dogmas fijos.  Por eso me gusta explicar mis experiencias místicas con conceptos y lenguaje tántrico.  Es un sistema racional y práctico que otras personas pueden utilizar para escudriñar estas ideas y, tal vez, obtener algún conocimiento práctico de ellas a través de su propia meditación. l
 
 Uno nunca me encontraría en una iglesia o discutiendo dichos de la Biblia, pero si ser cristiano es la contemplación de la persona fundamental detrás de la miríada de expresiones humanas que está eternamente presente dentro de nosotros y en armonía con la conciencia infinita, entonces supongo que yo sería un cristiano por definición amplia. Aunque siempre practiqué yoga y meditación, siempre encontré inspiración en los místicos cristianos como Meister Eckhart y San Juan de la Cruz. Dos de mis artistas favoritos, J.S. Bach y Andrei Tarkovsky, eran devotos cristianos, igual como muchos pensadores, artistas y escritores en la historia europeo. Para mí, los místicos y artistas cristianos dicen la misma verdad que los Upanishads o los dichos de Buda, expresiones de la religión eterna viviente.
+
+an extract from <a href="https://williamenck.github.io/es/forma-y-sin-forma/">Forma Y Sin Forma</a>
 
 He aquí una pieza musical de J.S. Bach que toco con mi flauta quenacho: "Él No Sabía Que Sufría".
 
