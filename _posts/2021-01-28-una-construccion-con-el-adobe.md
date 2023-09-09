@@ -35,7 +35,7 @@ Una capa impermeable de arena y cal reforzada con malla de alambre brinda protec
 
 <img src="{{ 'assets/img/casa.jpg' | relative_url }}" alt="Not found" />
 
-La casa es un patrón de colmenas de 6 habitaciones hexagonales conectadas. Me gusta esta foto porque se puede ver la roca en lo alto del horizonte, que es el límite y el punto más alto de nuestra tierra. Es una caminata bastante extrema para llegar a la cima.
+La casa es un patrón de colmenas de 6 habitaciones hexagonales conectadas. 
 
 <br/><br/>
 <br/><br/>
