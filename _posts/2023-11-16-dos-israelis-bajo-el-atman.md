@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 
 Hubo un corto período en el que salía de mi casa en el desierto y hacía viajes cortos. Principalmente conocí gente indígena mientras visitaba sus comunidades, pero también gente de muchos lugares del mundo. Una vez estuve en San Cristóbal De Las Casas, Chiapas. Una amiga me había recomendado a dos jóvenes israelíes porque pensó que les gustaría hablar conmigo sobre meditación y yoga.
