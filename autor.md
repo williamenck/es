@@ -1,6 +1,7 @@
 ---
 layout: post
-title: William Enckhausen 
+title: William Enckhausen
+published: true
 ---
 ### El Vuelo Del Quetzal
 
@@ -25,15 +26,5 @@ Cuando me senté junto a Chandranath y traté de escucharlo hablar de la Concien
 Personas como Chandranath han dado un ejemplo práctico de cómo un yogui realizado puede vivir en el mundo. Parece milagroso, quizás incluso absurdo, que la mente humana pueda unirse con la Conciencia Suprema. Verdaderamente podemos decir “Yo soy Esto” desde la parte más sincera y completa de nuestro ser. Sin embargo, parece aún más milagrosa la gracia benévola que emana de un ser tan realizado y su capacidad de transformar a los demás. Me parecía un hombre tan sencillo y puro y nunca sentí que me pidiera nada; solo se entregó de todo corazón a cualquiera que busque orientación. Para un yogui que practica samadhi regularmente, una expresión tan consciente y humana como Chandranath es la creación más natural y simple de la Conciencia Suprema. Cuando la mente microcósmica se disuelve en la Conciencia Suprema, realmente no hay ego, ni siquiera sentimiento de yo, que lo ate a uno al plano relativo. Muchos yoguis abandonan sus cuerpos después de tales experiencias. Otros, como Chandranath, regresaron misteriosamente al plano relativo de la existencia terrenal y continuaron sirviendo a los demás. Pienso que cuando uno entra en el estado sin aliento de samadhi y se disuelve completamente en la Conciencia Suprema, entonces es sólo Consciencia Suprema que puede devolver el aliento a este yogui unificado. Si no fuera por personas como Chandranath, su esposa y Chidghananda, quienes realmente establecieron un ideal tan práctico, probablemente habría pensado que tales seres existieron solo en el pasado lejano, en leyendas, y que el mundo moderno ya no es habitable para yoguis avanzados. De las formas más místicas y sutiles, personas como Chandranath dejan una huella imperecedera en las personas a las que afectan y, por lo tanto, dejan su marca en la conciencia colectiva de la humanidad en su conjunto.
 
 Este es una obra en el que escribo sobre experiencias místicas subjetivas en el contexto de la ciencia espiritual tántrica. La experiencia prueba la teoría y he descubierto que el Tantra es una ciencia espiritual universal que brota por todo el mundo, no sólo en India, Tíbet y China, sino también en Mesoamérica. ¿Quién sabe en qué otro lugar del mundo existen rastros de esta ciencia espiritual secreta? La mayor parte de mi inspiración inicial se debió a la influencia espiritual de Anandamurti y algunos de sus discípulos, como Chidghananda y Chandranath. Quetzal Manik, o "Pluma Blanca", fue un maestro maya cuyas prácticas de "Tantra Maya" que más tarde encontré solo profundizaron mi comprensión del Tantra indio que había estado practicando durante años.
-
-Un extracto de <a href="https://williamenck.github.io/es/assets/espa%C3%B1ol/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">Tantra De La Luz Y La Oscuridad</a>
-
-
-
-
-
-
-
-
 
 
