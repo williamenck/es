@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 La palabra sánscrito por el amor humano desde el corazón espiritual se llama "mamata."  No entiendo mucho el sánscrito pero me imagino que está relacionada con la palabra "mamá" como el fonema sánscrito "ma" está usado para madre en muchos idiomas en el mundo.
 
@@ -92,4 +92,3 @@ Decir mentiras y seguir diciendo mentiras que difaman a personas inocentes es un
 Esta dualidad también es muy patológica para los seguidores.  Nadie la cree realmente, pero la necesitan para su propia seguridad. No sólo apoyan las mentiras y la difamación de su líder, sino que también se ven afectados por las contradicciones psicóticas de la narración.  Como ya son vulnerables de por sí, tal posición mental no puede traerles paz mental.  Sin embargo, se han unido a una secta de yoga, que es un pantano de disonancia cognitiva.  No sólo tienen que lidiar con las mentiras de su líder de culto local, sino que también tienen que asimilar todas las mentiras, la perversión y la criminalidad de la familia criminal de la secta.  Es mucho mejor ni siquiera empezar con las mentiras.  
 
 No puede haber unidad basada en mentiras y eventualmente estas personas atribuladas se darán cuenta de que todos han mentido y les han mentido. Lo que tienen se basa en pura ficción. Durante algún tiempo intenté encubrirles con la esperanza de que no cayeran demasiado cuando recibieran las reacciones a sus acciones, pero era una forma de falsedad por mi parte. Cubrir a personas que me odiaban y me traicionaban, ¡me hacía sentir tan enfermo! Es mucho mejor entregarlos al macrocosmos y dejar que las leyes del universo arreglen las cosas.
-
