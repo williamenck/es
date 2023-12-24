@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 “Solo Brahma es el gurú.” Este dicho del Upanishad representa una concepción muy universal de la divinidad. Brahma significa literalmente lo que es grande y hace que otros sean grandes. En otras palabras, Brahma es la Conciencia del Macrocosmos, de todo el universo. El gurú no es otro que la Conciencia Suprema y no puede ser manchado por la parcialidad ni prejuicios ni cualquier proyección relativa de un mesías o gurú humano. Lo que es, simplemente es. Si la Conciencia Suprema puede crear todo este universo, sin duda hay una manera sin mediación, directa de comunicarse conmigo, un microcosmos pequeño en este Macrocosmos infinito.
 
