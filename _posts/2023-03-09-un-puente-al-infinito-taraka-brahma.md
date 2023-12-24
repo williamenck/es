@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Un Puente Al Infinito - Taraka Brahma
-tags:  ananda-marga
+title: 2015-01-10-un-puente-al-infinito.md
+tags: ananda-marga
+published: true
 ---
 ensayo actualizado con unas ediciónes nuevas
   
