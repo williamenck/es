@@ -30,7 +30,7 @@ Por desgracia, aquí es donde las cosas se ponen muy difíciles y donde tantas s
 <img src="{{ 'assets/img/9.jpg' | relative_url }}" alt="Not found" />
 
 
-Después de aquellas experiencias y de <a href="https://williamenck.github.io/es/un-requiem">mis escritos sobre la guerra contra el narco</a>, más gente quiso entrar en contacto conmigo. Yo era un ermitaño que apenas salía del desierto. Estaba trabajando con una curandera indígena que se veía a sí misma como mi manager y estaba celosa de cualquiera que se acercara a mí, gente que se convertía en mis alumnos y amigos. Aunque es una sanadora bastante intuitiva y eficaz, sus inseguridades emocionales finalmente se apoderaron de ella.
+Después de publicar <a href="https://williamenck.github.io/es/un-requiem">mis escritos sobre la guerra contra el narco</a>, más gente quiso entrar en contacto conmigo. Yo era un ermitaño que apenas salía del desierto. Estaba trabajando con una curandera indígena que se veía a sí misma como mi manager y estaba celosa de cualquiera que se acercara a mí, gente que se convertía en mis alumnos y amigos. Aunque es una sanadora bastante intuitiva y eficaz, sus inseguridades emocionales finalmente se apoderaron de ella.
 
 Mi amiga era un líder muy influyente entre los zapatistas. Estaba profundamente angustiada por la conducta sexual inapropiada de los líderes masculinos del movimiento, concretamente los del Subcomandante Marcos. Comenzó a tener profundos resentimientos hacia los hombres, especialmente aquellos en situaciones de poder que tenían cualidades atractivas.
 
