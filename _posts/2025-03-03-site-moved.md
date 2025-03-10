@@ -1,3 +1,0 @@
-
-
-This site has been moved to my personal data site at <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/">https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/</a>  
