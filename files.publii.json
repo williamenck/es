@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0ba7051c9b63127f19e60824dee157dc"
+        "md5": "4a05bcb2daf90a852739ec6229df55e8"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/willliam-enckhausen/index.html",
         "type": "file",
-        "md5": "c3f00a363b222d8a24866ae996dd9ffe"
+        "md5": "5cfe6dd694041443d5257a1f3b38288b"
     },
     {
         "path": "ayunar-con-las-fases-de-la-luna",
@@ -92,7 +92,7 @@
     {
         "path": "/ayunar-con-las-fases-de-la-luna/index.html",
         "type": "file",
-        "md5": "1e0abe9e2d3161de2df8a6c98a60baf8"
+        "md5": "517da5a715343bebfb30d101fa44a417"
     },
     {
         "path": "contemplaciones-con-el-quenacho",
@@ -102,7 +102,7 @@
     {
         "path": "/contemplaciones-con-el-quenacho/index.html",
         "type": "file",
-        "md5": "632798f0e2245274c8c3886dace78ada"
+        "md5": "37f9b8e5558a0d27c83f59cc2a72ee83"
     },
     {
         "path": "de-quetzalcoatl-a-casanova",
@@ -112,7 +112,7 @@
     {
         "path": "/de-quetzalcoatl-a-casanova/index.html",
         "type": "file",
-        "md5": "4215129404624315bfc43eb109017e4e"
+        "md5": "7e4bb109205458b68bd8a4e4b341d84b"
     },
     {
         "path": "el-cactus-divino",
@@ -122,7 +122,7 @@
     {
         "path": "/el-cactus-divino/index.html",
         "type": "file",
-        "md5": "dabf1b742615406dc05e7bec62f4812f"
+        "md5": "d78d5615926020246bda664867c2e478"
     },
     {
         "path": "el-camino",
@@ -132,7 +132,7 @@
     {
         "path": "/el-camino/index.html",
         "type": "file",
-        "md5": "50c89603de2430cbce78cf3d0503f339"
+        "md5": "b3b9da886128faf00960c7c49e21e49a"
     },
     {
         "path": "el-debate",
@@ -142,7 +142,7 @@
     {
         "path": "/el-debate/index.html",
         "type": "file",
-        "md5": "978f817bba57e9ea571e5262130cc5a8"
+        "md5": "50322426c27e72264c39cc376d73f835"
     },
     {
         "path": "el-discernimiento-y-la-depresion",
@@ -152,7 +152,7 @@
     {
         "path": "/el-discernimiento-y-la-depresion/index.html",
         "type": "file",
-        "md5": "1668b5f6eb6f494a384a60baeda6284d"
+        "md5": "a0549d5bc3bc410b35469df817c2914a"
     },
     {
         "path": "el-espejo-interior",
@@ -162,7 +162,7 @@
     {
         "path": "/el-espejo-interior/index.html",
         "type": "file",
-        "md5": "f3a7452d3289643195bacc8b5c9e6c2d"
+        "md5": "041d5cb45a984a79579ab7152166bae5"
     },
     {
         "path": "el-punto-de-quiebre-y-los-poseidos",
@@ -172,7 +172,7 @@
     {
         "path": "/el-punto-de-quiebre-y-los-poseidos/index.html",
         "type": "file",
-        "md5": "d63271bfa258c5b419354841aaf4c6dc"
+        "md5": "6f441b373f658a57526fe99d1e21bd51"
     },
     {
         "path": "el-tantra-del-arbol",
@@ -182,7 +182,7 @@
     {
         "path": "/el-tantra-del-arbol/index.html",
         "type": "file",
-        "md5": "04c8e9b39355197081380ed96535f7dd"
+        "md5": "296190571b571881d2fa783ebcec103b"
     },
     {
         "path": "el-tatuaje-atemporal",
@@ -192,7 +192,7 @@
     {
         "path": "/el-tatuaje-atemporal/index.html",
         "type": "file",
-        "md5": "05bfd1b81439529e7cc450582b0d6b26"
+        "md5": "d5acb4a7e732109ef2e86ac25812ea7f"
     },
     {
         "path": "el-vuelo-del-quetzal",
@@ -202,7 +202,7 @@
     {
         "path": "/el-vuelo-del-quetzal/index.html",
         "type": "file",
-        "md5": "416052dd3b04c0e1db9690aaa45e06ed"
+        "md5": "026247063c98524d892879a87d96dbd2"
     },
     {
         "path": "el-vuelo-del-quetzal-2",
@@ -212,17 +212,17 @@
     {
         "path": "/el-vuelo-del-quetzal-2/index.html",
         "type": "file",
-        "md5": "5f99a46e33bc4be7130d8d00d68c063c"
+        "md5": "d90ccb1960559d4ff9095c60036cf1d8"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "68dd5fb53d8cdd21e2519221f3113871"
+        "md5": "dbf6c082e522ce375160b5883c40e10e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d923597e7d78bc56992be4c8ca94a474"
+        "md5": "9a30b3f653210e1124bf3f17f33b1bcb"
     },
     {
         "path": "forma-y-sin-forma",
@@ -232,7 +232,7 @@
     {
         "path": "/forma-y-sin-forma/index.html",
         "type": "file",
-        "md5": "52f79fe2907edee15f25a64ad8a48451"
+        "md5": "1f02d8ccb4459884e623c61aaafe9d1d"
     },
     {
         "path": "historias-de-quetzal",
@@ -242,12 +242,12 @@
     {
         "path": "/historias-de-quetzal/index.html",
         "type": "file",
-        "md5": "655d3f5c9c115971c6e7d8a15467188f"
+        "md5": "07a7f25d71147d713981b59d77fec5c6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "5ab387c7af7188a3aff8914ba5b343ba"
+        "md5": "b74c2c359dac71a840b7dacd5517cb12"
     },
     {
         "path": "la-alegria-y-el-trauma",
@@ -257,7 +257,7 @@
     {
         "path": "/la-alegria-y-el-trauma/index.html",
         "type": "file",
-        "md5": "813b702bcc998522dc5de1e1eeee0a07"
+        "md5": "0b4fa8b41f361f3a8a8d88e523513691"
     },
     {
         "path": "la-basura-blanca",
@@ -267,7 +267,7 @@
     {
         "path": "/la-basura-blanca/index.html",
         "type": "file",
-        "md5": "e7b40839edf65f95def82c8be65bf2ba"
+        "md5": "81d6ed122717ac4ec1c2ed8e4e78feca"
     },
     {
         "path": "la-evolucion-colectiva",
@@ -277,7 +277,7 @@
     {
         "path": "/la-evolucion-colectiva/index.html",
         "type": "file",
-        "md5": "793180a6b5fee34f867356b4dd38f5cf"
+        "md5": "fa0e5be1c16429538d6e4da949c767f3"
     },
     {
         "path": "la-filosofia-perenne",
@@ -287,7 +287,7 @@
     {
         "path": "/la-filosofia-perenne/index.html",
         "type": "file",
-        "md5": "37f7e677c36bee3fb8f4b99f6f77db97"
+        "md5": "e2d6526f2f528fe6240f970e9410480b"
     },
     {
         "path": "la-liberacion-del-deseo",
@@ -297,7 +297,7 @@
     {
         "path": "/la-liberacion-del-deseo/index.html",
         "type": "file",
-        "md5": "cede0f991467f836bdb0512b94fb642c"
+        "md5": "648db3df4f8ba12e3a695290e23e6fed"
     },
     {
         "path": "la-pseudacultura-elite",
@@ -307,7 +307,7 @@
     {
         "path": "/la-pseudacultura-elite/index.html",
         "type": "file",
-        "md5": "9925771d579dd48663850b5f5bf183c7"
+        "md5": "624b513d534b83e0a248e59c1efeb22e"
     },
     {
         "path": "la-redencion",
@@ -317,7 +317,7 @@
     {
         "path": "/la-redencion/index.html",
         "type": "file",
-        "md5": "2393d3236202651bd55b9bc1b0ed02d3"
+        "md5": "06221e08ef240e0b77235dd668d9ee3a"
     },
     {
         "path": "la-revolucion-indigena",
@@ -327,7 +327,7 @@
     {
         "path": "/la-revolucion-indigena/index.html",
         "type": "file",
-        "md5": "0be04a38e0aab148eaabc96f49eeac76"
+        "md5": "3f68e7453093fc0b2691248f206b61a1"
     },
     {
         "path": "las-nupcias-del-sentido-con-el-alma",
@@ -337,7 +337,7 @@
     {
         "path": "/las-nupcias-del-sentido-con-el-alma/index.html",
         "type": "file",
-        "md5": "82d3e9aa17775cd3b211d4bee598f2db"
+        "md5": "944a4b21a823b71615772bde0a45cdeb"
     },
     {
         "path": "las-ranas-y-las-fugas",
@@ -347,7 +347,7 @@
     {
         "path": "/las-ranas-y-las-fugas/index.html",
         "type": "file",
-        "md5": "262aa6269f0a4fece5cc61626a85ae21"
+        "md5": "e01a76087a7a7d9e7562d8db20017c0d"
     },
     {
         "path": "libros",
@@ -357,7 +357,7 @@
     {
         "path": "/libros/index.html",
         "type": "file",
-        "md5": "ad28c3b99cca3275509bfd9bf1849d5f"
+        "md5": "0409f4154ffd99d3bc21f76849a53101"
     },
     {
         "path": "los-asanas-la-etica-y-la-evolucion",
@@ -367,7 +367,7 @@
     {
         "path": "/los-asanas-la-etica-y-la-evolucion/index.html",
         "type": "file",
-        "md5": "b75bc6de485637fa60abbf62cbc2ded8"
+        "md5": "a648a7f44e3a6d4a36a00572f47d4841"
     },
     {
         "path": "media",
@@ -392,7 +392,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "595d4f832de463ea375e3727de9049ab"
+        "md5": "83e6193d0f818a61950f3db5c37f2c6e"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -687,7 +687,7 @@
     {
         "path": "/personalidades/index.html",
         "type": "file",
-        "md5": "ad66f0b2381fddb0c6b6e7a1ab6f2ca9"
+        "md5": "ac4c4bcc6191ee75cca8f11bd4bce011"
     },
     {
         "path": "placeres-habitos-adicciones-y-los-5-m-del-tantra",
@@ -697,7 +697,7 @@
     {
         "path": "/placeres-habitos-adicciones-y-los-5-m-del-tantra/index.html",
         "type": "file",
-        "md5": "2e2eef0e438e639e671b646a6d6ac9d1"
+        "md5": "4bb005e2c511e37fcda5ed8ac796be12"
     },
     {
         "path": "por-que-esta-maldad-esta-encima",
@@ -707,7 +707,7 @@
     {
         "path": "/por-que-esta-maldad-esta-encima/index.html",
         "type": "file",
-        "md5": "72d9dac18ae87a5f47eec552a73b60cd"
+        "md5": "44d25695f1face94dc51caff5d663b8e"
     },
     {
         "path": "psorax-revisitado",
@@ -717,7 +717,7 @@
     {
         "path": "/psorax-revisitado/index.html",
         "type": "file",
-        "md5": "9cf92e78c64921caa98f562dae1cb34e"
+        "md5": "bd092785ffaff318000d8aa4c6c772a0"
     },
     {
         "path": "recreando",
@@ -727,17 +727,17 @@
     {
         "path": "/recreando/index.html",
         "type": "file",
-        "md5": "91ac7116d46319c6da10913d726b7692"
+        "md5": "8ac4493f1c6fe12cc04aeab4d59910e1"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "80a6a7ed553175b7738e4634169cb19d"
+        "md5": "b7d43d6be787d1c2f56612e4878420a6"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f20bc2c124d2bc93a7f4d9a3e6ded68b"
+        "md5": "b68d3d1567a9967c43c7c5e4869643ca"
     },
     {
         "path": "sitemap.xsl",
@@ -752,7 +752,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "808ac83dfcf3bc36f59216f440fcefa2"
+        "md5": "222a5763984895adb6ecc305f908537d"
     },
     {
         "path": "tantra-de-la-luz-y-la-oscuridad",
@@ -762,7 +762,7 @@
     {
         "path": "/tantra-de-la-luz-y-la-oscuridad/index.html",
         "type": "file",
-        "md5": "94cf786498f116ed01ab1048f85358fe"
+        "md5": "37093c8d918b260c71f42989df6542a7"
     },
     {
         "path": "tantra-universal",
@@ -772,7 +772,7 @@
     {
         "path": "/tantra-universal/index.html",
         "type": "file",
-        "md5": "619f6216bc4e9c49bad6bba4917a4dc2"
+        "md5": "5dee731a3db6240e4f6893bc695a932f"
     },
     {
         "path": "todos-nosotros",
@@ -782,7 +782,7 @@
     {
         "path": "/todos-nosotros/index.html",
         "type": "file",
-        "md5": "ef9d3386f8336bc28d3bc2f46f1698bd"
+        "md5": "191852d5879f7317abbb3d499fe04410"
     },
     {
         "path": "un-puente-al-infinito",
@@ -792,7 +792,7 @@
     {
         "path": "/un-puente-al-infinito/index.html",
         "type": "file",
-        "md5": "2afef6f4e342b1939aecec2bc238a58f"
+        "md5": "a5b58ef07d7614abb4b09129fbeb8e74"
     },
     {
         "path": "un-requiem",
@@ -802,7 +802,7 @@
     {
         "path": "/un-requiem/index.html",
         "type": "file",
-        "md5": "e018b1d1e11d4cfb2318e8a93f4ea823"
+        "md5": "9feb291c82fde5546c32e258b6fd095f"
     },
     {
         "path": "un-saludo",
@@ -812,7 +812,7 @@
     {
         "path": "/un-saludo/index.html",
         "type": "file",
-        "md5": "64b01385fa30944161d17d15b82d5430"
+        "md5": "1e1df80254d1e86e491b0a49cc1b5c0e"
     },
     {
         "path": "una-construccion-con-el-adobe-y-el-bahareque",
@@ -822,7 +822,7 @@
     {
         "path": "/una-construccion-con-el-adobe-y-el-bahareque/index.html",
         "type": "file",
-        "md5": "aedc7dc26829b51e25570ec57849c2c1"
+        "md5": "941002f540b81038ad7637874f194958"
     },
     {
         "path": "una-fotografia-sin-marco",
@@ -832,7 +832,7 @@
     {
         "path": "/una-fotografia-sin-marco/index.html",
         "type": "file",
-        "md5": "46d074965428796852b3020699433daa"
+        "md5": "4ba42f23999998c39a2488dbb9d01aa6"
     },
     {
         "path": "x",
@@ -842,6 +842,6 @@
     {
         "path": "/x/index.html",
         "type": "file",
-        "md5": "1c31c35efb0bc0d5bc8b14e74dc84294"
+        "md5": "18f0f49ab10007e9499c2be7aa7ac902"
     }
 ]
