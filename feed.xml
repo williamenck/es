@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>William Enckhausen - español</title>
-    <link href="https://williamenck.art/es/feed.xml" rel="self" />
-    <link href="https://williamenck.art/es" />
+    <link href="https://williamenck.github.io/feed.xml" rel="self" />
+    <link href="https://williamenck.github.io" />
     <updated>2025-03-12T15:20:46-06:00</updated>
     <author>
         <name>Willliam Enckhausen</name>
     </author>
-    <id>https://williamenck.art/es</id>
+    <id>https://williamenck.github.io</id>
 
     <entry>
         <title>Un Saludo </title>
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/un-saludo/"/>
-        <id>https://williamenck.art/es/un-saludo/</id>
+        <link href="https://williamenck.github.io/un-saludo/"/>
+        <id>https://williamenck.github.io/un-saludo/</id>
 
         <updated>2025-03-12T15:20:46-06:00</updated>
             <summary>
@@ -43,8 +43,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/de-quetzalcoatl-a-casanova/"/>
-        <id>https://williamenck.art/es/de-quetzalcoatl-a-casanova/</id>
+        <link href="https://williamenck.github.io/de-quetzalcoatl-a-casanova/"/>
+        <id>https://williamenck.github.io/de-quetzalcoatl-a-casanova/</id>
 
         <updated>2025-03-12T15:20:02-06:00</updated>
             <summary>
@@ -103,8 +103,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/la-alegria-y-el-trauma/"/>
-        <id>https://williamenck.art/es/la-alegria-y-el-trauma/</id>
+        <link href="https://williamenck.github.io/la-alegria-y-el-trauma/"/>
+        <id>https://williamenck.github.io/la-alegria-y-el-trauma/</id>
 
         <updated>2025-03-12T15:18:55-06:00</updated>
             <summary>
@@ -131,8 +131,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/recreando/"/>
-        <id>https://williamenck.art/es/recreando/</id>
+        <link href="https://williamenck.github.io/recreando/"/>
+        <id>https://williamenck.github.io/recreando/</id>
 
         <updated>2025-03-12T15:18:13-06:00</updated>
             <summary>
@@ -158,8 +158,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/la-redencion/"/>
-        <id>https://williamenck.art/es/la-redencion/</id>
+        <link href="https://williamenck.github.io/la-redencion/"/>
+        <id>https://williamenck.github.io/la-redencion/</id>
 
         <updated>2025-03-12T15:17:14-06:00</updated>
             <summary>
@@ -184,8 +184,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/el-espejo-interior/"/>
-        <id>https://williamenck.art/es/el-espejo-interior/</id>
+        <link href="https://williamenck.github.io/el-espejo-interior/"/>
+        <id>https://williamenck.github.io/el-espejo-interior/</id>
 
         <updated>2025-03-12T15:12:26-06:00</updated>
             <summary>
@@ -232,8 +232,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/todos-nosotros/"/>
-        <id>https://williamenck.art/es/todos-nosotros/</id>
+        <link href="https://williamenck.github.io/todos-nosotros/"/>
+        <id>https://williamenck.github.io/todos-nosotros/</id>
 
         <updated>2025-03-12T15:11:34-06:00</updated>
             <summary>
@@ -265,8 +265,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/el-camino/"/>
-        <id>https://williamenck.art/es/el-camino/</id>
+        <link href="https://williamenck.github.io/el-camino/"/>
+        <id>https://williamenck.github.io/el-camino/</id>
 
         <updated>2025-03-12T15:10:42-06:00</updated>
             <summary>
@@ -294,8 +294,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/el-tantra-del-arbol/"/>
-        <id>https://williamenck.art/es/el-tantra-del-arbol/</id>
+        <link href="https://williamenck.github.io/el-tantra-del-arbol/"/>
+        <id>https://williamenck.github.io/el-tantra-del-arbol/</id>
 
         <updated>2025-03-12T15:10:05-06:00</updated>
             <summary>
@@ -306,7 +306,7 @@
         <content type="html">
             <![CDATA[
                 <header><br>
-<figure class="post__image"><img loading="lazy"  src="https://williamenck.art/es/media/posts/33/ceiba.jpg" alt="" width="320" height="214" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://williamenck.art/es/media/posts/33/responsive/ceiba-xs.jpg 640w ,https://williamenck.art/es/media/posts/33/responsive/ceiba-sm.jpg 768w ,https://williamenck.art/es/media/posts/33/responsive/ceiba-md.jpg 1024w ,https://williamenck.art/es/media/posts/33/responsive/ceiba-lg.jpg 1366w ,https://williamenck.art/es/media/posts/33/responsive/ceiba-xl.jpg 1600w ,https://williamenck.art/es/media/posts/33/responsive/ceiba-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://williamenck.github.io/media/posts/33/ceiba.jpg" alt="" width="320" height="214" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://williamenck.github.io/media/posts/33/responsive/ceiba-xs.jpg 640w ,https://williamenck.github.io/media/posts/33/responsive/ceiba-sm.jpg 768w ,https://williamenck.github.io/media/posts/33/responsive/ceiba-md.jpg 1024w ,https://williamenck.github.io/media/posts/33/responsive/ceiba-lg.jpg 1366w ,https://williamenck.github.io/media/posts/33/responsive/ceiba-xl.jpg 1600w ,https://williamenck.github.io/media/posts/33/responsive/ceiba-2xl.jpg 1920w"></figure>
 </header>
 <section class="page__content">
 <p>Había un místico maya que siempre se sentaba en la meditación bajo el árbol de ceiba. Esto me hizo pensar en cómo un maestro hindú dijo que es bueno para meditar bajo el árbol de neem. También recuerdo como el Buddha logró la iluminación bajo el árbol Bodhi. Los árboles mantienen unida nuestra preciosa tierra para evitar inundaciones. Su madera nos dan fuego para leña y para construir casas. Algunos nos dan comida de frutos y hojas. Todos trabajan incesantemente para convertir todo el carbono que arrojamos sin pensar a la atmósfera solo para darnos oxígeno para vivir. Aunque se sabe comúnmente que las hojas, frutos, raíces y corteza de muchos árboles tienen propiedades medicinales, sus propiedades místicas son menos conocidas. Creo que los árboles místicas y medicinales son más conscientes que la mayoría de los seres humanos de este planeta en este momento. Uno toma el árbol como un símbolo para la meditación y al mismo tiempo tomando refugio real bajo el árbol y participando con su escudo de energía electromagnética mientras se medita. Según los místicos mayas “nada malo puede ocurrir bajo la ceiba.” La fuerza hacia arriba que crece fuera de la tierra ayuda a despertar la fuerza kundalini en el humano también, mientras que la fuerza descendente de convertir el aire en masa y el desarrollo de raíces profundas en la tierra ayuda a volver la kundalini hacia abajo. La mente debe volar hacia arriba, hacia el espíritu, pero también tiene que volver a la tierra, al menos durante el tiempo que uno esté en esta tierra. El kundalini es la fuerza del Kulkulkan que en la india es conocido simbólicamente como la fuerza “serpentina” del kundalini. Al igual que los yoguis de la India, el yogi maya dice que un yogi completa su práctica espiritual por traer el kundalini hacia abajo, desde la corona y i abajo al corazón espiritual. Esto proporciona una base para la mente a mitad de camino a lo largo de la columna vertebral. Uno puede estar con alegría en la existencia aquí sin dejar de tener un estado sutil del ser y al mismo tiempo mantenerse en la tierra y en el cuerpo. Al igual que la gran ceiba, uno se extiende hacia lo alto en el cielo al mismo tiempo que uno se enraíza profundamente en la tierra. La fuerza de kundalini sin guiar puede dar liberación pero puede matar al cuerpo si no se tiene cuidado. Uno se apega a la felicidad y la experiencia espiritual, pero hay que saber cómo equilibrar esa buenaventura. Es mejor guardar la intensidad para cuando en realidad sea la hora de dejar todo el trabajo en el mundo y por lo tanto el cuerpo físico, y nunca antes de este tiempo. Al igual que el Upanishad dice, “Desea vivir 100 años mientras trabajas en unidad alegre con Brahma.”</p>
@@ -319,8 +319,8 @@
         <author>
             <name>Willliam Enckhausen</name>
         </author>
-        <link href="https://williamenck.art/es/el-discernimiento-y-la-depresion/"/>
-        <id>https://williamenck.art/es/el-discernimiento-y-la-depresion/</id>
+        <link href="https://williamenck.github.io/el-discernimiento-y-la-depresion/"/>
+        <id>https://williamenck.github.io/el-discernimiento-y-la-depresion/</id>
 
         <updated>2025-03-12T15:09:01-06:00</updated>
             <summary>
