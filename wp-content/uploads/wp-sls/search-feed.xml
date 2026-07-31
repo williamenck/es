@@ -27,13 +27,13 @@
 
 <channel>
 	<title>William Enckhausen</title>
-	<link>https://es.williamenck.is/</link>
+	<link>https://enckhausen.github.io/es/</link>
 	<description></description>
 	<pubDate>Fri, 31 Jul 2026 11:43:38 +0000</pubDate>
 	<language>es</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://es.williamenck.is/</wp:base_site_url>
-	<wp:base_blog_url>https://es.williamenck.is/</wp:base_blog_url>
+	<wp:base_site_url>https://enckhausen.github.io/es/</wp:base_site_url>
+	<wp:base_blog_url>https://enckhausen.github.io/es/</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[williamenck]]></wp:author_login><wp:author_email><![CDATA[william@williamenck-art.trudy.shared.1984.is]]></wp:author_email><wp:author_display_name><![CDATA[william enckhausen]]></wp:author_display_name><wp:author_first_name><![CDATA[william]]></wp:author_first_name><wp:author_last_name><![CDATA[enckhausen]]></wp:author_last_name></wp:author>
 
@@ -41,16 +41,16 @@
 	<generator>https://wordpress.org/?v=7.0.2</generator>
 
 <image>
-	<url>https://es.williamenck.is/wp-content/uploads/2026/06/cropped-quetzal-32x32.jpg</url>
+	<url>https://enckhausen.github.io/es/wp-content/uploads/2026/06/cropped-quetzal-32x32.jpg</url>
 	<title>William Enckhausen</title>
-	<link>https://es.williamenck.is/</link>
+	<link>https://enckhausen.github.io/es/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title><![CDATA[Dogma, Disonancia y Disenso]]></title>
-		<link>https://es.williamenck.is/dogma-disonancia-y-disenso/</link>
+		<link>https://enckhausen.github.io/es/dogma-disonancia-y-disenso/</link>
 		<pubDate>Tue, 16 Jun 2026 00:15:14 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=90</guid>
@@ -126,11 +126,11 @@ Nuestra falta de atención plena da cabida a un sinfín de ideologías absurdas.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/dogma-dissonance-and-dissent-2/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/dogma-dissonance-and-dissent-2/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -147,7 +147,7 @@ Nuestra falta de atención plena da cabida a un sinfín de ideologías absurdas.
 							</item>
 					<item>
 		<title><![CDATA[El Espejo Interior]]></title>
-		<link>https://es.williamenck.is/el-espejo-interior/</link>
+		<link>https://enckhausen.github.io/es/el-espejo-interior/</link>
 		<pubDate>Tue, 16 Jun 2026 00:16:39 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=94</guid>
@@ -228,11 +228,11 @@ El Atman es la base de nuestra conciencia. Es como si la electricidad pasara por
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-inward-mirror/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-inward-mirror/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -241,7 +241,7 @@ El Atman es la base de nuestra conciencia. Es como si la electricidad pasara por
 							</item>
 					<item>
 		<title><![CDATA[Todos Nosotros]]></title>
-		<link>https://es.williamenck.is/todos-nosotros/</link>
+		<link>https://enckhausen.github.io/es/todos-nosotros/</link>
 		<pubDate>Tue, 16 Jun 2026 00:17:55 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=96</guid>
@@ -293,11 +293,11 @@ Todavía no estoy seguro de por qué estas experiencias ocurrieron recientemente
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/all-of-us/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/all-of-us/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -314,7 +314,7 @@ Todavía no estoy seguro de por qué estas experiencias ocurrieron recientemente
 							</item>
 					<item>
 		<title><![CDATA[La Alegría Y El Trauma]]></title>
-		<link>https://es.williamenck.is/la-alegria-y-el-trauma/</link>
+		<link>https://enckhausen.github.io/es/la-alegria-y-el-trauma/</link>
 		<pubDate>Tue, 16 Jun 2026 00:19:41 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=100</guid>
@@ -355,11 +355,11 @@ Después de escuchar su historia me puse en su lugar y pude imaginar fácilmente
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/joy-and-trauma/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/joy-and-trauma/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -372,7 +372,7 @@ Después de escuchar su historia me puse en su lugar y pude imaginar fácilmente
 							</item>
 					<item>
 		<title><![CDATA[Cool-kulkan]]></title>
-		<link>https://es.williamenck.is/cool-kulkan-2/</link>
+		<link>https://enckhausen.github.io/es/cool-kulkan-2/</link>
 		<pubDate>Tue, 16 Jun 2026 00:39:33 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=103</guid>
@@ -431,11 +431,11 @@ Después de escuchar su historia me puse en su lugar y pude imaginar fácilmente
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/cool-kulkan/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/cool-kulkan/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -444,7 +444,7 @@ Después de escuchar su historia me puse en su lugar y pude imaginar fácilmente
 							</item>
 					<item>
 		<title><![CDATA[Libros]]></title>
-		<link>https://es.williamenck.is/libros/</link>
+		<link>https://enckhausen.github.io/es/libros/</link>
 		<pubDate>Tue, 16 Jun 2026 00:40:29 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=105</guid>
@@ -484,11 +484,11 @@ Después de escuchar su historia me puse en su lugar y pude imaginar fácilmente
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/works/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/works/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -501,7 +501,7 @@ Después de escuchar su historia me puse en su lugar y pude imaginar fácilmente
 							</item>
 					<item>
 		<title><![CDATA[La Red]]></title>
-		<link>https://es.williamenck.is/la-red/</link>
+		<link>https://enckhausen.github.io/es/la-red/</link>
 		<pubDate>Tue, 16 Jun 2026 00:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=107</guid>
@@ -540,11 +540,11 @@ Después de escuchar su historia me puse en su lugar y pude imaginar fácilmente
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-net/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-net/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -557,7 +557,7 @@ Después de escuchar su historia me puse en su lugar y pude imaginar fácilmente
 							</item>
 					<item>
 		<title><![CDATA[La Pseudacultura Elite]]></title>
-		<link>https://es.williamenck.is/la-pseudacultura-elite/</link>
+		<link>https://enckhausen.github.io/es/la-pseudacultura-elite/</link>
 		<pubDate>Tue, 16 Jun 2026 00:43:41 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=112</guid>
@@ -588,7 +588,7 @@ Tal fue mi argumento. Este es el epítome de la “lógica satánica”, cuando 
 
 El año pasado hubo tantos cadáveres alrededor de nuestro valle que tuve que mantener a los perros adentro para que no comieran carne humana podrida. Los narcos que invadieron nuestra área practican el sacrificio humano. A veces tienen tantos cuerpos que simplemente los tiran por la carretera o suben a la montaña. La gente solía comer liebres por aquí hasta que comenzaron a tener un sabor extraño. Los pastores de cabras notaron que estos animales estaban comiendo a los humanos muertos. A veces no podíamos dormir por el sonido de las ametralladoras y los gritos de los torturados. La mayoría de las víctimas son inmigrantes robados de los trenes mientras intentan cruzar la frontera de los Estados Unidos. ¡El muro en la frontera ya existe! ¿Cómo es eso de colusión entre la mafia y el estado?
 
-Los militares y la policía hacen la vista gorda. No olvidemos que la inteligencia y el ejército mexicano y estadounidense están trabajando juntos en esto. Operan legalmente como una sola entidad desde que la legislación fue aprobada en la época de Calderón y su narco guerra. Hace unos meses, la policía allanó un compuesto que los narcos usaban para la extracción de órganos. El lugar era una carnicería humana. Había huesos humanos por todas partes. Esta es la base cercana que se describe en mi escrito, <a href="https://es.williamenck.is/es/un-requiem">“Un Réquiem”</a>. Hubo demasiados informes sobre esta operación y la policía se vio obligada a actuar, pero el líder de la operación fue puesto en libertad al día siguiente.
+Los militares y la policía hacen la vista gorda. No olvidemos que la inteligencia y el ejército mexicano y estadounidense están trabajando juntos en esto. Operan legalmente como una sola entidad desde que la legislación fue aprobada en la época de Calderón y su narco guerra. Hace unos meses, la policía allanó un compuesto que los narcos usaban para la extracción de órganos. El lugar era una carnicería humana. Había huesos humanos por todas partes. Esta es la base cercana que se describe en mi escrito, <a href="https://enckhausen.github.io/es/es/un-requiem">“Un Réquiem”</a>. Hubo demasiados informes sobre esta operación y la policía se vio obligada a actuar, pero el líder de la operación fue puesto en libertad al día siguiente.
 
 Si solo la élite mexicana y estadounidense pudieran verse a sí mismos, vean sus propias sombras como individuos y como una sociedad colectiva. Lloran por la inmigración, pero que quieren mantener sus propias corporaciones dentro de sus propias fronteras, revertir el TLCAN y responsabilizarse por sus estilos de vida frívolos y materialistas que realmente requieren un imperialismo tan brutal. Es pura hipocresía cerrar nuestras fronteras cuando nuestro gobierno enmarca las leyes que permiten a nuestras corporaciones multinacionales desestabilizar las economías latinoamericanas. La CIA, los bureaucratos del gobierno, y los “asesinos corporativos” siempre han trabajado y seguirá trabajando diligentemente para socavar los gobiernos populistas y cultivar dictadores y regímenes favorables a las multinacionales. Es natural que las personas huyan de los países del tercer mundo devastados por el imperialismo y emigren al primer mundo donde sus recursos robados y los frutos de su trabajo explotado llegan. En el caso de México, estos paramilitares y “narcos” son necesarios para inducir el terror para robar las tierras de las personas, sus recursos y socavar todos el orden económico y social solo para mantener nuestras indulgencias imperialistas. Mis compatriotas, ¿están ofendidos? Yo espero que sí. Tal vez si cumpliste con tu deber moral de resistencia y revolución, tal vez superes tu enfermedad.
 
@@ -604,7 +604,7 @@ Hace pocos años cuando viví en el norte de México conocí a un joven muy rico
 
 Reflexiono sobre esto y recuerdo que esta persona no tenía mala voluntad como nazi, solo estaba muy confundido. Sin embargo, sus ideas revelan algo muy verdadero sobre la psicología de la élite. Él sabe que el estado son los narcos verdaderos y tiene familiares que son políticos sucios. Parecía tener alguna idea de cómo la guerra del narcotráfico era realmente una cortina de humo para una mayor agenda política. Cuando escucho estas confesiones, siempre son sus tíos, nunca sus propios padres, quienes están involucrados en oscuras conspiraciones políticas. Anhelan confesar su culpa. Detesta y difama la guerra, pero superficialmente y no públicamente, por supuesto. Tal vez con estas ideas de decir que Hitler no era realmente malo, estaba tratando de resolver su disonancia cognitiva para el sistema de creencias de su clase. Tal vez el tenga una conciencia más humana y culpable dentro de una sociedad élite, blanca sin conciencia, muy parecida a los nazis. Se identifica con el cristianismo y su herencia blanca bajo el hechizo de un mito destructivo y racista, e inconscientemente ve cómo el genocidio está ocurriendo de nuevo, pero no quiere aceptarlo y responsabilizarse por ello. Si el Holocausto del siglo XX nunca sucedió, entonces, ¿quizás este presente que está siendo cometido por su clase tampoco está sucediendo? Al negar el pasado, niega la similitud del presente. Al hacer de Hitler un buen cristiano, el también puede ser un buen cristiano y seguir con una vida nazi muy cómoda. La negación absoluta es el mecanismo de represión más extremo y desesperado para un ego engañado. Es increíble cómo el más obvio y real es algo que el ego disonante tendrá que negarlo de la manera más absurda y desesperada. El sufre esa disonancia y culpa porque no esta de acuerdo, y no ha “dominado su consciencia” como un verdadero nazi. He conocido a algunas damas ricas que están casadas con directores ejecutivos muy adinerados, verdaderos nazis que no son aprensivos sobre lo que está sucediendo. Estas mujeres confesaron su disgusto con las ideas de sus esposos que dicen que ahora es el momento de un nuevo orden y que deben ser crueles para asegurar sus intereses.
 
-Mencioné que en los últimos años ha habido mucha violencia en el valle. No conozco a nadie en el pueblo que no se haya encontrado con cadáveres en la zona. El verano pasado hubo incluso 30 niños muertos que fueron encontrados tirados por el lago. Yo mismo fui testigo de estos eventos e incluso arriesgué mi vida hablando de ellos públicamente. Escribí sobre estas aventuras en <a href="https://es.williamenck.is/es/un-requiem/" target="_blank" rel="noopener noreferrer">"Un Réquiem"</a>.  Al mismo tiempo, descubro que algunos de los políticos locales están visitando a mi vecino que tiene un viñedo. Él está protegido por ellos porque hace vino para ellos. Chicos con ametralladoras protegieron la carretera hasta que apareció la caravana de invitados. Cuando se acercaron al viñedo, guardaron sus armas. Estas personas permanecen en bases cercanas y ocasionalmente salen con un AK47 o un fuego de bazuca para mantener a todos en constante temor mientras sus compañeros de trabajo extraen órganos o sacan a los inmigrantes de los trenes.
+Mencioné que en los últimos años ha habido mucha violencia en el valle. No conozco a nadie en el pueblo que no se haya encontrado con cadáveres en la zona. El verano pasado hubo incluso 30 niños muertos que fueron encontrados tirados por el lago. Yo mismo fui testigo de estos eventos e incluso arriesgué mi vida hablando de ellos públicamente. Escribí sobre estas aventuras en <a href="https://enckhausen.github.io/es/es/un-requiem/" target="_blank" rel="noopener noreferrer">"Un Réquiem"</a>.  Al mismo tiempo, descubro que algunos de los políticos locales están visitando a mi vecino que tiene un viñedo. Él está protegido por ellos porque hace vino para ellos. Chicos con ametralladoras protegieron la carretera hasta que apareció la caravana de invitados. Cuando se acercaron al viñedo, guardaron sus armas. Estas personas permanecen en bases cercanas y ocasionalmente salen con un AK47 o un fuego de bazuca para mantener a todos en constante temor mientras sus compañeros de trabajo extraen órganos o sacan a los inmigrantes de los trenes.
 
 Así que mientras hay este genocidio horrible en nuestro valle, mi vecino disfruta invitando a los políticos y la burguesía a eventos de vino. Me enfurecí y les grité: “Asesinos, son como un grupo de nazis que celebran una fiesta en un campo de concentración. Lave toda la sangre roja con su vino tinto”.
 
@@ -635,11 +635,11 @@ Este año decidí ser más civil y mezclarme con los visitantes cultos cuando ll
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-elite-pseudoculture/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-elite-pseudoculture/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -648,7 +648,7 @@ Este año decidí ser más civil y mezclarme con los visitantes cultos cuando ll
 							</item>
 					<item>
 		<title><![CDATA[La Filosofía Perenne]]></title>
-		<link>https://es.williamenck.is/la-filosofia-perenne/</link>
+		<link>https://enckhausen.github.io/es/la-filosofia-perenne/</link>
 		<pubDate>Tue, 16 Jun 2026 00:46:53 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=114</guid>
@@ -699,11 +699,11 @@ Extracto de Un Nombre Para El Infinito</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-perennial-philosophy/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-perennial-philosophy/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -712,7 +712,7 @@ Extracto de Un Nombre Para El Infinito</a>
 							</item>
 					<item>
 		<title><![CDATA[Forma Y Sin Forma]]></title>
-		<link>https://es.williamenck.is/forma-y-sin-forma/</link>
+		<link>https://enckhausen.github.io/es/forma-y-sin-forma/</link>
 		<pubDate>Tue, 16 Jun 2026 00:48:02 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=117</guid>
@@ -747,7 +747,7 @@ Extracto de Un Nombre Para El Infinito</a>
 
 <span style="font-size: 18pt;">Sentí el deseo de estos antepasados de seguir viviendo a través de mí, pero me preguntaba cómo era posible, porque me veía a mí mismo desapareciendo de este mundo. Entonces los vi como rayos de luz que volvían a descender, abrían el chakra Vishuddha y entraban en mi pecho con el sonido “ka”, el sonido que controla la propensión a la esperanza. Sin una visión esperanzada no se puede vivir bien en este mundo, pero en la eternidad ni siquiera es necesaria la esperanza, ya que todo está completo y todas las esperanzas se cumplen. En este estado de “muerte” recibí una visión nueva y optimista para el futuro con algunas actividades nuevas que me atarían por un tiempo. Empecé a respirar de nuevo y poco a poco salí de la meditación. El bebé de un amigo gateó hacia mí y repitió el sonido “ka”.</span>
 
-<span style="font-size: 18pt;">Volví al rancho en el desierto con mi séquito donde comenzó un gran drama sociopolítico y me convertí en en un <a href="https://es.williamenck.is/es/un-requiem/"> matanarco quijotesco.</a></span>
+<span style="font-size: 18pt;">Volví al rancho en el desierto con mi séquito donde comenzó un gran drama sociopolítico y me convertí en en un <a href="https://enckhausen.github.io/es/es/un-requiem/"> matanarco quijotesco.</a></span>
 
 <span style="font-size: 18pt;">Los Hijos de los Brahmánas</span>
 
@@ -769,7 +769,7 @@ Extracto de Un Nombre Para El Infinito</a>
 
 <span style="font-size: 18pt;">Sin embargo, fue en la altura de mis realizaciones sin forma de lo divino que tenía tantas experiencias de formas divinas! Anandamurti, en sueños o en la meditación, siempre me guio hacia la presencia real del Atman y nunca dijo algo como: “Yo soy el único camino.” Estas experiencias siempre revelan lo que vi como verdades universales profundas. Mi mente se había conectado con esta forma particular que revela verdades mucho más allá de la forma. Incluso una vez apareció a mis ojos físicos la forma luminosa de Cristo después de una meditación profunda. No tenía duda de que había una presencia divina que se manifiesta como una forma. Su forma era translúcida y la serpiente de jade que yo había visto en mis primeras experiencias kundalini fue visto justo detrás de los ojos en el nivel del cerebro medio. Comprendí claramente que era un símbolo de la unión del cielo y la tierra; de dios y de la humanidad. El “poder de la serpiente” de la kundalini, la energía divina latente en la base de la columna vertebral, despierta en el cerebro y nos transforma en algo inconcebible para el intelecto del ego, o Aham. Esta serpiente en el cerebro medio estaba completamente domesticada y dentro de toda la belleza de la hermosa cabeza de la figura de Cristo. Pensé en cómo un cerebro tan iluminada debe haber incorporado los denominados cerebros reptiles y mamíferos en los místicos y aún no entendidos potenciales de la neo-corteza humana que ha evolucionado por encima y alrededor de ellos. Cristo es un símbolo de esta perfección yóguica, al menos en mi experiencia. La visión era más hermosa y significativa que cualquier cosa que he visto en el Louvre o en cualquier otro museo del mundo. Cuando lo recuerdo vuelvo a ese estado de éxtasis en el presente. Conforme pasa el tiempo entiendo como la visión de formas verdades espirituales ayuda entender verdades profundas que uno no puede captar normalmente sin la ayuda del medio de la forma.</span>
 
-<span style="font-size: 18pt;"><img class="alignnone size-medium wp-image-297" src="https://es.williamenck.is/wp-content/uploads/2026/06/rublev-254x300.jpg" alt="" width="254" height="300" /></span>
+<span style="font-size: 18pt;"><img class="alignnone size-medium wp-image-297" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/rublev-254x300.jpg" alt="" width="254" height="300" /></span>
 
 <span style="font-size: 18pt;">Sigo teniendo muchos sueños y visiones de la conciencia crística. No pienso en ellos ni trato de invocarlos y parecen venir por sí mismos. Estas experiencias quizás revelen algunas verdades sobre el misticismo cristiano, pero nunca he podido identificarme como cristiano. No tengo religión ni sistema de creencias fijo, solo experiencias espirituales basadas en la práctica espiritual. Me gusta la filosofía tántrica porque se basa en la práctica espiritual y no en dogmas fijos. Por eso me gusta explicar mis experiencias místicas con conceptos y lenguaje tántrico. Es un sistema racional y práctico que otras personas pueden utilizar para escudriñar estas ideas y, tal vez, obtener algún conocimiento práctico de ellas a través de su propia meditación. l</span>
 
@@ -805,11 +805,11 @@ Extracto de Un Nombre Para El Infinito</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/form-and-formless/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/form-and-formless/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -826,7 +826,7 @@ Extracto de Un Nombre Para El Infinito</a>
 							</item>
 					<item>
 		<title><![CDATA[Placeres, Hábitos, Adicciones Y Los 5 “M” del Tantra]]></title>
-		<link>https://es.williamenck.is/placeres-habitos-adicciones-y-los-5-m-del-tantra/</link>
+		<link>https://enckhausen.github.io/es/placeres-habitos-adicciones-y-los-5-m-del-tantra/</link>
 		<pubDate>Tue, 16 Jun 2026 00:49:04 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=122</guid>
@@ -899,11 +899,11 @@ materia sutil, sin mencionar la mente pura y la consciencia.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/pleasures-habits-and-addictions/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/pleasures-habits-and-addictions/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -912,7 +912,7 @@ materia sutil, sin mencionar la mente pura y la consciencia.
 							</item>
 					<item>
 		<title><![CDATA[Historias De Quetzal]]></title>
-		<link>https://es.williamenck.is/historias-de-quetzal/</link>
+		<link>https://enckhausen.github.io/es/historias-de-quetzal/</link>
 		<pubDate>Tue, 16 Jun 2026 00:51:11 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=125</guid>
@@ -920,7 +920,7 @@ materia sutil, sin mencionar la mente pura y la consciencia.
 		<content:encoded><![CDATA[<header>
 <p class="page__meta"></p>
 
-</header><section class="page__content">Un extracto de <a href="https://es.williamenck.is/es/Microvita%20Y%20Tantra%20Maya.pdf">Microvita Y Tantra Maya</a>Descubrí las prácticas de Tantra Maya de una manera muy curiosa. Un verano pasé por meditaciones muy profundas e intensas. Era durante los tiempos más intensos y horrorosos del llamado “guerra contra el narco” en México. El terror sólo empujó nuestra comunidad adelante en nuestras meditaciones a intentar a procesar el absurdo de la guerra. Tomando la postura de guerreros, decidimos no dejar a nada afectar nuestra determinación de seguir con nuestras vidas y prácticas espirituales. Un día, mientras en el profundo silencio, comencé a ver todo tipo de imágenes aparecer en mi mente. Se metieron e interrumpieron el silencio, quieto y sin aliento. Despertando otra vez en mi mente activa, inmediatamente sentí estas formas del pensamiento como símbolos mayas aun que no los conocía bien antes. Mientras estos símbolos aparecieron sentí que había algún guía o maestro que explicaba el significado profundo de cada uno de ellos - la pirámide, el árbol ceiba, así como muchos sonidos peculiares y mantras de meditación. Había pocas imágenes, pero las explicaciones eran tan profundas. Quizás estas ideas sólo duraron unos momentos pero se embalaron llenos de ideas profundas, meditativas. Seguí disfrutando de estas sesiones interiores creyendo que yo había tocado algo en la reserva de memorias colectivas, o archivos akáshicos. Creyendo que había descubierto algún yoga maya secreto, platica a mi amiga sobre ello. Se rió y dijo que eran todas las prácticas que había aprendido cuando tenía 7 años de su maestro maya, Quetzal. A ese mismo tiempo corrió la voz de que Quetzal acababa de fallecer en más de 110 años de la edad.La mayor parte de personas que tienen experiencias así piensen que están canalizando algún espíritu muerto. Uno se hace un “chamán” y va por la peregrinación a Palenque o Sedona. A través de la carencia de un entendimiento de las capas más profundas de la mente, uno cree que uno se ha hecho un medio. La meditación es una técnica para concentrarse en el Testigo interior detrás de todo el fenómeno mental. Aquí es el infinito y sólo en esta buenaventura interior que la mente existe sin tantas ataduras. La visión oculta es definitivamente una cadena como visto desde este punto de vista. En vez de ver el infinito más allá de los límites de la mente relativa, uno se hace enamorada por la información interesante que pasa por el medio relativo de la mente. La mayor parte de egos no pueden manejar la información y terminan yendo por una especie de viaje del ego “espiritual” ya que caen a las trampas del nombre y la fama en haber conseguido un poco de capacidad “paranormal”.
+</header><section class="page__content">Un extracto de <a href="https://enckhausen.github.io/es/es/Microvita%20Y%20Tantra%20Maya.pdf">Microvita Y Tantra Maya</a>Descubrí las prácticas de Tantra Maya de una manera muy curiosa. Un verano pasé por meditaciones muy profundas e intensas. Era durante los tiempos más intensos y horrorosos del llamado “guerra contra el narco” en México. El terror sólo empujó nuestra comunidad adelante en nuestras meditaciones a intentar a procesar el absurdo de la guerra. Tomando la postura de guerreros, decidimos no dejar a nada afectar nuestra determinación de seguir con nuestras vidas y prácticas espirituales. Un día, mientras en el profundo silencio, comencé a ver todo tipo de imágenes aparecer en mi mente. Se metieron e interrumpieron el silencio, quieto y sin aliento. Despertando otra vez en mi mente activa, inmediatamente sentí estas formas del pensamiento como símbolos mayas aun que no los conocía bien antes. Mientras estos símbolos aparecieron sentí que había algún guía o maestro que explicaba el significado profundo de cada uno de ellos - la pirámide, el árbol ceiba, así como muchos sonidos peculiares y mantras de meditación. Había pocas imágenes, pero las explicaciones eran tan profundas. Quizás estas ideas sólo duraron unos momentos pero se embalaron llenos de ideas profundas, meditativas. Seguí disfrutando de estas sesiones interiores creyendo que yo había tocado algo en la reserva de memorias colectivas, o archivos akáshicos. Creyendo que había descubierto algún yoga maya secreto, platica a mi amiga sobre ello. Se rió y dijo que eran todas las prácticas que había aprendido cuando tenía 7 años de su maestro maya, Quetzal. A ese mismo tiempo corrió la voz de que Quetzal acababa de fallecer en más de 110 años de la edad.La mayor parte de personas que tienen experiencias así piensen que están canalizando algún espíritu muerto. Uno se hace un “chamán” y va por la peregrinación a Palenque o Sedona. A través de la carencia de un entendimiento de las capas más profundas de la mente, uno cree que uno se ha hecho un medio. La meditación es una técnica para concentrarse en el Testigo interior detrás de todo el fenómeno mental. Aquí es el infinito y sólo en esta buenaventura interior que la mente existe sin tantas ataduras. La visión oculta es definitivamente una cadena como visto desde este punto de vista. En vez de ver el infinito más allá de los límites de la mente relativa, uno se hace enamorada por la información interesante que pasa por el medio relativo de la mente. La mayor parte de egos no pueden manejar la información y terminan yendo por una especie de viaje del ego “espiritual” ya que caen a las trampas del nombre y la fama en haber conseguido un poco de capacidad “paranormal”.
 
 Nunca he buscado este conocimiento. El poco entendimiento que tengo sólo es porque mi mente era tranquila y sin intencionalidad cuando estas experiencias ocurrieron. Mis experiencias con esta información tienen más sentido, al menos pienso en esta información como viniendo de un espíritu incorpóreo. Aunque realmente siento una presencia distinta, la experiencia cruza más como una “descarga” de la información más que una especie de diálogo con un espíritu difunto. Sin embargo, no rechazo totalmente la idea que algo de esta mente particular estuvo presente en estas experiencias. Además, la naturaleza de esta información era puramente espiritual y revelaba ciertas leyes universales del espíritu en vez de las cosas sensacionales. No había palabras que describieron a estas formas de pensamiento, sólo ideas puras. Estas ideas se conducen muy bien con Tantra indio con el cual soy más familiar.
 
@@ -1059,11 +1059,11 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Microvi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/stories-of-quetzal/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/stories-of-quetzal/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1080,7 +1080,7 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Microvi
 							</item>
 					<item>
 		<title><![CDATA[La Evolución Colectiva]]></title>
-		<link>https://es.williamenck.is/la-evolucion-colectiva/</link>
+		<link>https://enckhausen.github.io/es/la-evolucion-colectiva/</link>
 		<pubDate>Tue, 16 Jun 2026 00:52:05 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=128</guid>
@@ -1187,11 +1187,11 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Microvi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/collective-evolution/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/collective-evolution/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1200,7 +1200,7 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Microvi
 							</item>
 					<item>
 		<title><![CDATA[El Discernimiento y la Depresión]]></title>
-		<link>https://es.williamenck.is/el-discernimiento-y-la-depresion/</link>
+		<link>https://enckhausen.github.io/es/el-discernimiento-y-la-depresion/</link>
 		<pubDate>Tue, 16 Jun 2026 00:53:13 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=130</guid>
@@ -1245,11 +1245,11 @@ Un Extracto De <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Anahata
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/discernment-and-depression/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/discernment-and-depression/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1258,14 +1258,14 @@ Un Extracto De <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Anahata
 							</item>
 					<item>
 		<title><![CDATA[¿Por Que Esta Maldad Está Encima?]]></title>
-		<link>https://es.williamenck.is/por-que-esta-maldad-esta-encima/</link>
+		<link>https://enckhausen.github.io/es/por-que-esta-maldad-esta-encima/</link>
 		<pubDate>Tue, 16 Jun 2026 00:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=132</guid>
 		<description></description>
 		<content:encoded><![CDATA[<header>
 <p class="page__meta">Ya empecemos el trabajo de la siembra del café orgánico. Un amigo me sugirió que debo poner una cabaña para turistas que les gustarían visitar una finca orgánica de café. Pienso que turistas necesitarían algo mas que hacer en el area local que solo visitar una finca. Sin embargo, la reserva natural El Triunfo está cerca, que tiene el bosque nuboso más alto del mundo. Todavía no he estado allí, pero escuché que la visita requiere muchas caminatas ya que no hay caminos hasta la reserva.</p>
-<img class="alignnone size-medium wp-image-331" src="https://es.williamenck.is/wp-content/uploads/2026/06/coffee-300x169.jpg" alt="" width="300" height="169" />
+<img class="alignnone size-medium wp-image-331" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/coffee-300x169.jpg" alt="" width="300" height="169" />
 
 </header><section class="page__content">Estoy contento en esa comunidad. La gente son amables y no hay grandes peligros. Hay naturaleza hermosa en todos lados y muchos lugares para caminar en la montaña o nadar cerca de una cascada.La idea de mi amigo suena como muy buen idea, solo veo dos razones que podrían obstaculizar su realización. Los dos tienen que ver con el pueblo cercano: la basura tirada por todos lados y también los borrachos tirados por todos lados. Nadie quiere viajar tan lejos solo a ver eso.
 
@@ -1320,11 +1320,11 @@ Si yo fuera satanás o alguien realmente importante en una agencia de inteligenc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/why-is-this-evil-upon-us/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/why-is-this-evil-upon-us/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1337,7 +1337,7 @@ Si yo fuera satanás o alguien realmente importante en una agencia de inteligenc
 							</item>
 					<item>
 		<title><![CDATA[Psorax]]></title>
-		<link>https://es.williamenck.is/psorax-2/</link>
+		<link>https://enckhausen.github.io/es/psorax-2/</link>
 		<pubDate>Tue, 16 Jun 2026 00:55:05 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=134</guid>
@@ -1378,7 +1378,7 @@ El expresión más sutil de duplicidad es el reconocimiento del hecho de que só
 
 Esta mezcla de posturas antitéticas dentro de la misma mente causa que la cognición juegue ambos bandos “que cace con los perros y también corra con las liebres”. Un día uno puede ser compulsivo e iracundo, y el otro amable y justo. La duplicidad se da cuando el lado amable y justo se rehúsa a reconocer realmente a su contra parte sombría. En otro caso quizá sea el lado estable de la personalidad, con su aparentemente seguro sentido de identidad, el que distorsiona o niega una parte débil e insegura. La duplicidad puede manifestarse en muchas maneras. La parte central de esta tendencia es que se trata de un intento de evitar el choque entre dos fuerzas antitéticas. Al mismo tiempo, constituye un bloqueo para lograr la integración y plenitud posibles en el Vórtice Anahata . La duplicidad se manifiesta como hipocresía cuando la parte más inteligente reconoce a la más inferior pero intenta compensarla estableciendo para sí estándares elevados, imposibles de alcanzar para una mente dual y dividida. Por ejemplo, una persona así puede expresar un comportamiento tosco y lascivo en compañía de sus amigos y denunciar el mismo tipo de comportamiento en el trabajo o en la iglesia, para mantener una apariencia socialmente respetable. La duplicidad se encuentra con demasiada facilidad en grupos religiosos donde las personas inseguras tienen la necesidad de otros para guiar o influir en ellos espiritualmente. Sin siquiera mencionar la desviación sexual, todavía hay un montón de ejemplos peligrosos de la duplicidad en la religión. Duplicidad permite tendencias ocultas excavar profundamente en estas mentes mientras que los “demonios” de la vanidad espiritual y el deseo de manipular y controlar a otros se convierten en el objetivo principal. Una vez buena intencionalidad ha degenerado, que virtud queda para proteger a uno de las partes más oscuras de la sombra? Es la misma situación si llevan cuellos blancos o turbantes de color naranja o recitar refranes bíblicos en latín o shlokas sánscritos: las personas que engañan y hacen daño a otros espiritualmente a través de su hipocresía caen muy duro en la perversión. Lo que fue reprimida y oculta se vuelve tan dolorosamente evidente después de una caída.  Lo que proyectaron una vez proyectado como "dios" se convierte en su "demonio" cuando la hipocresía revela su rostro verdadero y feo.
 
-&lt;img src="https://es.williamenck.is/images/diablo.jpg"/&gt;
+&lt;img src="https://enckhausen.github.io/es/images/diablo.jpg"/&gt;
 
 Personas de mente espiritual con discernimiento, o viveka, no pueden tolerar estas actividades y pertenecer a ningún grupo que mienten y encubren estas verdades. Una persona espiritualmente consciente tiene que salir de la red de mentiras o convertirse en un agitador o revolucionario, un “hereje”. La intuición espiritual debe extenderse más allá de los nombres y las formas de la religión. “Está bien para nacer en una secta, pero no morir en uno”, dijo Vivekananda. Es natural tener la dualidad en la existencia humana. A veces somos fuertes y otras que somos débiles y no podemos resistirnos a las tendencias negativas. Hay tanta incertidumbre en cuestiones y valores profundamente existenciales. Duplicidad, sin embargo, es cuando los censores de la mente cubre las verdades inconvenientes mediante la mente sigue fragmentando y compartimentando la personalidad en una imagen falsa. Esta imagen es falsa, ya que es una argumentación en contra de otro, una parte no deseada de nuestro ser. Uno declara la guerra a uno mismo. Dualidad natural y la indecisión se tornan en un sistema de creencias distorsionada sobre sí mismo donde sólo un lado de la ecuación es visto y no la verdadera dualidad. Cuanto más se reprime y deforma la sombra, más de un “verdadero creyente” uno se vuelve. Se necesita fanatismo y mucha argumentación para sofocar la sombra. Se necesita mucho trabajo psicológico interno y / o práctica espiritual para integrar las distintas partes de la personalidad y convertirse en su conjunto. Y esto sólo es posible con una visión muy positiva de la existencia que permite la sombra de disolver en esta luz poco a poco. En lugar de convertirse en un ser completo y congruente, la duplicidad ama de proyectar sus tensiones internas, reprimidos sobre algún “otro”. En lugar de ver lo que es vil y baja dentro de uno mismo es mucho más fácil encontrar un chivo expiatorio fuera de uno mismo. Tenga cuidado entrando en la zona de sombra de otro, ya sea un individuo o una sociedad colectiva. Las proyecciones de la sombra son el medio perfecto para transferir su propio lado oscuro a otro. El “otro”, el “enemigo” puede llegar a ser el revelador de la verdad, sin embargo. Puede ser tu mejor amigo en que uno realmente puede empezar a entender este juego inconsciente de proyección de la sombra que tiene todo el mundo loco.
 
@@ -1413,11 +1413,11 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/es/assets/espa
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/psorax/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/psorax/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1426,7 +1426,7 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/es/assets/espa
 							</item>
 					<item>
 		<title><![CDATA[Un Réquiem]]></title>
-		<link>https://es.williamenck.is/un-requiem/</link>
+		<link>https://enckhausen.github.io/es/un-requiem/</link>
 		<pubDate>Tue, 16 Jun 2026 00:56:10 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=136</guid>
@@ -1479,7 +1479,7 @@ En la mañana siguiente escuché su motocicleta pasando por el rancho. No estaba
 
 Yo sabía que él temía la marina. Sin embargo, no hubo allanamiento y regresó una semana después. Mi familia también regresó y me bajé un poco de mi euforia. Todos teníamos una buena risa, al menos algo estaba sucediendo a romper este estancamiento que ha estado sucediendo desde hace meses entre ellos y nosotros. Sabía que si me hubiera expresado el temor en lugar de aventura lúdica entonces mi familia estaría asustada y me preocuparía por mí y nunca me dejarían solo en casa otra vez. Yo sabía que todo era una locura, que nadie en su juicio sano me consideraría sano de mente, pero sabía lo que hacía era correcto y lo haría de nuevo. Esta foto tomaron unos días después de mi confrontación con los narcos. El zorrillo sabia que todo era nada más una drama, si no él me habría rociado.
 
-<img class="alignnone size-medium wp-image-292" src="https://es.williamenck.is/wp-content/uploads/2026/06/skunk-165x300.jpg" alt="" width="165" height="300" />
+<img class="alignnone size-medium wp-image-292" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/skunk-165x300.jpg" alt="" width="165" height="300" />
 
 Hace unos días nuestra fuente de chismes fieles nos informa que este narco está bajo custodia policial. Él estaba en el centro de la ciudad sin su banda armada. Atropelló a alguien en la calle y luego regresó a reversa para asegurarse de que estaba muerto. Lo hizo en una intersección y mucha gente lo vio. Me imagino que se sentía tan poderoso que él puede hacer lo que quiera y cuando quiera. La policía fueron obligados a arrestarlo. Ahora yo soy el primero en decir que van a dejarlo ir porque todos trabajan juntos. Sin embargo, el ex narco-político local, que ahora ha subido en rango político y tiene una “lista” de los siervos fieles a quien debe acabar para cubrir su rastro. Todo el mundo por aquí habla de “la lista” y lo atribuye al aumento de las desapariciones de los narcos que utilizaron para ayudar a quien ahora es gobernador. Creo que la mayoría de los hombres de por aquí están en esa lista. Suena como una “telenovela” barata mexicana, pero me he dado cuenta hace poco cómo esa arte de basura muestra algo parecida a las verdades bajas sociales y al mismo tiempo crean la mentalidad popular y bruto de los devorados y esclavizados por el inframundo materialista de la Hidra capitalista y su matriz urbana. Sospecho que estas corridos y las telenovelas del machismo violento con el aumento de intrigas narco están diseñados para crear moldes y formas para los que han perdido la capacidad de elegir y no son más que productos del sistema.
 
@@ -1491,7 +1491,7 @@ Tienen miedo de que el mundo sabrá lo que pasa por aca porque los zetas y su Sa
 
 Empecemos a encontrar cadáveres tirados por todo del valle. Desde entonces, los lugareños han dejado de comer liebres porque tienen un sabor extraño. Las liebres son conocidas por comer animales muertos pero ahora se han convertido en carnívoros! Además, los coyotes ahora atacan a los pastores de cabras por las noches en su camino de regreso a casa, tal es su costumbre de comer carne humana hoy en día. ¡Y todo esto a solo 45 minutos de la frontera con los EU.!
 
-<img class="alignnone size-medium wp-image-293" src="https://es.williamenck.is/wp-content/uploads/2026/06/rolex-300x259.png" alt="" width="300" height="259" />
+<img class="alignnone size-medium wp-image-293" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/rolex-300x259.png" alt="" width="300" height="259" />
 
 Al confrontar las fuerzas del mal que podrían destruir fácilmente su ser físico, la única protección es la inocencia y la pureza. Hay miedo porque hay impurezas. No entendemos todavía plenamente que pertenecemos a la inmortalidad y así le damos nuestra identidad en cierta noción relativa y mundana del ser. Sadhana o la meditación quema las impurezas y uno conduce a un estado natural de inocencia, uno con la naturaleza y el espíritu. “De quién es esto universo de todos modos, ¿con qué derecho tienen narcos y sus gobernadores estatales para mandar este terror sobre nosotros?”
 
@@ -1521,7 +1521,7 @@ El vajra se obtiene atravez de la practica avanzada del tantra yoga, para los qu
 
 Cada uno de estos ocho palabras son mantras. Con musica profunda y emotiva las mantras trabajan para despertarnos emocionalmente, intuitivamente, y espiritualmente atreves del proceso tantrico de despertar el kundalini. Kundalini es nada mas que la energia divina creativa, o Shakti, que descansa latente en nosotros. Shakti se llama kundalini cuando se refiere a ella dentro del alma humano. Una vez despierta el kundalini Shakti nos guia hacia nuestra consciencia infinita, o Shiva. Uso las palabras Shiva-Shakti porque conozco mejor los conceptos asociados con estas palabras. Sin embargo, es muy notable la misma tema Shiva-Shakti en los relatos de Padmasambhava y sus amantes divinas. Es muy probable que es una historia verdadera combinada con imagenes miticos tantricos. Como los hindus, los tibetanos también usaba el imagen de amantes de referir a la relacion sublime trascendente de la consciencia y la energía, la fuente y su creación, o Shiva y Shakti.
 
-<img class="alignnone size-medium wp-image-295" src="https://es.williamenck.is/wp-content/uploads/2026/06/padmasambhava-228x300.jpg" alt="" width="228" height="300" />
+<img class="alignnone size-medium wp-image-295" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/padmasambhava-228x300.jpg" alt="" width="228" height="300" />
 
 La guirnalda de los 50 cráneos es la guirnalda de letras, los 50 sonidos o vrttis que controlan las tendencias mentales. También, son las 50 letras del alfabeto sánscrito. La guirnalda de los 50 cráneos es la guirnalda de letras, los 50 sonidos o vrttis que controlan las tendencias mentales. Estos 50 sonidos son también los 50 sonidos del alfabeto sánscrito. Además, las 50 letras en la guirnalda del cráneo en la imagen tradicional de Kali son los 50 sonidos del alfabeto sánscrito. En el tantra, la idea es que el macrocosmos utiliza el sonido como la causa material fundamental del universo. Estos sonidos fundamentales se reflejan en las 50 propensiones psicológicas de la mente humana. Cuando los yoguis escucharon estos sonidos desde lo más profundo, se repitieron vocalmente y esta es la base del alfabeto sánscrito. Es curioso que este alfabeto sea muy completo y refleje la mayoría de los fonemas que la voz humana puede expresar.
 
@@ -1584,11 +1584,11 @@ Como saben, 21 gramos de masa desconocida se pierden del cuerpo humano en el mom
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/a-requiem/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/a-requiem/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1601,7 +1601,7 @@ Como saben, 21 gramos de masa desconocida se pierden del cuerpo humano en el mom
 							</item>
 					<item>
 		<title><![CDATA[El Camino]]></title>
-		<link>https://es.williamenck.is/el-camino/</link>
+		<link>https://enckhausen.github.io/es/el-camino/</link>
 		<pubDate>Tue, 16 Jun 2026 00:58:21 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=138</guid>
@@ -1647,11 +1647,11 @@ Estos textos sólo sirven cuando uno está iniciando el camino del autoconocimie
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-way/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-way/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1660,7 +1660,7 @@ Estos textos sólo sirven cuando uno está iniciando el camino del autoconocimie
 							</item>
 					<item>
 		<title><![CDATA[Una Fotografía Sin Marco]]></title>
-		<link>https://es.williamenck.is/una-fotografia-sin-marco/</link>
+		<link>https://enckhausen.github.io/es/una-fotografia-sin-marco/</link>
 		<pubDate>Tue, 16 Jun 2026 00:59:30 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=140</guid>
@@ -1737,11 +1737,11 @@ nos hundimos en lo dulcemente desconocido.”
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/a-frameless-photo/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/a-frameless-photo/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1750,7 +1750,7 @@ nos hundimos en lo dulcemente desconocido.”
 							</item>
 					<item>
 		<title><![CDATA[Recreando]]></title>
-		<link>https://es.williamenck.is/recreando/</link>
+		<link>https://enckhausen.github.io/es/recreando/</link>
 		<pubDate>Tue, 16 Jun 2026 01:00:17 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=143</guid>
@@ -1792,11 +1792,11 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/recreating/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/recreating/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1805,7 +1805,7 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 							</item>
 					<item>
 		<title><![CDATA[De Quetzalcoatl A Casanova]]></title>
-		<link>https://es.williamenck.is/de-quetzalcoatl-a-casanova/</link>
+		<link>https://enckhausen.github.io/es/de-quetzalcoatl-a-casanova/</link>
 		<pubDate>Sat, 20 Jun 2026 00:18:49 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=98</guid>
@@ -1823,7 +1823,7 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 <p style="text-align: left;"><span style="font-size: 18pt;">Enseñar a personas que ya están en el proceso de “autorrealización” es demasiado fácil. Asumen sus propias cargas existenciales. Sin embargo, no muchas personas avanzan tan fácilmente. La mayoría lleva más carga y esto siempre supone más trabajo para el maestro. Mucha gente necesita ayuda y busca alivio para sus males existenciales, pero no todo el mundo está preparado para profundizar en sí mismo a través del tantra yoga u otros enfoques realmente fuertes de meditación y disciplina espiritual. Esto sólo es posible combinando muchas técnicas de psicoterapia junto con las prácticas espirituales. Algunas personas pueden necesitar algo parecido a la terapia, otras sólo necesitan hablar y abordar sus problemas con un guía de confianza, mientras que otras sólo necesitan inspirarse con algunas buenas ideas. Cuando se está en una sociedad espiritual, es importante que haya una cultura de la espiritualidad al alcance de todos, con suficientes herramientas emocionales e intelectuales para la comunidad.</span></p>
 <p style="text-align: left;"><span style="font-size: 18pt;">Por desgracia, aquí es donde las cosas se ponen muy difíciles y donde tantas sociedades espirituales acaban convirtiéndose en religiones o sectas. En lugar de contar con técnicas eficaces de práctica espiritual, se introducen ideas de inclusión y privilegio para los que están dentro. Siguen a algún líder carismático y, en lugar de hacer realmente su propio trabajo interior, se refugian en el prestigio del maestro o de su grupo. Puede que aprendan la jerga espiritual y la repitan como loros mientras intentan impresionar a los recién llegados. En este caso, simplemente se desarrollan los mismos prejuicios de la vida social mundana que hacen que el ego se sienta superior o empoderado. El sentimiento subyacente de inferioridad se encubre con el engrandecimiento propio, pero estos complejos nunca se transmutan realmente. Con el tiempo, todas estas máscaras caerán y uno se quedará aún más perdido y confuso.</span></p>
 <p style="text-align: left;"></p>
-<p style="text-align: left;"><span style="font-size: 18pt;">Después de publicar <a href="https://es.williamenck.is/es/un-requiem">mis escritos sobre la guerra contra el narco</a>, más gente quiso entrar en contacto conmigo. Yo era un ermitaño que apenas salía del desierto. Estaba trabajando con una curandera indígena que se veía a sí misma como mi manager y estaba celosa de cualquiera que se acercara a mí, gente que se convertía en mis alumnos y amigos. Aunque es una sanadora bastante intuitiva y eficaz, sus inseguridades emocionales finalmente se apoderaron de ella.</span></p>
+<p style="text-align: left;"><span style="font-size: 18pt;">Después de publicar <a href="https://enckhausen.github.io/es/es/un-requiem">mis escritos sobre la guerra contra el narco</a>, más gente quiso entrar en contacto conmigo. Yo era un ermitaño que apenas salía del desierto. Estaba trabajando con una curandera indígena que se veía a sí misma como mi manager y estaba celosa de cualquiera que se acercara a mí, gente que se convertía en mis alumnos y amigos. Aunque es una sanadora bastante intuitiva y eficaz, sus inseguridades emocionales finalmente se apoderaron de ella.</span></p>
 <p style="text-align: left;"><span style="font-size: 18pt;">Mi amiga era un líder muy influyente entre los zapatistas. Estaba profundamente angustiada por la conducta sexual inapropiada de los líderes masculinos del movimiento, concretamente los del Subcomandante Marcos. Comenzó a tener profundos resentimientos hacia los hombres, especialmente aquellos en situaciones de poder que tenían cualidades atractivas.</span></p>
 <p style="text-align: left;"><span style="font-size: 18pt;">Además, la situación con su sociedad de yoga empezó a decaer rápidamente. Yo había dejado esa sociedad hace mucho tiempo pero ella todavía tenía algunas asociaciones con ellos. Todo lo que encontrábamos eran escándalos criminales y sexuales. Ella se enfurecía por ello y a menudo su rabia se trasladaba a mí, y tal vez incluso a todos los hombres. Cada vez que se enteraba de estos escándalos monásticos, yo me convertía más en concepto del playboy de su mente. Más tarde, cuando empezamos a enfrentar escándalos homosexuales con los monjes, perdió realmente el control. Nunca antes había expresado odio hacia los gays, pero más tarde empezó a ver homosexuales en cada esquina y a mirarlos con odio.</span></p>
 <p style="text-align: left;"><span style="font-size: 18pt;">Con el tiempo empezó a decirme que un grupo de estudiantes que son médicos que ayudan a las comunidades rurales de Chiapas eran en realidad una banda de pervertidos sexuales y que básicamente se comportaban como un grupo de senadores romanos en togas. Este fue su esfuerzo para que yo los despreciara. Me costaba creerlo. Más tarde, empezó a acusarme de perversiones y a decir que intentaba manipular sexualmente a la gente. Sin embargo, al mismo tiempo iba por ahí alabándome y diciéndole a la gente que yo soy la encarnación de Quetzalcoatl.</span></p>
@@ -1871,11 +1871,11 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/from-quetzalcoatl-to-cassanova/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/from-quetzalcoatl-to-cassanova/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1896,7 +1896,7 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 							</item>
 					<item>
 		<title><![CDATA[El Tantra Del Árbol]]></title>
-		<link>https://es.williamenck.is/el-tantra-del-arbol/</link>
+		<link>https://enckhausen.github.io/es/el-tantra-del-arbol/</link>
 		<pubDate>Tue, 16 Jun 2026 01:01:42 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=145</guid>
@@ -1933,11 +1933,11 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-timeless-tattoo/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-timeless-tattoo/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1946,7 +1946,7 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 							</item>
 					<item>
 		<title><![CDATA[El Tantra Del Árbol]]></title>
-		<link>https://es.williamenck.is/el-tantra-del-arbol-2/</link>
+		<link>https://enckhausen.github.io/es/el-tantra-del-arbol-2/</link>
 		<pubDate>Tue, 16 Jun 2026 01:03:10 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=148</guid>
@@ -1983,11 +1983,11 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-tree-tantra/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-tree-tantra/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1996,7 +1996,7 @@ Dentro de tus actos de recreación, Con infinitos tonos de color y sonido, Me en
 							</item>
 					<item>
 		<title><![CDATA[La Redención]]></title>
-		<link>https://es.williamenck.is/la-redencion/</link>
+		<link>https://enckhausen.github.io/es/la-redencion/</link>
 		<pubDate>Tue, 16 Jun 2026 10:02:05 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=150</guid>
@@ -2036,11 +2036,11 @@ Estoy del lado del optimismo respecto al mundo relativo. Estar aquí en el tiemp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/redemption/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/redemption/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2049,7 +2049,7 @@ Estoy del lado del optimismo respecto al mundo relativo. Estar aquí en el tiemp
 							</item>
 					<item>
 		<title><![CDATA[Un Saludo]]></title>
-		<link>https://es.williamenck.is/un-saludo/</link>
+		<link>https://enckhausen.github.io/es/un-saludo/</link>
 		<pubDate>Tue, 16 Jun 2026 11:02:30 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=153</guid>
@@ -2095,11 +2095,11 @@ Y mientras me quedo despierto, finalmente recibo mi respuesta. ¿Quién sabe qui
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/a-greeting/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/a-greeting/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2108,7 +2108,7 @@ Y mientras me quedo despierto, finalmente recibo mi respuesta. ¿Quién sabe qui
 							</item>
 					<item>
 		<title><![CDATA[Tantra Universal]]></title>
-		<link>https://es.williamenck.is/tantra-universal/</link>
+		<link>https://enckhausen.github.io/es/tantra-universal/</link>
 		<pubDate>Tue, 16 Jun 2026 11:03:49 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=155</guid>
@@ -2192,11 +2192,11 @@ La astrología, sin embargo, requiere un estilo diferente de meditación. Uno no
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/universal-tantra/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/universal-tantra/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2205,7 +2205,7 @@ La astrología, sin embargo, requiere un estilo diferente de meditación. Uno no
 							</item>
 					<item>
 		<title><![CDATA[Personalidades]]></title>
-		<link>https://es.williamenck.is/personalidades/</link>
+		<link>https://enckhausen.github.io/es/personalidades/</link>
 		<pubDate>Tue, 16 Jun 2026 11:04:41 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=157</guid>
@@ -2267,11 +2267,11 @@ La astrología, sin embargo, requiere un estilo diferente de meditación. Uno no
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/personalities/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/personalities/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2288,7 +2288,7 @@ La astrología, sin embargo, requiere un estilo diferente de meditación. Uno no
 							</item>
 					<item>
 		<title><![CDATA[La Liberación Del Deseo]]></title>
-		<link>https://es.williamenck.is/la-liberacion-del-deseo/</link>
+		<link>https://enckhausen.github.io/es/la-liberacion-del-deseo/</link>
 		<pubDate>Tue, 16 Jun 2026 11:05:49 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=159</guid>
@@ -2414,11 +2414,11 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-liberation-of-desire/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-liberation-of-desire/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2427,7 +2427,7 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 							</item>
 					<item>
 		<title><![CDATA[Contactar-Seguir]]></title>
-		<link>https://es.williamenck.is/contactar/</link>
+		<link>https://enckhausen.github.io/es/contactar/</link>
 		<pubDate>Tue, 16 Jun 2026 11:06:46 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=161</guid>
@@ -2457,11 +2457,11 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/contactfollow/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/contactfollow/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2486,7 +2486,7 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 							</item>
 					<item>
 		<title><![CDATA[El Vuelo Del Quetzal]]></title>
-		<link>https://es.williamenck.is/el-vuelo-del-quetzal/</link>
+		<link>https://enckhausen.github.io/es/el-vuelo-del-quetzal/</link>
 		<pubDate>Tue, 16 Jun 2026 11:07:53 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=163</guid>
@@ -2499,17 +2499,17 @@ Un día después de clases y una breve meditación, en la que yo era simplemente
 
 Después de esa experiencia me sentí muy confiado, pero al mismo tiempo experimenté un montón de confusión mental. Fue una agitación muy productiva en que los recuerdos negativos de todo mi pasado estaban siendo purgados y purificados rápidamente. Empecé a sentirme completamente pleno, que ya había vivido una vida muy completa. La segunda vez que el Kundalini se levantó fue unos meses más tarde. Yo vi la misma luz en mi columna vertebral, aunque esta vez se trataba de un punto infinitamente pequeño. La realidad física desapareció y empecé a “ver” desde la corona de la cabeza un pájaro turquesa volar cada vez más cerca, mientras el punto subía más y más alto. El ave se posó en la corona de mi cabeza al mismo tiempo que el punto se levantó al mismo lugar. El cielo y la tierra se habían reunido y yo estaba perdido en una red infinita de vibración de sonido en el que ya no se podía ver incluso esta visión hermosa. Mi último pensamiento antes de perder la conciencia fue que no sólo el mundo exterior, sino también el mundo interior de la visión, eran de formas que parecían Mesoamericanas. Sólo años más tarde aprendí del concepto maya de kundalini, lo que ellos llaman Kulkukan, la Serpiente Emplumada. Fue hasta muchos años más tarde que me enteré de unas formas de meditaciones mayas muy similares al Tantra indio, de un maestro indígena de Chiapas, quien recientemente murió a la edad de 110 años. Lluego, empecé a usar “Quetzal” como nombre de pluma.
 
-<img class="alignnone size-medium wp-image-274" src="https://es.williamenck.is/wp-content/uploads/2026/06/quetzal-1-300x210.jpg" alt="" width="300" height="210" />
+<img class="alignnone size-medium wp-image-274" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/quetzal-1-300x210.jpg" alt="" width="300" height="210" />
 
 Esta misma imagen era llamada Quetzalcóatl por los toltecas. Una versión de la imagen de Quetzalcóatl está en la bandera nacional de México hoy en día. El pájaro azul turquesa que vi fue en realidad un quetzal, un pájaro colorido hermoso que habita en México y América Central.
 
 Después de esto me convertí en un excéntrico. Perdí todo interés en una carrera, el matrimonio y en una vida “normal”. Apenas me gradué de la universidad y me fui a la India en busca de más conocimiento. Allí conocí a Chidghananda, un monje viejo, solitario, muy venerado en su orden. Era considerado un santo, y me sentí muy honrado de que me aceptara como amigo. A veces yo lo acompañaba con sus meditaciones en las tardes. Él siempre escuchaba el sonido sagrado OM y en ese tiempo aumentó en su meditación. Era obvio que él experimentaba ananda regularmente, la bienaventuranza divina. Él era realmente uno de los seres humanos más amorosos que yo había conocido. Mis experiencias se habían intensificado cerca de él en Ananda Nagar y era la voluntad divina que yo hubiera conocido a un maestro como el para guiarme a través de esos procesos difíciles.
 
-<img class="alignnone size-medium wp-image-275" src="https://es.williamenck.is/wp-content/uploads/2026/06/chidghananda-300x225.jpg" alt="" width="300" height="225" />
+<img class="alignnone size-medium wp-image-275" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/chidghananda-300x225.jpg" alt="" width="300" height="225" />
 
 En ese momento yo quería ser un monje, pero Chidghananda me dijo que yo era un poco raro y no encajaría bien en la organización monástica. Él dijo que mi trabajo espiritual se acercaba a su fin, y que en realidad no tenía que hacer cualquier otra cosa con mi vida más que meditar, vivir con sencillez, y ayudar a los demás tanto como pudiera. Aunque fue criticado fuertemente por su influencia sobre mí, él siguió a su conciencia y sólo me hablaba con la verdad. Aunque estuve muy confundido en qué hacer con mi vida una vez que el ideal de ser un monje se hubo desvaneciendo, fui ayudado por un sueño en el que Anandamurti me ordenó que no me preocupara por ser un monje, sino sólo por “ver el mundo como una foto sin marco y pasear por la noche.” Anandamurti siempre me ha hablado a través de los sueños en una manera poética y elevada. Más tarde, como una confirmación, él me dijo en otro sueño vívido que “lo único que importa es hacer “dhyana dasha.” Él usó esas palabras en sánscrito, una de las cuales yo no conocía hasta que un amigo la buscó en un diccionario sánscrito. Lo que Anandamurti dijo era: “lo único que importa es hacer servicio a través de la meditación.” A menudo estaba inseguro si en esos sueños en verdad me comuniqué con el espíritu de Anandamurti, o si Anandamurti se había convertido en un mero símbolo en mi conciencia que había penetrado mis sueños. De cualquier manera, estos sueños siempre tenían muchosentido para mí e iluminaron situaciones difíciles. Si fueron mis propias proyecciones, entonces vinieron de las partes más profundas, más intuitivas de mí que nunca me han guiado mal.
 
-<img class="alignnone size-medium wp-image-276" src="https://es.williamenck.is/wp-content/uploads/2026/06/chandranath-300x204.jpg" alt="" width="300" height="204" />
+<img class="alignnone size-medium wp-image-276" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/chandranath-300x204.jpg" alt="" width="300" height="204" />
 
 Fue poco después que conocí a Chandranath y a su esposa, Ram Pari Devii. Ellos fueron algunos de los primeros iniciados y maestros espirituales, o acharyas, instruidos personalmente por Anandamurti en la década de 1950. Eran, sin duda, los seres espirituales más elevados que jamás he conocido. Todo el entorno que les rodeaba era una bendición. Incluso sus empleados como el cocinero y el jardinero se habían convertido en yoguis altamente desarrollados. Hablar con Chandranath eliminó las dudas que yo tenía acerca de mi meditación y él me dijo que la intensidad se calmaría con el tiempo. Me dio consejos invaluables sobre las sutilezas místicas de la práctica espiritual y me dejó con una sensación profunda de paz divina que todavía siento cada vez que recuerdo estar en su presencia. Tanto él como su esposa se ​​establecieron en la práctica de samadhi (unión experiencial con la Conciencia Suprema) y podrían entrar en él a voluntad. Eran almas libres y realizadas, cuya sólo razón para todavía estar encarnadas físicamente era ayudar a otros a avanzar en el camino. Después de reunirme con ellos me di cuenta de que más importante que ser un monje o cabeza de familia, era simplemente el tratar de ser uno con la Conciencia Suprema, en todo momento, como ellos.
 
@@ -2546,11 +2546,11 @@ Este es una obra en el que escribo sobre experiencias místicas subjetivas en el
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/william-enckhausen/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/william-enckhausen/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2563,7 +2563,7 @@ Este es una obra en el que escribo sobre experiencias místicas subjetivas en el
 							</item>
 					<item>
 		<title><![CDATA[El Debate]]></title>
-		<link>https://es.williamenck.is/el-debate/</link>
+		<link>https://enckhausen.github.io/es/el-debate/</link>
 		<pubDate>Tue, 16 Jun 2026 11:09:15 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=165</guid>
@@ -2626,7 +2626,7 @@ Este es una obra en el que escribo sobre experiencias místicas subjetivas en el
 
 <span style="font-size: 18pt;">Nunca pude ver el documental <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiT0PSj95b5AhXcDkQIHYYbC88QtwJ6BAgNEAI&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdVxilyDXKDs&amp;usg=AOvVaw3k9Y5SB4Mlaoaba9C1utR4">“The Arms Drop”</a> en servidores de Estados Unidos ni siquiera en México. Esto fue hace solo unos años, 25 años después de que ocurriera The Arms Drop. Había que usar una VPN para ver el documental gratuito en línea. Al igual que yo, el documental cuestionaba por qué el gobierno estadounidense estaba tan interesado en ese asunto. Al mismo tiempo, algunos periodistas, autores y cineastas indios me entrevistaron porque habían leído El Debate. Esperaba que su trabajo no fuera demasiado serio ni factual e intelectual, que la película tuviera al menos algo de baile al final. Todos los personajes principales de muchas películas indias, amigos y enemigos, bailan juntos al final. ¡Imagínense a esos payasos vestidos de naranja bailando con AK47 mientras los agentes de la CIA y el MI5 bailan a su lado! Yo estaría bailando break dance.</span>
 
-<img class="alignnone size-medium wp-image-523" src="https://es.williamenck.is/wp-content/uploads/2026/06/terrorist-225x300.jpg" alt="" width="225" height="300" />
+<img class="alignnone size-medium wp-image-523" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/terrorist-225x300.jpg" alt="" width="225" height="300" />
 
 <span style="font-size: 18pt;">Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">Tantra De La Luz Y La Oscuridad</a></span>
 
@@ -2657,11 +2657,11 @@ Este es una obra en el que escribo sobre experiencias místicas subjetivas en el
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-debate/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-debate/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2678,12 +2678,12 @@ Este es una obra en el que escribo sobre experiencias místicas subjetivas en el
 							</item>
 					<item>
 		<title><![CDATA[Tantra De La Luz Y La Oscuridad]]></title>
-		<link>https://es.williamenck.is/tantra-de-la-luz-y-la-oscuridad/</link>
+		<link>https://enckhausen.github.io/es/tantra-de-la-luz-y-la-oscuridad/</link>
 		<pubDate>Tue, 16 Jun 2026 11:10:16 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=168</guid>
 		<description></description>
-		<content:encoded><![CDATA[<section class="page__content"><img class="alignnone size-medium wp-image-289" src="https://es.williamenck.is/wp-content/uploads/2026/06/acharyas-300x206.jpg" alt="" width="300" height="206" /></section><section class="page__content">Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">Tantra De La Luz Y La Oscur</a><a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">idad</a>
+		<content:encoded><![CDATA[<section class="page__content"><img class="alignnone size-medium wp-image-289" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/acharyas-300x206.jpg" alt="" width="300" height="206" /></section><section class="page__content">Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">Tantra De La Luz Y La Oscur</a><a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%20De%20La%20Luz%20Y%20La%20Oscuridad.pdf">idad</a>
 Escribir Tantra De La Luz Y La Oscuridad fue siempre un acto de equilibrio. Me sentí muy bien al escribir sobre mis experiencias con personas como Chandranath (en el extremo derecho de la foto) y otros de los primeros discípulos de Anandamurti. Uno puede incluso sentirse orgulloso de estar asociado a una sociedad espiritual dirigida por personas así. Aunque era interesante y también significativo escribir sobre los innumerables problemas del movimiento de Anandamurti a medida que se iba ampliando y atraía a muchos monásticos sinvergüenzas que se involucraban en demasiadas actividades turbias, siempre existía la posibilidad de caer en un complejo de vergüenza al mencionar estas situaciones oscuras, de ser asociado con estas personas incluso al criticarlas. A menudo tenía que conjurar el recuerdo de Chandranath y los primeros discípulos para volver a iluminar el esfuerzo de decir: “sí, alguna vez hubo verdad y vitalidad en A.M. y la luz de Anadamurti brilló a través de estas personas”. En última instancia, justifico el lado oscuro de la historia diciendo que fue una gran lección sobre la comprensión de la sombra humana y que cualquier sociedad que hubiera recibido una dosis tan sobrecargada de energía espiritual habría pasado por los mismos dramas humanos. Anandamurti puso una lente de enfoque sobre la conciencia de la humanidad. Algunos fueron iluminados, pero otros quedaron calcinados. Los rincones más oscuros de la mente humana se iluminan. Algunas personas recibieron la luz y fueron iluminadas, pero otras se resistieron y sus sombras solo reforzaban y resistían.</section><section class="page__content">Tantra es una palabra sánscrita derivado de “Tan”, que significa “oscuridad” o “inercia” y “tra”, que significa “expansión”. Por lo tanto, “tantra” significa la expansión de un estado de oscuridad espiritual, la inercia, o la ignorancia que nos une al mundo material limitado con sus alegrías y sufrimientos relativos. Tantra es una antigua ciencia de la meditación y la concentración para despertar la mente de una letargia instintiva animal. Es una práctica para una mayor evolución física, mental y espiritual para que el ser humano puede comprender más plenamente su lugar en el universo. Esta disciplina sistemática y práctica sigue el curso natural de la evolución y guía a la mente del instinto al intelecto a la intuición. Como explicó Anandamurtiji, es Es un método para convertir la energía física en energía psíquica y luego convertir esa energía psíquica o mental acumulada en pura cognición espiritual.
 
 Tantra, en su forma adecuada y esencial, es “el empirismo mística” en que el practicante puede seguir ciertas disciplinas sistemáticas y verificar en el propio laboratorio mental de la mente si el sistema es cierto o no. Si se amplía de la inercia de instinto ciego y la ignorancia intelectual y alcanza un grado de comprensión, paz y claridad en las áreas existenciales y espirituales, entonces la práctica científica de tantra es eficaz y, por tanto, cierto en que la práctica nos lleva al objetivo de la iluminación espiritual.
@@ -2748,11 +2748,11 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/light-and-dark-tantra/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/light-and-dark-tantra/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2765,7 +2765,7 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 							</item>
 					<item>
 		<title><![CDATA[Un Puente Al Infinito]]></title>
-		<link>https://es.williamenck.is/un-puente-al-infinito/</link>
+		<link>https://enckhausen.github.io/es/un-puente-al-infinito/</link>
 		<pubDate>Tue, 16 Jun 2026 11:12:05 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=171</guid>
@@ -2780,7 +2780,7 @@ Hay 8 poderes ocultos en la Vishuddha. Los santos pueden tener algunos de ellos 
 
 Realmente creo que el espíritu de Taraka Brahma trabajó a través de Anandamurti. Sin embargo, eso no es lo mismo que decir que Anandamurti era Taraka Brahma. Taraka Brahma continúa trabajando detrás de la ideología y la práctica espiritual de Ananda Marga. Aquellos que obtienen samadhi (realización espiritual) a través de la práctica espiritual de Ananda Marga se conectan con Taraka Brahma y están dotados de un gran poder y responsabilidad espiritual. Los sadhakas avanzados manifestarán colectivamente la fuerza de Taraka Brahma, sin embargo, no creo que nadie más haya manifestado más de esta conciencia que Anandamurti. Quizás ninguna persona pueda manifestar lo que hizo Anandamurti. Creo que Anandamurti dio toda su fuerza vital a esta manifestación, hasta que mató su cuerpo. Además, veo que sus santos más conscientes sufren la misma carga, de tener que guiar a otros y asumir sus samskaras. Taraka Brahma es una idea seria y no debe usarse para manipulaciones sociales. Aquellos que blasfeman la idea de Taraka Brahma se convierten en pervertidos y criminales porque están tratando de ejercer una fuerza que nunca podría ser manipulada y esta inteligencia omnisciente revela los verdaderos motivos de estas personas y los expone como payasos o criminales.
 
-En “<a href="https://es.williamenck.is/es/la-liberacion-del-deseo/">La Liberación Del Deseo</a>” , escribí sobre cómo escuché a Karunananda, un monje mayor de Ananda Marga, hablar de cómo estableció un servicio de prostitución para monjes reprimidos sexualmente bajo su supervisión. Lo que no escribí es sobre cómo sucedió este evento mientras Anandamurti todavía estaba vivo. Ahora, si Anandamurti fuera la encarnación omnisciente de Taraka Brahma, entonces seguramente lo habría detenido, para no permitir que estas actividades contaminen el orden monástico. ¿Por qué comenzar una orden monástica con reglas de celibato si más tarde los mismos monjes van a establecer los servicios de la prostitución? ¿Que esta pasando? Todos solían hablar sobre cuán estricto era Anandamurti y cómo mantenía a todos en línea. En la década de 1980, Ananda Marga se infiltró a fondo no solo por la inteligencia india, sino también por la KGB, la CIA y el FBI. Al mismo tiempo, las actividades de la mafia Ananda Marga se extendieron por todo el mundo. ¿Qué hizo Anandamurti para detener esto?
+En “<a href="https://enckhausen.github.io/es/es/la-liberacion-del-deseo/">La Liberación Del Deseo</a>” , escribí sobre cómo escuché a Karunananda, un monje mayor de Ananda Marga, hablar de cómo estableció un servicio de prostitución para monjes reprimidos sexualmente bajo su supervisión. Lo que no escribí es sobre cómo sucedió este evento mientras Anandamurti todavía estaba vivo. Ahora, si Anandamurti fuera la encarnación omnisciente de Taraka Brahma, entonces seguramente lo habría detenido, para no permitir que estas actividades contaminen el orden monástico. ¿Por qué comenzar una orden monástica con reglas de celibato si más tarde los mismos monjes van a establecer los servicios de la prostitución? ¿Que esta pasando? Todos solían hablar sobre cuán estricto era Anandamurti y cómo mantenía a todos en línea. En la década de 1980, Ananda Marga se infiltró a fondo no solo por la inteligencia india, sino también por la KGB, la CIA y el FBI. Al mismo tiempo, las actividades de la mafia Ananda Marga se extendieron por todo el mundo. ¿Qué hizo Anandamurti para detener esto?
 
 Recientemente me vi obligado a rechazar algunas declaraciones realmente positivas que había hecho sobre otra persona. Aunque me separé públicamente de Ananda Marga hace algún tiempo, en privado le dije a la gente que todavía había alguien digno de confianza en el interior, alguien que todavía era honesto y que no engañaría a otros propagando falsedades.
 
@@ -2802,7 +2802,7 @@ Creo que Anandamurti era originalmente muy firme, ya que a través de él actuab
 
 Hay una historia bien contada de cómo, justo después de que Anandamurti formara Ananda Marga a mediados de los años cincuenta, decidió abandonar su cuerpo físico, ya que la misión de su vida había concluido. Había creado una estructura organizativa y una filosofía espiritual para los discípulos de familia. También les enseñó a iniciar a la gente en la meditación. Al parecer, sus intenciones originales eran permitir que sus discípulos desarrollaran la organización con Anandamurti como fundador y preceptor espiritual, cuya filosofía e influencia espiritual guiaría a los discípulos en este empeño. Sin embargo, justo en el momento en que Anandamurti iba a abandonar su cuerpo entrando en trance espiritual, un discípulo le agarró de los pies y le suplicó que no se marchara. Esto hizo que Anandamurti volviera a salir de su estado espiritual que le iba a llevar a la unión infinita con la Conciencia Suprema. Poco después Anandamurti se casó y comenzó a formar discípulos monásticos que trabajarían a tiempo completo para Ananda Marga con el fin de ampliar su alcance social. Aquí fue sin duda donde Ananda Marga comenzó a expandirse. Anandamurti estaba atado al plano físico con el matrimonio y una familia y estaba dirigiendo un movimiento social en expansión. Sin embargo, era como si su matrimonio y su vida familiar fueran simplemente para mantener una cierta función social sin que él tuviera realmente el apego cálido necesario para formar una vida familiar. Su mujer acabó teniendo una aventura con un discípulo monástico y su hijo empezó a vivir una vida muy mundana.
 
-<img class="alignnone size-medium wp-image-326" src="https://es.williamenck.is/wp-content/uploads/2026/06/anandamurti-206x300.jpg" alt="" width="206" height="300" />
+<img class="alignnone size-medium wp-image-326" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/anandamurti-206x300.jpg" alt="" width="206" height="300" />
 
 Este es el punto de la historia en el que pienso que quizás hubiera sido mejor haber trascendido antes de todo esto y haber dejado el desarrollo social de la organización a los discípulos de la familia. Con ellos el desarrollo de la organización podría haber sido más constante, gradual y equilibrado, siendo dirigida por los cabezas de familia, que eran personas responsables en la sociedad. El fenómeno del gran gurú con un mensaje de revolución social fue impactante, pero atrajo a demasiada gente demasiado pronto para que la organización se desarrollara de forma equilibrada. Un maestro tántrico acelera muy rápidamente la requitalización o “quema” de samskaras (reacciónes karmicas) en los demás. Sus prácticas espirituales purifican la mente muy rápidamente y crean un choque y una cohesión mental tremendo. Uno tiene que ser muy equilibrado y maduro emocionalmente, o al menos moverse en esta dirección, para poder asimilar todo el caos inconsciente de la mente que busca liberación y orden en la conciencia personal. Muy pocas personas pueden atravesar este fuego sin quemarse. Sus complejos inconscientes simplemente afloran demasiado pronto y con demasiada rapidez como para poder ser procesados e integrados adecuadamente en la personalidad. Muchas personas que se acercaron al movimiento se consumieron en este fuego, incluida su propia familia.
 
@@ -2871,11 +2871,11 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/a-bridge-to-the-infinite/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/a-bridge-to-the-infinite/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2888,7 +2888,7 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 							</item>
 					<item>
 		<title><![CDATA[Los Asanas, La Ética Y La Evolución]]></title>
-		<link>https://es.williamenck.is/los-asanas-la-etica-y-la-evolucion/</link>
+		<link>https://enckhausen.github.io/es/los-asanas-la-etica-y-la-evolucion/</link>
 		<pubDate>Tue, 16 Jun 2026 11:12:53 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=173</guid>
@@ -2897,7 +2897,7 @@ Un extracto de <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/libros/Tantra%
 <p class="page__meta"></p>
 <p class="page__meta">Estas posturas de yoga se llaman “asanas,” que significa “una postura que se mantiene con la respiración coordinada”.  Los antiguos yoguis que habitaban en los bosques nombraron los asanas por los animales en sus posturas naturales.  El propósito de las asanas de yoga es ayudar a avanzar en la meditación. Su práctica trae salud, longevidad y fuerza al cuerpo pero su propósito primario es evolucionar a uno espiritualmente por ayudar la concentración profunda en la meditación.</p>
 
-</header><section class="page__content">Los asanas no fueron hechos para las Barbies en salones de yoga, sino para yoguis serios buscando la liberación espiritual y dedicados que trabajar a refinar la naturaleza humana a nivel individual y colectivo de la especie. Hacen que uno evolucione física, psicológica y espiritualmente. La liberación de tensiones y bloqueos energéticos en el cuerpo y la redirección del prana liberado (energía vital) hacia arriba en el cerebro causa corrientes nuevas de actividad. Primero, el prana crea este nuevo canal o surco en el cuerpo sutil y luego el cerebro comienza a cambiar e imitar los nuevos patrones energéticos creados por el prana al crear conexiones neuronales más complejas. Sin embargo, la mente debe ser capaz de asimilar estos cambios, por lo que es necesario entender profundamente para qué está diseñado el yoga.Los cambios en las mentes tanto individuales como colectivas deben hacerse gradualmente, con plena conciencia y una evaluación de las fuerzas necesarias para combatir la inercia, o la fuerza que resiste esta evolución. Solo intenta forzar tu prana, o energía vital, arriba con la voluntad ciega del ego. Más tarde, prana reacciona y hace que la mente se sumerja hacia abajo con la misma intensidad.  Por eso siempre hay un escándalo con el yoga comercial.Yoga asanas como “el lotus volador” en el foto abajo concentran la energía vital (prana) en el corazón espiritual de Anahata mientras que la mirada de los ojos (drishti) dirige la energía vital hacia arriba, hacia la glándula pineal. Así se activa mas la glandula pineal y prepara el cerebro y el cuerpo para cambios espirituales.<img class="alignnone size-medium wp-image-287" src="https://es.williamenck.is/wp-content/uploads/2026/06/hello-201x300.jpg" alt="" width="201" height="300" />
+</header><section class="page__content">Los asanas no fueron hechos para las Barbies en salones de yoga, sino para yoguis serios buscando la liberación espiritual y dedicados que trabajar a refinar la naturaleza humana a nivel individual y colectivo de la especie. Hacen que uno evolucione física, psicológica y espiritualmente. La liberación de tensiones y bloqueos energéticos en el cuerpo y la redirección del prana liberado (energía vital) hacia arriba en el cerebro causa corrientes nuevas de actividad. Primero, el prana crea este nuevo canal o surco en el cuerpo sutil y luego el cerebro comienza a cambiar e imitar los nuevos patrones energéticos creados por el prana al crear conexiones neuronales más complejas. Sin embargo, la mente debe ser capaz de asimilar estos cambios, por lo que es necesario entender profundamente para qué está diseñado el yoga.Los cambios en las mentes tanto individuales como colectivas deben hacerse gradualmente, con plena conciencia y una evaluación de las fuerzas necesarias para combatir la inercia, o la fuerza que resiste esta evolución. Solo intenta forzar tu prana, o energía vital, arriba con la voluntad ciega del ego. Más tarde, prana reacciona y hace que la mente se sumerja hacia abajo con la misma intensidad.  Por eso siempre hay un escándalo con el yoga comercial.Yoga asanas como “el lotus volador” en el foto abajo concentran la energía vital (prana) en el corazón espiritual de Anahata mientras que la mirada de los ojos (drishti) dirige la energía vital hacia arriba, hacia la glándula pineal. Así se activa mas la glandula pineal y prepara el cerebro y el cuerpo para cambios espirituales.<img class="alignnone size-medium wp-image-287" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/hello-201x300.jpg" alt="" width="201" height="300" />
 
 Las asanas mantienen el sistema endocrino equilibrado y ayudan a romper estos destructivos patrones colectivos de pensamiento y sentimiento que degradan nuestra humanidad. Al equilibrar primero las glándulas inferiores, debemos liberar a la glándula pineal acosado por la contaminacion cognitiva egoista y la mentalidad materialista.  Con esta liberación, liberamos el néctar espiritual de la glándula pineal (amrta) para devolver al mundo la felicidad y la conciencia espiritual.
 
@@ -2975,11 +2975,11 @@ Extracto de Un Nombre Para El Infinito</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/asana-ethics-and-evolution/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/asana-ethics-and-evolution/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2996,7 +2996,7 @@ Extracto de Un Nombre Para El Infinito</a>
 							</item>
 					<item>
 		<title><![CDATA[El Punto De Quiebre Y Los Poseídos]]></title>
-		<link>https://es.williamenck.is/el-punto-de-quiebre-y-los-poseidos/</link>
+		<link>https://enckhausen.github.io/es/el-punto-de-quiebre-y-los-poseidos/</link>
 		<pubDate>Tue, 16 Jun 2026 11:13:54 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=175</guid>
@@ -3024,11 +3024,11 @@ Extracto de Un Nombre Para El Infinito</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-breaking-point-and-the-possessed/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-breaking-point-and-the-possessed/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3041,7 +3041,7 @@ Extracto de Un Nombre Para El Infinito</a>
 							</item>
 					<item>
 		<title><![CDATA[La Revolución Indígena]]></title>
-		<link>https://es.williamenck.is/la-revolucion-indigena/</link>
+		<link>https://enckhausen.github.io/es/la-revolucion-indigena/</link>
 		<pubDate>Tue, 16 Jun 2026 11:15:16 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=177</guid>
@@ -3052,7 +3052,7 @@ Yo era un admirador de los zapatistas desde los primeros videos que vi en los pr
 
 Más tarde, los discursos brillantes y humanas de los comandantes y sub-comandantes zapatistas como Marcos revelaron que había un espíritu tan hermoso y humano guiándolos. Ganaron tantos corazones de todo el mundo con su discurso sincero. Aunque yo era un estudiante en los E.U., me sentí atraída por ellos y asistí a algunas charlas de sacerdotes de teólogos de la liberación que eran simpatizantes zapatistas que vinieron a hablar en la Universidad de Texas en Austin.  Támbien, como estudiante de literatura he acabado de leer "Las Uvas De Ira" por John Steinbeck.  Era realmente sorprendente entender los corrientes socialistas en un escritor tan celebrada en los E.U.  Comandante Ramona, la ex-monja guerillera,me recordaba un poco del protagonista de la novela de Steinbeck, el ex-pastor mistico que volvio lider activista, Jim Casey (J.C.), aunque Ramona era ya mas militarizada.
 
-Pronto me distraje del movimiento zapatista, sin embargo, por mi convivencia con algunos yoguis de la India que resultaron también ser revolucionarios. Aunque admiraba indios yogui-revolucionarios como Aurobindu y Subash Chandra Bose, yo era personalmente más yogui que un revolucionario y pensé en estos yoguis de Ananda Marga más como activistas sociales monásticas como Vivekananda que practicaban y enseñaban yoga para mantenerse y la sociedad humana física, mental y espiritualmente fuerte. Nunca pensé en ellos como los tipos de llevar la ametralladora o granada hasta que hicieron una debacle de una paracaída de armas de un avión ruso lleno deametralladoras, <a href="https://es.williamenck.is/es/el-debate">lanzacohetes y granadas sobre su ashram principal en Purulia, India en 1995.</a>
+Pronto me distraje del movimiento zapatista, sin embargo, por mi convivencia con algunos yoguis de la India que resultaron también ser revolucionarios. Aunque admiraba indios yogui-revolucionarios como Aurobindu y Subash Chandra Bose, yo era personalmente más yogui que un revolucionario y pensé en estos yoguis de Ananda Marga más como activistas sociales monásticas como Vivekananda que practicaban y enseñaban yoga para mantenerse y la sociedad humana física, mental y espiritualmente fuerte. Nunca pensé en ellos como los tipos de llevar la ametralladora o granada hasta que hicieron una debacle de una paracaída de armas de un avión ruso lleno deametralladoras, <a href="https://enckhausen.github.io/es/es/el-debate">lanzacohetes y granadas sobre su ashram principal en Purulia, India en 1995.</a>
 
 En el articula enlacada, argumento que era una revolución falsa, mas bien un esfuerzo de MI5, Interpol, y la CIA para encuadrar esta sociedad como terroristas.  Támbien había unos revolucionarios Don Quijotes que deseaban ser como zapatistas pero estaban metidos en una revolución diseñada a fracasar. Despues de mi involucramiento accidental y encarcelamiento por esa acto revolucionario entendí realmente que tan díficil es realizar una verdedara revolución.
 
@@ -3068,7 +3068,7 @@ Más tarde, ese hombre se acercó a mí y me preguntó si yo era “Geronimo” 
 
 Ahora, 20 años después, personas de todo el mundo se habían reunido para celebrar el espíritu continuo de la revolución. Aunque hubo una presencia de seguridad militar por parte de los propios zapatistas, no había armas y el ambiente no era militante. Lo que más me sorprendió fue que realmente había una vibración espiritual calmante y muy sana. Las personas que viven cerca de la tierra y la respetan, y que también han hecho grandes sacrificios para proteger esta base de la cultura humana han sido bendecidas con un poco de ayuda de las fuerzas invisibles del dharma. Sigo leyendo su literatura, especialmente las comunicaciones de ezln, pero el mensaje es tan lúcido que tengo que hacerlo lentamente porque el impacto es tan intenso en mi mente. Su discurso es realmente sobre las cuestiones humanas más fundamentales de la justicia, la equidad, y la dignidad. Es una gran filosofía humanista que es el resultado de 500 años de sufrimiento y terror. Sus ideales humanos se extienden mucho más allá de los pueblos indígenas de Chiapas y nos enseñan un poco sobre la naturaleza de la humanidad universal. Cada vez que aprendo algo más, tengo una mayor respeto por estas personas valientes que han soportado 500 años de explotación y los sufrimientos más terribles han conseguido lograr algo tan grande. Para mí, no es algo académico o un pasatiempo intelectual.
 
-Ahora que mi propia comunidad en el norte de Mexico ha pasado a través de un terrible genocidio y he visto terror y muerte que veo la revolución indígena como un descenso en el abismo para encontrar la verdad fundamental humano.  Como escribí en <a href="https://es.williamenck.is/es/un-requiem/">"Un Réquiem"</a> sobre cómo unos amigos zapatistas vinieron a ayudarme cuando nuestro rancho estaba rodeado por el narco culto de la Santa Muerte. Lo enviaron a investigar las afirmaciones que yo había hecho en mis escritos y también fue mi enlace con el Consejo Nacional Indígena y compartió conmigo sus ideas y actividades. Solían llamarme Gerónimo por la postura que tomé contra los narcos.
+Ahora que mi propia comunidad en el norte de Mexico ha pasado a través de un terrible genocidio y he visto terror y muerte que veo la revolución indígena como un descenso en el abismo para encontrar la verdad fundamental humano.  Como escribí en <a href="https://enckhausen.github.io/es/es/un-requiem/">"Un Réquiem"</a> sobre cómo unos amigos zapatistas vinieron a ayudarme cuando nuestro rancho estaba rodeado por el narco culto de la Santa Muerte. Lo enviaron a investigar las afirmaciones que yo había hecho en mis escritos y también fue mi enlace con el Consejo Nacional Indígena y compartió conmigo sus ideas y actividades. Solían llamarme Gerónimo por la postura que tomé contra los narcos.
 
 Hice amigo con mi enlace, Jacinto. Era un indígena muy amable, gentil y con mucha sabiduría. También fue un revolucionario muy heroico.Sucedían cosas terribles a nuestro alrededor, pero tuvimos largas conversaciones sobre espiritualidad y cuestiones sociales y políticas. Compartimos comidas y él me ayudó con unas construcciones de bahareque y adobe en las que estaba trabajando. Fue una gran sorpresa ver que también era un experto ecoconstructor, lo que para él era simplemente saber construir como siempre lo habían hecho sus antepasados. Tenía una cualidad muy valiente. Ayudó a los indígenas a recuperar sus tierras de manos de quienes les habían robado. Había sido enviado a prisión y torturado en varias ocasiones. Me dijo que hace apenas un mes la policía le había arrancado un diente. Me dijo esto mientras se reía con el corazón alegre.
 
@@ -3101,11 +3101,11 @@ Los Zetas y su narco gobierno local sabían que estábamos allí. Fue un enfrent
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-indigenous-revolution/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-indigenous-revolution/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3122,7 +3122,7 @@ Los Zetas y su narco gobierno local sabían que estábamos allí. Fue un enfrent
 							</item>
 					<item>
 		<title><![CDATA[Las Nupcias del Sentido con el Alma]]></title>
-		<link>https://es.williamenck.is/las-nupcias-del-sentido-con-el-alma/</link>
+		<link>https://enckhausen.github.io/es/las-nupcias-del-sentido-con-el-alma/</link>
 		<pubDate>Tue, 16 Jun 2026 11:16:04 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=179</guid>
@@ -3188,11 +3188,11 @@ y el mundo es desintegrado en dicha.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/a-marriage-of-sense-to-soul/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/a-marriage-of-sense-to-soul/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3201,7 +3201,7 @@ y el mundo es desintegrado en dicha.
 							</item>
 					<item>
 		<title><![CDATA[El Cactus Divino]]></title>
-		<link>https://es.williamenck.is/el-cactus-divino/</link>
+		<link>https://enckhausen.github.io/es/el-cactus-divino/</link>
 		<pubDate>Tue, 16 Jun 2026 11:17:05 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=181</guid>
@@ -3218,7 +3218,7 @@ Vine a México cuando tenía 30 años. Estaba muy saludable y mi mente era muy l
 
 Después de mis tratamientos naturópatas en México, me volví súper saludable en mente y cuerpo. Mi mente perdería la noción del tiempo por completo. Una vez, después de uno de los masajes, la naturópata me entregó mi ropa para vestirme. Regresó una hora más tarde y me encontró de pie desnuda en la ventana con todos los vecinos burlándose de mí. Estaba perdido en mis pensamientos al contemplar la función psicológica del hígado y no tenía idea de que todavía estaba en el planeta tierra. El masaje estimuló el hígado y lo "abrió" y tuve una nueva visión para mí. Para tener una forma y un equilibrio adecuados en la personalidad es necesario tener un hígado muy puro. El yoga hace que el cuerpo sea puro y la mente ligera. La unión espiritual con la Conciencia Suprema es la consecuencia natural de su práctica apropiada y también el producto final de la evolución humana.
 
-Cuando por fin conocí a un Huichole Maracame hace dos años, ya había terminado mis estudios personales con el Cactus Divino. Solo lo tomé hace 12 años porque tenía algunos dolores de corazón después de las experiencias sobre las que escribí en <a href="https://es.williamenck.is/es/el-punto-de-quiebre-y-los-poseidos/">"Los Poseídos" </a> que ocurrieron solo unos meses después de esa experiencia tan abrumador con Ramananda.  No había probado ningún medicamento, farmacológico ni natural, en tantos años. Las drogas y el alcohol no formaban parte de mi vida. Nunca consideré el uso del peyote como algo recreativo. Tampoco era medicina, al menos en el sentido tradicional. Era algo completamente diferente. Fue un trabajo muy serio. El peyote ayuda a dar a la mente la inteligencia para procesar recuerdos y emociones de manera muy profunda. Tiene alguna conexión especial con el mundo natural que nos ayuda a encontrar una armonía con él.
+Cuando por fin conocí a un Huichole Maracame hace dos años, ya había terminado mis estudios personales con el Cactus Divino. Solo lo tomé hace 12 años porque tenía algunos dolores de corazón después de las experiencias sobre las que escribí en <a href="https://enckhausen.github.io/es/es/el-punto-de-quiebre-y-los-poseidos/">"Los Poseídos" </a> que ocurrieron solo unos meses después de esa experiencia tan abrumador con Ramananda.  No había probado ningún medicamento, farmacológico ni natural, en tantos años. Las drogas y el alcohol no formaban parte de mi vida. Nunca consideré el uso del peyote como algo recreativo. Tampoco era medicina, al menos en el sentido tradicional. Era algo completamente diferente. Fue un trabajo muy serio. El peyote ayuda a dar a la mente la inteligencia para procesar recuerdos y emociones de manera muy profunda. Tiene alguna conexión especial con el mundo natural que nos ayuda a encontrar una armonía con él.
 
 El peyote también ayuda a despertar la kundalini. Muchos de mis amigos tántricos dijeron que tenían un aumento inusual en la actividad de kundalini. Debido a esta aceleración, todos decidimos que uno rara vez debería usar peyote o cualquier otra técnica que acelere el proceso de meditación. La meditación tántrica sola es demasiado fuerte para la mayoría de las personas, por lo que uno solo puede imaginar lo que sucedería al unir la práctica tántrica con el uso de plantas de poder como el peyote. No lo recomiendo a nadie públicamente. La mayoría de las personas no están preparadas psicológicamente porque han sido socializadas en la matriz con poca comprensión de los mundos naturales y espirituales. Incluso la mayoría de los maestros en los cultos pseudo-chamánicos modernos de plantas de energía están realmente locos en mi opinión. Solo les digo a las personas maduras que podrían beneficiarse al intentarlo al menos una vez en las montañas con un pequeño grupo de amigos o familiares. Si uno tiene un deseo sincero, entonces aparecerá un maestro adecuado en el camino.
 
@@ -3259,11 +3259,11 @@ Los efectos de la iniciación fueron muy marcados. Me di cuenta de que el consum
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-divine-cactus/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-divine-cactus/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3280,7 +3280,7 @@ Los efectos de la iniciación fueron muy marcados. Me di cuenta de que el consum
 							</item>
 					<item>
 		<title><![CDATA[Gymnopedia Con La Yerba Mate]]></title>
-		<link>https://es.williamenck.is/gymnopedia-con-la-yerba-mate/</link>
+		<link>https://enckhausen.github.io/es/gymnopedia-con-la-yerba-mate/</link>
 		<pubDate>Tue, 16 Jun 2026 11:23:43 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=184</guid>
@@ -3312,11 +3312,11 @@ Los efectos de la iniciación fueron muy marcados. Me di cuenta de que el consum
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/gymnopedia-on-yerba-mate/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/gymnopedia-on-yerba-mate/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3325,7 +3325,7 @@ Los efectos de la iniciación fueron muy marcados. Me di cuenta de que el consum
 							</item>
 					<item>
 		<title><![CDATA[El Ojo Del Infinito]]></title>
-		<link>https://es.williamenck.is/el-ojo-del-infinito/</link>
+		<link>https://enckhausen.github.io/es/el-ojo-del-infinito/</link>
 		<pubDate>Tue, 16 Jun 2026 11:25:30 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=187</guid>
@@ -3360,11 +3360,11 @@ Los efectos de la iniciación fueron muy marcados. Me di cuenta de que el consum
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-infinite-eye/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-infinite-eye/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3373,12 +3373,12 @@ Los efectos de la iniciación fueron muy marcados. Me di cuenta de que el consum
 							</item>
 					<item>
 		<title><![CDATA[Hitler, "Killer," Y Los Adoradores Del Lagarto]]></title>
-		<link>https://es.williamenck.is/hitler-killer-y-los-adoradores-del-lagarto/</link>
+		<link>https://enckhausen.github.io/es/hitler-killer-y-los-adoradores-del-lagarto/</link>
 		<pubDate>Thu, 25 Jun 2026 22:47:53 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=77</guid>
 		<description></description>
-		<content:encoded><![CDATA[El siguiente es una edición reciente al ensayo anterior, <a href="https://es.williamenck.is/es/la-basura-blanca/">"Basura Blanca"</a>
+		<content:encoded><![CDATA[El siguiente es una edición reciente al ensayo anterior, <a href="https://enckhausen.github.io/es/es/la-basura-blanca/">"Basura Blanca"</a>
 
 Mientras era estudiante universitario, pasé mis vacaciones de verano en un *ashram* de yoguis en las montañas Ozark, en Misuri. Resultaba irónico hallarse en una comunidad tan iluminada en medio de lo que parecía ser un entorno sacado de la película *Deliverance*, de los años 70. La comunidad contaba con un parque infantil que tenía un lagarto de cemento —con un arenero debajo— y un columpio de cuerda que los niños podían usar tras trepar hasta la cabeza del lagarto. La iglesia bautista local comenzó a difundir el rumor de que aquella extraña secta de yoguis, en realidad, adoraba al lagarto. Esa era la parte más ligera y divertida del asunto.
 
@@ -3400,7 +3400,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 
 &nbsp;
 
-<strong><img class="alignnone size-medium wp-image-310" src="https://es.williamenck.is/wp-content/uploads/2026/06/trump-222x300.webp" alt="" width="222" height="300" /></strong>]]></content:encoded>
+<strong><img class="alignnone size-medium wp-image-310" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/trump-222x300.webp" alt="" width="222" height="300" /></strong>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-25 22:47:53]]></wp:post_date>
@@ -3423,11 +3423,11 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/hitler-killer-and-the-lizard-worshippers/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/hitler-killer-and-the-lizard-worshippers/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3444,7 +3444,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[El Culto De Ananda Marga Y La Sombra Del Guru]]></title>
-		<link>https://es.williamenck.is/la-sombra-del-guru/</link>
+		<link>https://enckhausen.github.io/es/la-sombra-del-guru/</link>
 		<pubDate>Sun, 26 Jul 2026 00:42:43 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=110</guid>
@@ -3521,11 +3521,11 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/the-shadow-of-the-guru/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/the-shadow-of-the-guru/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3546,7 +3546,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[quetzal]]></title>
-		<link>https://es.williamenck.is/el-vuelo-del-quetzal/quetzal-2/</link>
+		<link>https://enckhausen.github.io/es/el-vuelo-del-quetzal/quetzal-2/</link>
 		<pubDate>Fri, 19 Jun 2026 15:25:29 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/quetzal-1.jpg</guid>
@@ -3567,7 +3567,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/quetzal-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/quetzal-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/quetzal-1.jpg]]></wp:meta_value>
@@ -3579,7 +3579,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[chidghananda]]></title>
-		<link>https://es.williamenck.is/el-vuelo-del-quetzal/chidghananda/</link>
+		<link>https://enckhausen.github.io/es/el-vuelo-del-quetzal/chidghananda/</link>
 		<pubDate>Fri, 19 Jun 2026 15:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/chidghananda.jpg</guid>
@@ -3600,7 +3600,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/chidghananda.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/chidghananda.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/chidghananda.jpg]]></wp:meta_value>
@@ -3612,7 +3612,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[chandranath]]></title>
-		<link>https://es.williamenck.is/el-vuelo-del-quetzal/chandranath/</link>
+		<link>https://enckhausen.github.io/es/el-vuelo-del-quetzal/chandranath/</link>
 		<pubDate>Fri, 19 Jun 2026 15:26:07 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/chandranath.jpg</guid>
@@ -3633,7 +3633,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/chandranath.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/chandranath.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/chandranath.jpg]]></wp:meta_value>
@@ -3645,7 +3645,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[venados]]></title>
-		<link>https://es.williamenck.is/el-cactus-divino/venados/</link>
+		<link>https://enckhausen.github.io/es/el-cactus-divino/venados/</link>
 		<pubDate>Sat, 20 Jun 2026 08:19:22 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/venados.jpg</guid>
@@ -3666,7 +3666,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/venados.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/venados.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/venados.jpg]]></wp:meta_value>
@@ -3678,7 +3678,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[zapluna]]></title>
-		<link>https://es.williamenck.is/la-revolucion-indigena/zapluna/</link>
+		<link>https://enckhausen.github.io/es/la-revolucion-indigena/zapluna/</link>
 		<pubDate>Sat, 20 Jun 2026 08:19:41 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/zapluna.jpg</guid>
@@ -3699,7 +3699,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/zapluna.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/zapluna.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/zapluna.jpg]]></wp:meta_value>
@@ -3711,7 +3711,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[zapluna]]></title>
-		<link>https://es.williamenck.is/la-revolucion-indigena/zapluna-2/</link>
+		<link>https://enckhausen.github.io/es/la-revolucion-indigena/zapluna-2/</link>
 		<pubDate>Sat, 20 Jun 2026 08:20:14 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/zapluna-1.jpg</guid>
@@ -3732,7 +3732,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/zapluna-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/zapluna-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/zapluna-1.jpg]]></wp:meta_value>
@@ -3744,7 +3744,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[asana]]></title>
-		<link>https://es.williamenck.is/los-asanas-la-etica-y-la-evolucion/asana/</link>
+		<link>https://enckhausen.github.io/es/los-asanas-la-etica-y-la-evolucion/asana/</link>
 		<pubDate>Sat, 20 Jun 2026 08:20:45 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/asana.jpg</guid>
@@ -3765,7 +3765,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/asana.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/asana.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/asana.jpg]]></wp:meta_value>
@@ -3777,7 +3777,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[hello]]></title>
-		<link>https://es.williamenck.is/los-asanas-la-etica-y-la-evolucion/hello/</link>
+		<link>https://enckhausen.github.io/es/los-asanas-la-etica-y-la-evolucion/hello/</link>
 		<pubDate>Sat, 20 Jun 2026 08:21:18 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/hello.jpg</guid>
@@ -3798,7 +3798,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/hello.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/hello.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/hello.jpg]]></wp:meta_value>
@@ -3810,7 +3810,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[acharyas]]></title>
-		<link>https://es.williamenck.is/tantra-de-la-luz-y-la-oscuridad/acharyas/</link>
+		<link>https://enckhausen.github.io/es/tantra-de-la-luz-y-la-oscuridad/acharyas/</link>
 		<pubDate>Sat, 20 Jun 2026 08:21:59 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/acharyas.jpg</guid>
@@ -3831,7 +3831,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/acharyas.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/acharyas.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/acharyas.jpg]]></wp:meta_value>
@@ -3843,7 +3843,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[skunk]]></title>
-		<link>https://es.williamenck.is/un-requiem/skunk/</link>
+		<link>https://enckhausen.github.io/es/un-requiem/skunk/</link>
 		<pubDate>Sat, 20 Jun 2026 08:23:45 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/skunk.jpg</guid>
@@ -3864,7 +3864,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/skunk.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/skunk.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/skunk.jpg]]></wp:meta_value>
@@ -3876,7 +3876,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[rolex]]></title>
-		<link>https://es.williamenck.is/un-requiem/rolex/</link>
+		<link>https://enckhausen.github.io/es/un-requiem/rolex/</link>
 		<pubDate>Sat, 20 Jun 2026 08:24:10 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/rolex.png</guid>
@@ -3897,7 +3897,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/rolex.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/rolex.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/rolex.png]]></wp:meta_value>
@@ -3909,7 +3909,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[padmasambhava]]></title>
-		<link>https://es.williamenck.is/un-requiem/padmasambhava/</link>
+		<link>https://enckhausen.github.io/es/un-requiem/padmasambhava/</link>
 		<pubDate>Sat, 20 Jun 2026 08:24:43 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/padmasambhava.jpg</guid>
@@ -3930,7 +3930,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/padmasambhava.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/padmasambhava.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/padmasambhava.jpg]]></wp:meta_value>
@@ -3942,7 +3942,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[rublev]]></title>
-		<link>https://es.williamenck.is/forma-y-sin-forma/rublev/</link>
+		<link>https://enckhausen.github.io/es/forma-y-sin-forma/rublev/</link>
 		<pubDate>Sat, 20 Jun 2026 08:25:52 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/rublev.jpg</guid>
@@ -3963,7 +3963,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/rublev.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/rublev.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/rublev.jpg]]></wp:meta_value>
@@ -3975,7 +3975,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[ernst]]></title>
-		<link>https://es.williamenck.is/todos-nosotros/ernst/</link>
+		<link>https://enckhausen.github.io/es/todos-nosotros/ernst/</link>
 		<pubDate>Sat, 20 Jun 2026 08:27:18 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/ernst.jpg</guid>
@@ -3996,7 +3996,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/ernst.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/ernst.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/ernst.jpg]]></wp:meta_value>
@@ -4008,7 +4008,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[napalmgirl]]></title>
-		<link>https://es.williamenck.is/dogma-disonancia-y-disenso/napalmgirl/</link>
+		<link>https://enckhausen.github.io/es/dogma-disonancia-y-disenso/napalmgirl/</link>
 		<pubDate>Sat, 20 Jun 2026 08:27:52 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/napalmgirl.jpg</guid>
@@ -4029,7 +4029,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/napalmgirl.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/napalmgirl.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/napalmgirl.jpg]]></wp:meta_value>
@@ -4041,7 +4041,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[La Basura Blanca]]></title>
-		<link>https://es.williamenck.is/la-basura-blanca/</link>
+		<link>https://enckhausen.github.io/es/la-basura-blanca/</link>
 		<pubDate>Sun, 28 Jun 2026 08:37:09 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?p=323</guid>
@@ -4052,7 +4052,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 <p class="page__meta"><span style="font-size: 14pt;">Vivekananda, el primer yogui que visitó el mundo occidental, hablaba de la naturaleza relativa y cíclica de la evolución social a la élite intelectual de Inglaterra y dijo audazmente que cuando la India estaba en su apogeo como civilización, los británicos se pintaban el cuerpo de azul y vivían en los árboles.</span></p>
 <p class="page__meta"><span style="font-size: 14pt;">Sólo los oportunistas políticos y materialistas que promueven el miedo en la gente ignorante y temerosa se centran más en las diferencias de las personas que en sus similitudes. El nacionalismo, incluso en sus formas más responsables y racionales, siempre ha parecido bastante inmaduro comparado con la idea perenne de que todos somos Conciencia microcósmica evolucionando y existiendo en la Conciencia macrocósmica viva y vibrante del universo.</span></p>
 
-</header><section class="page__content"><span style="font-size: 14pt;">La conciencia subjetiva es la misma en todos los seres. Podemos tener mentes diferentes con condicionamentos sociales diferentes, pero el “yo” interno es idéntico en todos. Sólo somos diferentes en la parte objetiva de nuestras mentes. La mente objetiva (chitta) está conectada con el mundo externo y el cerebro físico, por lo que está cualificada por la objetividad externa. Si uno ve sólo lo externo, entonces todo parece diferente. Las personas están simplemente condicionadas y cualificadas por diferentes entornos y circunstancias objetivas como la raza, la cultura y la clase social. Sin embargo, si uno conoce la conciencia pura, interna, entonces se da cuenta de que la conciencia interna, subjetiva, es la misma en el Macrocosmos divino así como en todos los seres individuales, o “microcosmos”. Todos los seres comparten la misma alma interna con la conciencia subjetiva infinita, o macrocosmos. El microcosmos y el macrocosmos están esencialmente unidos. En realidad, sólo existe una mente y una conciencia macrocósmica. “Microcosmos” es en realidad un término erróneo; se utiliza para describir una mente cualificada por una objetividad relativa y cambiante, la parte de la propia conciencia subjetiva que parece estar cualificada y modificada por el mundo externo. Sin embargo, esta conciencia nunca se modifica realmente. Es como un espejo que refleja muchos objetos. No importa cuántos objetos y colores se reflejen en el espejo, el espejo nunca cambia.Escuché una entrevista con Cornel West la otra noche. No puedo decir que he leído sus obras, pero sus entrevistas siempre me han impresionado. Lo que más me iluminó de esta entrevista fueron sus reflexiones sobre cómo la izquierda neoliberal y la derecha neo-fascista están controlados por los mismos grandes intereses en Wall Street y el complejo industrial militar. Ambos bandos sirven al Imperio Americano, solo la izquierda quiere dejar entrar a las minorías y a las mujeres en el juego mientras que la derecha mantiene una actitud racista más tradicional. Habló a largo plazo sobre cómo la gente nunca se introduce, incluso en las universidades, a la idea de que los Estados Unidos son un imperio con una historia de colonialismo, genocidio y explotación capitalista.Reflexionando sobre esta entrevista empiezo a pensar en una persona cuya imagen siempre trato de mantener fuera de mi mente, el líder “neofascista” al que West se refiere. Recientemente escuché su voz y escuché a esta persona hablar. Me siento en uno con el mundo, pero todavía hay gente cuya forma mental es tan inquietante que no quiero dejar que se acerquen a mi alma ni siquiera cognitiéndolos. Cuando evocamos a una persona u objeto en nuestra mente, en realidad existe una conexión con el objeto o la persona original. Las mentes débiles y inconscientes solo ven sus propias proyecciones y tienen muy poca conexión con el objeto original en sus mentes. Cuanto más fuerte y pura sea la mente, más se podrá conectar con la persona.Trump es el ejemplo supremo y perfecto de ′′basura blanca.” “Basura blanca′′ es un término que dejé de usar hace algún tiempo, al menos hasta ahora. Parecía bastante racista en que implica que los blancos también pueden ser “basura,” y no sólo las minorías discriminadas tan frecuentemente. Además, su uso común para describir a la gente rural y simple es realmente ofensivo. Ni siquiera puedo utilizar el término “basura blanca” para los temerosos y violentos cristianos fundamentalistas armados. Estas personas tienen complejos de inferioridad que son explotados por sus líderes que les inyectan un falso sentido de superioridad nacional y racial. Sólo puedo llamar a sus líderes “basura blanca”. Trump es el símbolo perfecto de la ignorancia y la brutalidad colectivas, el líder perfecto para una cultura basura en un imperio basura. Sólo una conciencia basura, burda y materialista podría manifestar esta abominación.Tales distorsiones de la conciencia humana que ponen en peligro nuestra evolución son siempre maldecidas por la naturaleza y el macrocosmos se vuelve contra ellos. La naturaleza simplemente desata todas las reacciones acumuladas a las acciones pasadas de la conciencia colectiva con tanta precisión e incluso un simbolismo sorprendente para dejar en claro a la historia que lo que fue destruido fue una abominación. Espero que ahora pueda eliminar esta forma de mi mente, pero de alguna manera lo hago de una manera extraña gracias a Trump por ser un símbolo tan claro y perfecto. El Imperio Americano no se salvará del destino de otros imperios caídos que ya no sirven a ningún propósito evolutivo.Hace poco soñé que iba de excursión al Polo Norte con el ex presidente Obama. Me estaba haciendo algunas preguntas sobre la filosofía del yoga. No quise hablar con él. Pensé internamente que “podrías ser un tipo decente si no fueras el líder del imperio corporativo, la máquina de guerra del complejo industrial militar, etc. etc.” No dije nada.En el sueño, sabía que era un sueño y pensaba que estaba soñando esto porque en mi pasado, después del incidente de Purulia, siempre estaba en diálogos juguetones con personas muy “inteligentes”. Tenía un ojo puesto en mí, pero  yo era una persona inocente en la <a href="https://es.williamenck.is/es/el-debate/">debacle y sentí que la gente de inteligencia y militar con la que dialogaba era realmente amigable conmigo</a>. Sabían que no era patriota, pero también entendieron que no era un revolucionario anarquista o violento. Aproveché la situación para darles algunos enfrentamientos morales sutiles sobre ser servidores de la máquina de guerra. Me preguntaba si se despertaban un poco espiritual y moralmente si terminarían renunciando a sus posturas gubernamentales y militares. Por ejemplo, una vez dialogué con un oficial de la marina y un profesor de West Point sobre ideas neoplatónicas y su similitud con la doctrina Upanashadic de la identidad del Atman con Brahman. De hecho es el mismo debate de los místicos cristianos sobre si el alma humana es una e idéntica a dios, o si era una entidad separada de la esencia divina. Citó a John Scotus Eriugena. Hablamos sobre si el Atman, el alma individual, era igual a Brahman, el alma universal. Le dije que era cierto y me preguntó si era cierto en el sentido de que los dos melones que sostenía eran idénticos. ¿Son idénticos o simplemente similares?, preguntó. Dije que no hay nada exactamente similar en el plano físico, pero en el espíritu todo es uno. Sería como si dos melones pudieran ser exactamente idénticos. Si fueran completamente idénticos, entonces no podríamos notar su separación bajo ningún escrutinio y serían completamente uno. Tal semejanza es imposible en el mundo físico pero en el espíritu todo es uno. Sin embargo, en el mundo físico deberíamos ver la unidad en la diversidad, como creación finita y diversa tratando de expresar el Infinito a través de la evolución de la conciencia, dije.</span><span style="font-size: 14pt;">De todos modos, era mi pequeña historia personal de poder ver cómo las personas dentro de ambos lados del eterno juego de rebeldes y funcionarios del imperio realmente piensan, como seres humanos. Y con esto en mente, me di cuenta de que esa era la razón por la que en este sueño se suponía que debía guiarlo al polo norte. Obama en este sueño es definitivamente el símbolo más refinado del gran intelecto humano esclavizado a la política sucia, al final un falso rostro humano y racional para el imperio más irracional y autodestructivo.</span>
+</header><section class="page__content"><span style="font-size: 14pt;">La conciencia subjetiva es la misma en todos los seres. Podemos tener mentes diferentes con condicionamentos sociales diferentes, pero el “yo” interno es idéntico en todos. Sólo somos diferentes en la parte objetiva de nuestras mentes. La mente objetiva (chitta) está conectada con el mundo externo y el cerebro físico, por lo que está cualificada por la objetividad externa. Si uno ve sólo lo externo, entonces todo parece diferente. Las personas están simplemente condicionadas y cualificadas por diferentes entornos y circunstancias objetivas como la raza, la cultura y la clase social. Sin embargo, si uno conoce la conciencia pura, interna, entonces se da cuenta de que la conciencia interna, subjetiva, es la misma en el Macrocosmos divino así como en todos los seres individuales, o “microcosmos”. Todos los seres comparten la misma alma interna con la conciencia subjetiva infinita, o macrocosmos. El microcosmos y el macrocosmos están esencialmente unidos. En realidad, sólo existe una mente y una conciencia macrocósmica. “Microcosmos” es en realidad un término erróneo; se utiliza para describir una mente cualificada por una objetividad relativa y cambiante, la parte de la propia conciencia subjetiva que parece estar cualificada y modificada por el mundo externo. Sin embargo, esta conciencia nunca se modifica realmente. Es como un espejo que refleja muchos objetos. No importa cuántos objetos y colores se reflejen en el espejo, el espejo nunca cambia.Escuché una entrevista con Cornel West la otra noche. No puedo decir que he leído sus obras, pero sus entrevistas siempre me han impresionado. Lo que más me iluminó de esta entrevista fueron sus reflexiones sobre cómo la izquierda neoliberal y la derecha neo-fascista están controlados por los mismos grandes intereses en Wall Street y el complejo industrial militar. Ambos bandos sirven al Imperio Americano, solo la izquierda quiere dejar entrar a las minorías y a las mujeres en el juego mientras que la derecha mantiene una actitud racista más tradicional. Habló a largo plazo sobre cómo la gente nunca se introduce, incluso en las universidades, a la idea de que los Estados Unidos son un imperio con una historia de colonialismo, genocidio y explotación capitalista.Reflexionando sobre esta entrevista empiezo a pensar en una persona cuya imagen siempre trato de mantener fuera de mi mente, el líder “neofascista” al que West se refiere. Recientemente escuché su voz y escuché a esta persona hablar. Me siento en uno con el mundo, pero todavía hay gente cuya forma mental es tan inquietante que no quiero dejar que se acerquen a mi alma ni siquiera cognitiéndolos. Cuando evocamos a una persona u objeto en nuestra mente, en realidad existe una conexión con el objeto o la persona original. Las mentes débiles y inconscientes solo ven sus propias proyecciones y tienen muy poca conexión con el objeto original en sus mentes. Cuanto más fuerte y pura sea la mente, más se podrá conectar con la persona.Trump es el ejemplo supremo y perfecto de ′′basura blanca.” “Basura blanca′′ es un término que dejé de usar hace algún tiempo, al menos hasta ahora. Parecía bastante racista en que implica que los blancos también pueden ser “basura,” y no sólo las minorías discriminadas tan frecuentemente. Además, su uso común para describir a la gente rural y simple es realmente ofensivo. Ni siquiera puedo utilizar el término “basura blanca” para los temerosos y violentos cristianos fundamentalistas armados. Estas personas tienen complejos de inferioridad que son explotados por sus líderes que les inyectan un falso sentido de superioridad nacional y racial. Sólo puedo llamar a sus líderes “basura blanca”. Trump es el símbolo perfecto de la ignorancia y la brutalidad colectivas, el líder perfecto para una cultura basura en un imperio basura. Sólo una conciencia basura, burda y materialista podría manifestar esta abominación.Tales distorsiones de la conciencia humana que ponen en peligro nuestra evolución son siempre maldecidas por la naturaleza y el macrocosmos se vuelve contra ellos. La naturaleza simplemente desata todas las reacciones acumuladas a las acciones pasadas de la conciencia colectiva con tanta precisión e incluso un simbolismo sorprendente para dejar en claro a la historia que lo que fue destruido fue una abominación. Espero que ahora pueda eliminar esta forma de mi mente, pero de alguna manera lo hago de una manera extraña gracias a Trump por ser un símbolo tan claro y perfecto. El Imperio Americano no se salvará del destino de otros imperios caídos que ya no sirven a ningún propósito evolutivo.Hace poco soñé que iba de excursión al Polo Norte con el ex presidente Obama. Me estaba haciendo algunas preguntas sobre la filosofía del yoga. No quise hablar con él. Pensé internamente que “podrías ser un tipo decente si no fueras el líder del imperio corporativo, la máquina de guerra del complejo industrial militar, etc. etc.” No dije nada.En el sueño, sabía que era un sueño y pensaba que estaba soñando esto porque en mi pasado, después del incidente de Purulia, siempre estaba en diálogos juguetones con personas muy “inteligentes”. Tenía un ojo puesto en mí, pero  yo era una persona inocente en la <a href="https://enckhausen.github.io/es/es/el-debate/">debacle y sentí que la gente de inteligencia y militar con la que dialogaba era realmente amigable conmigo</a>. Sabían que no era patriota, pero también entendieron que no era un revolucionario anarquista o violento. Aproveché la situación para darles algunos enfrentamientos morales sutiles sobre ser servidores de la máquina de guerra. Me preguntaba si se despertaban un poco espiritual y moralmente si terminarían renunciando a sus posturas gubernamentales y militares. Por ejemplo, una vez dialogué con un oficial de la marina y un profesor de West Point sobre ideas neoplatónicas y su similitud con la doctrina Upanashadic de la identidad del Atman con Brahman. De hecho es el mismo debate de los místicos cristianos sobre si el alma humana es una e idéntica a dios, o si era una entidad separada de la esencia divina. Citó a John Scotus Eriugena. Hablamos sobre si el Atman, el alma individual, era igual a Brahman, el alma universal. Le dije que era cierto y me preguntó si era cierto en el sentido de que los dos melones que sostenía eran idénticos. ¿Son idénticos o simplemente similares?, preguntó. Dije que no hay nada exactamente similar en el plano físico, pero en el espíritu todo es uno. Sería como si dos melones pudieran ser exactamente idénticos. Si fueran completamente idénticos, entonces no podríamos notar su separación bajo ningún escrutinio y serían completamente uno. Tal semejanza es imposible en el mundo físico pero en el espíritu todo es uno. Sin embargo, en el mundo físico deberíamos ver la unidad en la diversidad, como creación finita y diversa tratando de expresar el Infinito a través de la evolución de la conciencia, dije.</span><span style="font-size: 14pt;">De todos modos, era mi pequeña historia personal de poder ver cómo las personas dentro de ambos lados del eterno juego de rebeldes y funcionarios del imperio realmente piensan, como seres humanos. Y con esto en mente, me di cuenta de que esa era la razón por la que en este sueño se suponía que debía guiarlo al polo norte. Obama en este sueño es definitivamente el símbolo más refinado del gran intelecto humano esclavizado a la política sucia, al final un falso rostro humano y racional para el imperio más irracional y autodestructivo.</span>
 
 <span style="font-size: 14pt;">Para seguir con el sueño, llegamos a la punta del mundo. El Polo Norte estaba directamente en medio de lo que parecía ser un iglú. Al acercarse, el iglú era realmente una piscina. Estaba cubierto para protegerse del clima y había una pequeña puerta en este techo para entrar a las aguas de abajo. Obama me pidió que lo abriera. Vi que las aguas eran profundas y estaban conectadas con los océanos alrededor de este bloque de hielo sobre el que estábamos parados. Obama pidió mirar y me moví a un lado. Las aguas comenzaron a arremolinarse y toda la piscina se convirtió en un vórtice gigante. Una ola gigante lo envolvió y lo vi sonrojarse. El vórtice creció y envolvió todo el polo norte y también vi a toda la sociedad humana sonrojarse. Me preguntaba por qué no me estaba sonrojando, pero me di cuenta de que solo era un testigo sin un cuerpo físico en este sueño.</span>
 
@@ -4076,7 +4076,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 
 &nbsp;
 
-<span style="font-size: 14pt;"><strong><img class="alignnone size-medium wp-image-310" src="https://es.williamenck.is/wp-content/uploads/2026/06/trump-222x300.webp" alt="" width="222" height="300" /></strong></span>
+<span style="font-size: 14pt;"><strong><img class="alignnone size-medium wp-image-310" src="https://enckhausen.github.io/es/wp-content/uploads/2026/06/trump-222x300.webp" alt="" width="222" height="300" /></strong></span>
 
 <span style="font-size: 14pt;">Derechista, de izquierda; capitalista, comunista: si tu filosofía es material, al final usted realmente no importa y será reciclado por la naturaleza. La materia es una ilusión, la gente solo cree en ella cuando su corazón espiritual aún no está abierto. La razón universal no puede separarse del amor universal.</span>
 
@@ -4115,11 +4115,11 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/feed.xml]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/feed.xml]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://es.williamenck.is/white-trash-2/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://enckhausen.github.io/es/white-trash-2/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -4140,7 +4140,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[quetzalcoatl]]></title>
-		<link>https://es.williamenck.is/quetzalcoatl/</link>
+		<link>https://enckhausen.github.io/es/quetzalcoatl/</link>
 		<pubDate>Sat, 20 Jun 2026 08:38:01 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/quetzalcoatl.png</guid>
@@ -4161,7 +4161,7 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/quetzalcoatl.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/quetzalcoatl.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/quetzalcoatl.png]]></wp:meta_value>
@@ -4173,14 +4173,14 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 							</item>
 					<item>
 		<title><![CDATA[Dominio Nuevo]]></title>
-		<link>https://es.williamenck.is/dominio-nuevo/</link>
+		<link>https://enckhausen.github.io/es/dominio-nuevo/</link>
 		<pubDate>Thu, 30 Jul 2026 11:32:31 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
-		<guid isPermaLink="false">https://es.williamenck.is/?p=633</guid>
+		<guid isPermaLink="false">https://enckhausen.github.io/es/?p=633</guid>
 		<description></description>
 		<content:encoded><![CDATA[Hace poco trasladé mi blog a un servidor en Islandia. Por razones de seguridad, también he cambiado el dominio de williamenck.art/es a es.williamenck.is, un dominio islandés protegido por la legislación islandesa. Islandia es considerada un refugio para la privacidad de los datos de activistas y denunciantes. No me considero ni activista ni denunciante, pero si ellos pueden protegerse de la censura con un servidor y un nombre de dominio islandeses, yo también puedo hacerlo.
 
-Los lectores de publicaciones anteriores saben que esta censura está relacionada con <a href="https://es.williamenck.is/es/el-debate">algunos textos antiguos</a> que aún se encuentran en mi blog. En lugar de eliminarlos para complacer a las autoridades, he decidido simplemente trasladar mi blog y mi nombre de dominio a Islandia. Me gustan esas historias y la gente las encuentra muy divertidas.
+Los lectores de publicaciones anteriores saben que esta censura está relacionada con <a href="https://enckhausen.github.io/es/es/el-debate">algunos textos antiguos</a> que aún se encuentran en mi blog. En lugar de eliminarlos para complacer a las autoridades, he decidido simplemente trasladar mi blog y mi nombre de dominio a Islandia. Me gustan esas historias y la gente las encuentra muy divertidas.
 
 No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una función de búsqueda en el sitio, así como habilitar los comentarios en las publicaciones. Mantendré activo williamenck.art por un tiempo para que esta publicación se difunda y, luego, williamenck.art se redirigirá automáticamente a williamenck.is.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4206,7 +4206,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 							</item>
 					<item>
 		<title><![CDATA[9]]></title>
-		<link>https://es.williamenck.is/de-quetzalcoatl-a-casanova/attachment/9/</link>
+		<link>https://enckhausen.github.io/es/de-quetzalcoatl-a-casanova/attachment/9/</link>
 		<pubDate>Sat, 20 Jun 2026 08:26:23 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/9.jpg</guid>
@@ -4227,7 +4227,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/9.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/9.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/9.jpg]]></wp:meta_value>
@@ -4239,7 +4239,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 							</item>
 					<item>
 		<title><![CDATA[trump]]></title>
-		<link>https://es.williamenck.is/hitler-killer-y-los-adoradores-del-lagarto/trump/</link>
+		<link>https://enckhausen.github.io/es/hitler-killer-y-los-adoradores-del-lagarto/trump/</link>
 		<pubDate>Sat, 20 Jun 2026 08:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/trump.webp</guid>
@@ -4260,7 +4260,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/trump.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/trump.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/trump.webp]]></wp:meta_value>
@@ -4272,7 +4272,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 							</item>
 					<item>
 		<title><![CDATA[white-trash]]></title>
-		<link>https://es.williamenck.is/la-basura-blanca/white-trash-2/</link>
+		<link>https://enckhausen.github.io/es/la-basura-blanca/white-trash-2/</link>
 		<pubDate>Sat, 20 Jun 2026 08:37:01 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/white-trash.jpg</guid>
@@ -4293,7 +4293,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/white-trash.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/white-trash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/white-trash.jpg]]></wp:meta_value>
@@ -4305,7 +4305,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 							</item>
 					<item>
 		<title><![CDATA[anandamurti]]></title>
-		<link>https://es.williamenck.is/un-puente-al-infinito/anandamurti/</link>
+		<link>https://enckhausen.github.io/es/un-puente-al-infinito/anandamurti/</link>
 		<pubDate>Sat, 20 Jun 2026 08:37:30 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/anandamurti.jpg</guid>
@@ -4326,7 +4326,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/anandamurti.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/anandamurti.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/anandamurti.jpg]]></wp:meta_value>
@@ -4338,10 +4338,10 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 							</item>
 					<item>
 		<title><![CDATA[terrorist]]></title>
-		<link>https://es.williamenck.is/terrorist/</link>
+		<link>https://enckhausen.github.io/es/terrorist/</link>
 		<pubDate>Thu, 02 Jul 2026 22:31:58 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
-		<guid isPermaLink="false">https://es.williamenck.is/wp-content/uploads/2026/06/terrorist.jpg</guid>
+		<guid isPermaLink="false">https://enckhausen.github.io/es/wp-content/uploads/2026/06/terrorist.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4359,7 +4359,7 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://es.williamenck.is/wp-content/uploads/2026/06/terrorist-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://enckhausen.github.io/es/wp-content/uploads/2026/06/terrorist-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026/06/terrorist-scaled.jpg]]></wp:meta_value>
