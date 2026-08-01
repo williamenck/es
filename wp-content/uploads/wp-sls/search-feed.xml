@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0.2" created="2026-07-31 11:43" -->
+	<!-- generator="WordPress/7.0.2" created="2026-08-01 19:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>William Enckhausen</title>
 	<link>https://es.enckhausen.com/</link>
 	<description></description>
-	<pubDate>Fri, 31 Jul 2026 11:43:38 +0000</pubDate>
+	<pubDate>Sat, 01 Aug 2026 19:35:32 +0000</pubDate>
 	<language>es</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://es.enckhausen.com/</wp:base_site_url>
@@ -3034,10 +3034,6 @@ Extracto de Un Nombre Para El Infinito</a>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[La Revolución Indígena]]></title>
@@ -4172,26 +4168,22 @@ Siempre pensé que Corea del Norte poseía la mitología política más absurda.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Dominio Nuevo]]></title>
-		<link>https://es.enckhausen.com/dominio-nuevo/</link>
-		<pubDate>Thu, 30 Jul 2026 11:32:31 +0000</pubDate>
+		<title><![CDATA[prueba]]></title>
+		<link>https://es.enckhausen.com/prueba/</link>
+		<pubDate>Sat, 01 Aug 2026 19:35:32 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
-		<guid isPermaLink="false">https://es.enckhausen.com/?p=633</guid>
+		<guid isPermaLink="false">https://es.enckhausen.com/?p=638</guid>
 		<description></description>
-		<content:encoded><![CDATA[Hace poco trasladé mi blog a un servidor en Islandia. Por razones de seguridad, también he cambiado el dominio de williamenck.art/es a es.williamenck.is, un dominio islandés protegido por la legislación islandesa. Islandia es considerada un refugio para la privacidad de los datos de activistas y denunciantes. No me considero ni activista ni denunciante, pero si ellos pueden protegerse de la censura con un servidor y un nombre de dominio islandeses, yo también puedo hacerlo.
-
-Los lectores de publicaciones anteriores saben que esta censura está relacionada con <a href="https://es.enckhausen.com/es/el-debate">algunos textos antiguos</a> que aún se encuentran en mi blog. En lugar de eliminarlos para complacer a las autoridades, he decidido simplemente trasladar mi blog y mi nombre de dominio a Islandia. Me gustan esas historias y la gente las encuentra muy divertidas.
-
-No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una función de búsqueda en el sitio, así como habilitar los comentarios en las publicaciones. Mantendré activo williamenck.art por un tiempo para que esta publicación se difunda y, luego, williamenck.art se redirigirá automáticamente a williamenck.is.]]></content:encoded>
+		<content:encoded><![CDATA[prueba]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>633</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-30 11:32:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-30 11:32:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-30 11:32:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-30 11:32:31]]></wp:post_modified_gmt>
+		<wp:post_id>638</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-01 19:35:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-01 19:35:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-01 19:35:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-01 19:35:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dominio-nuevo]]></wp:post_name>
+		<wp:post_name><![CDATA[prueba]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -4202,6 +4194,10 @@ No ha cambiado nada más en el blog. El nuevo espacio me permite incluir una fun
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
