@@ -3,12 +3,32 @@
     <title>William Enckhausen - español</title>
     <link href="https://es.enckhausen.com/feed.xml" rel="self" />
     <link href="https://es.enckhausen.com" />
-    <updated>2026-08-04T10:08:35-06:00</updated>
+    <updated>2026-08-04T10:54:18-06:00</updated>
     <author>
         <name>William Enckhausen</name>
     </author>
     <id>https://es.enckhausen.com</id>
 
+    <entry>
+        <title>williamenck.art a enckhausen.com</title>
+        <author>
+            <name>William Enckhausen</name>
+        </author>
+        <link href="https://es.enckhausen.com/williamenckart-a-enckhausencom/"/>
+        <id>https://es.enckhausen.com/williamenckart-a-enckhausencom/</id>
+
+        <updated>2026-08-04T10:54:18-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Les pido disculpas por los cambios recientes en la dirección web. Hace un tiempo que no mantengo este blog muy activo y ha estado alojado en un servidor que era difícil de encontrar y no aparecía en los motores de búsqueda. Compré un dominio, williamenck.art,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Les pido disculpas por los cambios recientes en la dirección web. Hace un tiempo que no mantengo este blog muy activo y ha estado alojado en un servidor que era difícil de encontrar y no aparecía en los motores de búsqueda. Compré un dominio, williamenck.art, para el blog.  Sin embargo, me dejé llevar por un precio bajo durante el primer año que luego se volvió muy caro. Solo quería algo sencillo y fácil de recordar, y que no fuera demasiado costoso. No quería pagar tanto por un blog filosófico aburrido sin videos, fotos ni chatarra que vender.  Por eso, encontré un dominio .com más genérico: enckhausen.com. Aunque el blog no vuelva a tener éxito, puedo conservar el dominio, ya que es muy barato y útil para que la gente lo encuentre.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>El Culto De Ananda Marga Y La Sombra Del Guru</title>
         <author>
