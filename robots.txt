@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://williamenck.is/es/sitemap.xml
+Sitemap: https://es.williamenck.is/sitemap.xml
