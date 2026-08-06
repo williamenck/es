@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0.2" created="2026-08-06 16:05" -->
+	<!-- generator="WordPress/7.0.2" created="2026-08-06 19:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>William Enckhausen</title>
 	<link>https://es.enckhausen.com/</link>
 	<description></description>
-	<pubDate>Thu, 06 Aug 2026 16:05:02 +0000</pubDate>
+	<pubDate>Thu, 06 Aug 2026 19:00:37 +0000</pubDate>
 	<language>es</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://es.enckhausen.com/</wp:base_site_url>
@@ -1783,7 +1783,7 @@ Más tarde, ese hombre se acercó a mí y me preguntó si yo era “Geronimo” 
 
 Ahora, 20 años después, personas de todo el mundo se habían reunido para celebrar el espíritu continuo de la revolución. Aunque hubo una presencia de seguridad militar por parte de los propios zapatistas, no había armas y el ambiente no era militante. Lo que más me sorprendió fue que realmente había una vibración espiritual calmante y muy sana. Las personas que viven cerca de la tierra y la respetan, y que también han hecho grandes sacrificios para proteger esta base de la cultura humana han sido bendecidas con un poco de ayuda de las fuerzas invisibles del dharma. Sigo leyendo su literatura, especialmente las comunicaciones de ezln, pero el mensaje es tan lúcido que tengo que hacerlo lentamente porque el impacto es tan intenso en mi mente. Su discurso es realmente sobre las cuestiones humanas más fundamentales de la justicia, la equidad, y la dignidad. Es una gran filosofía humanista que es el resultado de 500 años de sufrimiento y terror. Sus ideales humanos se extienden mucho más allá de los pueblos indígenas de Chiapas y nos enseñan un poco sobre la naturaleza de la humanidad universal. Cada vez que aprendo algo más, tengo una mayor respeto por estas personas valientes que han soportado 500 años de explotación y los sufrimientos más terribles han conseguido lograr algo tan grande. Para mí, no es algo académico o un pasatiempo intelectual.
 
-Ahora que mi propia comunidad en el norte de Mexico ha pasado a través de un terrible genocidio y he visto terror y muerte que veo la revolución indígena como un descenso en el abismo para encontrar la verdad fundamental humano.  Como escribí en <a href="https://es.enckhausen.com/es/un-requiem/">"Un Réquiem"</a> sobre cómo unos amigos zapatistas vinieron a ayudarme cuando nuestro rancho estaba rodeado por el narco culto de la Santa Muerte. Lo enviaron a investigar las afirmaciones que yo había hecho en mis escritos y también fue mi enlace con el Consejo Nacional Indígena y compartió conmigo sus ideas y actividades. Solían llamarme Gerónimo por la postura que tomé contra los narcos.
+Ahora que mi propia comunidad en el norte de Mexico ha pasado a través de un terrible genocidio y he visto terror y muerte que veo la revolución indígena como un descenso en el abismo para encontrar la verdad fundamental humano.  Como escribí en <a href="https://es.enckhausen.com/un-requiem/">"Un Réquiem"</a> sobre cómo unos amigos zapatistas vinieron a ayudarme cuando nuestro rancho estaba rodeado por el narco culto de la Santa Muerte. Lo enviaron a investigar las afirmaciones que yo había hecho en mis escritos y también fue mi enlace con el Consejo Nacional Indígena y compartió conmigo sus ideas y actividades. Solían llamarme Gerónimo por la postura que tomé contra los narcos.
 
 Hice amigo con mi enlace, Jacinto. Era un indígena muy amable, gentil y con mucha sabiduría. También fue un revolucionario muy heroico.Sucedían cosas terribles a nuestro alrededor, pero tuvimos largas conversaciones sobre espiritualidad y cuestiones sociales y políticas. Compartimos comidas y él me ayudó con unas construcciones de bahareque y adobe en las que estaba trabajando. Fue una gran sorpresa ver que también era un experto ecoconstructor, lo que para él era simplemente saber construir como siempre lo habían hecho sus antepasados. Tenía una cualidad muy valiente. Ayudó a los indígenas a recuperar sus tierras de manos de quienes les habían robado. Había sido enviado a prisión y torturado en varias ocasiones. Me dijo que hace apenas un mes la policía le había arrancado un diente. Me dijo esto mientras se reía con el corazón alegre.
 
@@ -1798,8 +1798,8 @@ Los Zetas y su narco gobierno local sabían que estábamos allí. Fue un enfrent
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2025-08-05 11:15:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-08-05 11:15:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-06 00:41:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-06 00:41:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-06 19:00:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-06 19:00:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[la-revolucion-indigena]]></wp:post_name>
@@ -1841,6 +1841,10 @@ Los Zetas y su narco gobierno local sabían que estábamos allí. Fue un enfrent
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026-08-05]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3387,10 +3391,6 @@ Los efectos de la iniciación fueron muy marcados. Me di cuenta de que el consum
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026-06-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
