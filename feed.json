@@ -576,14 +576,14 @@
             "url": "https://es.williamenck.me/contactar-suscribir/",
             "title": "Contactar",
             "summary": "Mi correo electrónico es williamenck@ik.me. Puede envíarme un correo electrónico para inscribirte en la lista de correo electrónico para recibir noticias de publicaciones nuevas. Comentarios",
-            "content_html": "<p>Mi correo electrónico es <a href=\"mailto:williamenck@ik.me\">williamenck@ik.me</a>.  Puede envíarme un correo electrónico para inscribirte en la lista de correo electrónico para recibir noticias de publicaciones nuevas.</p>\n<p><strong>Comentarios</strong></p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "content_html": "<p>Mi correo electrónico es <a href=\"mailto:williamenck@ik.me\">williamenck@ik.me</a>.  Puede envíarme un correo electrónico para inscribirte en la lista de correo electrónico para recibir noticias de publicaciones nuevas.</p>\n<p> </p>\n<p><strong>Comentarios</strong></p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "William Enckhausen"
             },
             "tags": [
             ],
             "date_published": "2025-02-09T01:18:00-06:00",
-            "date_modified": "2026-08-09T13:31:24-06:00"
+            "date_modified": "2026-08-10T06:49:17-06:00"
         },
         {
             "id": "https://es.williamenck.me/la-sombra-del-guru/",
