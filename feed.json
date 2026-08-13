@@ -542,15 +542,15 @@
             "id": "https://es.williamenck.me/contactar-suscribir/",
             "url": "https://es.williamenck.me/contactar-suscribir/",
             "title": "Contactar",
-            "summary": "Mi correo electrónico es william@williamenck.me. Puede envíarme un correo electrónico para inscribirte en la lista de correo electrónico para recibir noticias de publicaciones nuevas.",
-            "content_html": "<p>Mi correo electrónico es <a href=\"mailto:william@williamenck.me\">william@williamenck.me</a>.  Puede envíarme un correo electrónico para inscribirte en la lista de correo electrónico para recibir noticias de publicaciones nuevas.</p>\r\n<p> </p>\r\n<p><strong>  </strong></p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>",
+            "summary": "Este blog respeta tu privacidad. No hay rastreadores de big data ni formularios de registro automáticos. Puedes seguir el blog de forma anónima mediante un complemento de lector de feeds para tu navegador, como Feedbro. Solo tienes que configurar el complemento para seguir williamenck.me. Feedbro&hellip;",
+            "content_html": "<p>Este blog respeta tu privacidad. No hay rastreadores de big data ni formularios de registro automáticos. Puedes seguir el blog de forma anónima mediante un complemento de lector de feeds para tu navegador, como <strong><a href=\"https://nodetics.com/feedbro/\">Feedbro</a></strong>. Solo tienes que configurar el complemento para seguir williamenck.me. <strong><a href=\"https://nodetics.com/feedbro/\">Feedbro</a></strong> está diseñado principalmente para navegadores de escritorio, por lo que los lectores que busquen una aplicación móvil específica tal vez prefieran una alternativa como <strong>NetNewsWire</strong> (para dispositivos Apple) o <strong>Feeder </strong>(para Android).</p>\n<p>Mi correo electrónico es <a href=\"mailto:william@williamenck.me\">william@williamenck.me</a>.  Puede envíarme un correo electrónico para inscribirte en la lista de correo electrónico para recibir noticias de publicaciones nuevas.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "William Enckhausen"
             },
             "tags": [
             ],
             "date_published": "2025-02-09T01:18:00-06:00",
-            "date_modified": "2026-08-12T14:40:50-06:00"
+            "date_modified": "2026-08-13T14:04:26-06:00"
         },
         {
             "id": "https://es.williamenck.me/la-sombra-del-guru/",
