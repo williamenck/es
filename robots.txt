@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://es.willenck.org/sitemap.xml
+Sitemap: https://es.enckhausen.com/sitemap.xml
